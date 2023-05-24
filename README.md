@@ -22,10 +22,12 @@ Once document citation is obtained, its DOI is used as a unique key for the docu
 * CMR: JSON files of dataset collectuon metadata obtained using [CMR API](https://cmr.earthdata.nasa.gov/search/site/docs/search/api.html).
 * data: output files
   + gscholar_search_terms.json - contains metadata search terms per ESDT, it is output of create_gscholar_search_terms.py
-  + google_organic_results.json - output of either or gscholar_pull_by_doi.py or gscholar_pull_by_esdt.py. It contains a list of Google Scholar search results each mapped to either dataset DOI or ESDT
-  + google_organic_citations.json - output of gscholar_organic_citations.py
+  + google_organic_results_by_doi.json - output of gscholar_search_by_doi.py. It contains a list of Google Scholar search results each mapped to dataset DOI
+  + google_organic_results_by_esdt.json - output of gscholar_search_by_esdt.py. It contains a list of Google Scholar search results each mapped to dataset ESDT
+  + google_citations_by_doi.json - output of gscholar_citations.py
+  + google_citations_by_esdt.json - output of gscholar_citations.py
 * csv:
-  + doi2esdt.csv - contains mapping of dataset DOI to its ESDT name, e.g. 10.5067/UO3Q64CTTS1U | AIRS3STD
+  + doi2esdt.csv - contains mapping of dataset DOI to its ESDT name, e.g. 10.5067/UO3Q64CTTS1U, AIRS3STD
   + key.txt - contains SerpAPI key
 
 ## Tool execution sequence:
@@ -38,14 +40,20 @@ python create_gscholar_search_terms.py
 ```
 
 ### Search Google Scholar by dataset DOI
-Expects csv files in csv/ directory with mapping of dataset DOI to its ESDT name, e.g. 10.5067/UO3Q64CTTS1U | AIRS3STD. Executes the search by each dataset DOI and outputs results into data/google_organic_results.json. Needs SerpAPI key stored in the file csv/key.txt.
+Input is csv/doi2esdt.csv containing mapping of dataset DOI to its ESDT name, e.g. 10.5067/UO3Q64CTTS1U, AIRS3STD. Executes the search by each dataset DOI and outputs results into data/google_organic_results_by_doi.json. Needs SerpAPI key stored in the file csv/key.txt.
 
 ```
 python gscholar_search_by_doi.py
 ```
 
-### Search Google Scholar by dataset keywords
-Takes as input data/gscholar_search_terms.json and outputs results into data/google_organic_results.json
+### Search Google Scholar by dataset ESDT and keywords
+Takes as input data/gscholar_search_terms.json and outputs results into data/google_organic_results_by_esdt.json
 ```
 python gscholar_search_by_esdt.py
 ```
+### Process Google Scholar results to combine results with the same URL, exclude PDFs and pre-prints, and determine document DOI from URL, when possible
+Takes as input data/google_organic_results_by_doi.json or data/google_organic_results_by_esdt.json and outputs data/google_citations_by_doi.json or data/google_citations_by_esdt.json
+```
+python gscholar_citations.py
+```
+### 
