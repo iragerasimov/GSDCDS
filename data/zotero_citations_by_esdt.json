@@ -1,0 +1,3391 @@
+[
+    {
+        "result_id": [
+            "wp_xQVaJYb4J"
+        ],
+        "URL": [
+            "https://acp.copernicus.org/articles/20/203/2020/"
+        ],
+        "pub_doi": "10.5194/ACP-20-203-2020",
+        "author": "H Han",
+        "year": "2020",
+        "title": "Local and synoptic meteorological influences on daily variability in summertime surface ozone in eastern China",
+        "zotero": {
+            "key": "HADYQVSR",
+            "version": 0,
+            "itemType": "journalArticle",
+            "creators": [
+                {
+                    "firstName": "Han",
+                    "lastName": "Han",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Jane",
+                    "lastName": "Liu",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Lei",
+                    "lastName": "Shu",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Tijian",
+                    "lastName": "Wang",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Huiling",
+                    "lastName": "Yuan",
+                    "creatorType": "author"
+                }
+            ],
+            "tags": [],
+            "publicationTitle": "Atmospheric Chemistry and Physics",
+            "journalAbbreviation": "Atmos. Chem. Phys.",
+            "volume": "20",
+            "issue": "1",
+            "abstractNote": "Abstract. Ozone pollution in China is influenced by meteorological processes on\nmultiple scales. Using regression analysis and weather classification, we\nstatistically assess the impacts of local and synoptic meteorology on daily\nvariability in surface ozone in eastern China in summer during 2013\u20132018. In\nthis period, summertime surface ozone in eastern China (20\u201342\u2218\u2009N, 110\u2013130\u2218\u2009E) is among the highest in the world, with regional means of 73.1\nand 114.7\u2009\u00b5g\u2009m\u22123, respectively, in daily mean and daily maximum\n8\u2009h average. Through developing a multiple linear regression (MLR) model\ndriven by local and synoptic weather factors, we establish a quantitative\nlinkage between the daily mean ozone concentrations and meteorology in the\nstudy region. The meteorology described by the MLR can explain\n\u223c43\u2009% of the daily variability in summertime surface ozone\nacross eastern China. Among local meteorological factors, relative humidity\nis the most influential variable in the center and south of eastern China,\nincluding the Yangtze River Delta and the Pearl River Delta regions, while\ntemperature is the most influential variable in the north, covering the\nBeijing\u2013Tianjin\u2013Hebei region. To further examine the synoptic influence of\nweather conditions explicitly, six predominant synoptic weather patterns\n(SWPs) over eastern China in summer are objectively identified using the\nself-organizing map clustering technique. The six SWPs are formed under the\nintegral influence of the East Asian summer monsoon, the western Pacific\nsubtropical high, the Meiyu front, and the typhoon activities. On average,\nregionally, two SWPs bring about positive ozone anomalies (1.1\u2009\u00b5g\u2009m\u22123\nor 1.7\u2009% and 2.7\u2009\u00b5g\u2009m\u22123 or 4.6\u2009%), when eastern China is under a weak cyclone system or under the prevailing\nsoutherly wind. The impact of SWPs on the daily variability in surface ozone\nvaries largely within eastern China. The maximum impact can reach \u00b18\u2009\u00b5g\u2009m\u22123 or \u00b116\u2009% of the daily mean in some areas. A combination of the regression and the clustering approaches suggests a strong performance of the MLR in predicting the sensitivity of surface ozone in eastern China to the variation of synoptic weather. Our assessment highlights the importance of meteorology in modulating ozone pollution over China.",
+            "language": "en",
+            "ISSN": "1680-7324",
+            "date": "2020-01-06",
+            "pages": "203-222",
+            "DOI": "10.5194/acp-20-203-2020",
+            "url": "https://acp.copernicus.org/articles/20/203/2020/",
+            "title": "Local and synoptic meteorological influences on daily variability in summertime surface ozone in eastern China",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "accessDate": "2023-05-24T18:40:53Z"
+        },
+        "ESDTs": [
+            "AIRS3STD"
+        ],
+        "Type": "journal-article"
+    },
+    {
+        "result_id": [
+            "TzYGJDM0BMMJ"
+        ],
+        "URL": [
+            "https://amt.copernicus.org/articles/8/4025/2015/"
+        ],
+        "pub_doi": "10.5194/AMT-8-4025-2015",
+        "author": "HJ Kang",
+        "year": "2015",
+        "title": "Uncertainties of satellite-derived surface skin temperatures in the polar oceans: MODIS, AIRS/AMSU, and AIRS only",
+        "zotero": {
+            "key": "VBV4CWC8",
+            "version": 0,
+            "itemType": "journalArticle",
+            "creators": [
+                {
+                    "firstName": "H.-J.",
+                    "lastName": "Kang",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "J.-M.",
+                    "lastName": "Yoo",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "M.-J.",
+                    "lastName": "Jeong",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Y.-I.",
+                    "lastName": "Won",
+                    "creatorType": "author"
+                }
+            ],
+            "tags": [],
+            "publicationTitle": "Atmospheric Measurement Techniques",
+            "journalAbbreviation": "Atmos. Meas. Tech.",
+            "volume": "8",
+            "issue": "10",
+            "abstractNote": "Abstract. Uncertainties in the satellite-derived surface skin temperature (SST) data in the polar oceans during two periods (16\u201324 April and 15\u201323 September) 2003\u20132014 were investigated and the three data sets were intercompared as follows: MODerate Resolution Imaging Spectroradiometer Ice Surface Temperature (MODIS IST), the SST of the Atmospheric Infrared Sounder/Advanced Microwave Sounding Unit-A (AIRS/AMSU), and AIRS only. The AIRS only algorithm was developed in preparation for the degradation of the AMSU-A. MODIS IST was systematically warmer up to 1.65 K at the sea ice boundary and colder down to \u22122.04 K in the polar sea ice regions of both the Arctic and Antarctic than that of the AIRS/AMSU. This difference in the results could have been caused by the surface classification method. The spatial correlation coefficient of the AIRS only to the AIRS/AMSU (0.992\u20130.999) method was greater than that of the MODIS IST to the AIRS/AMSU (0.968\u20130.994). The SST of the AIRS only compared to that of the AIRS/AMSU had a bias of 0.168 K with a RMSE of 0.590 K over the Northern Hemisphere high latitudes and a bias of \u22120.109 K with a RMSE of 0.852 K over the Southern Hemisphere high latitudes. There was a systematic disagreement between the AIRS retrievals at the boundary of the sea ice, because the AIRS only algorithm utilized a less accurate GCM forecast over the seasonally varying frozen oceans than the microwave data. The three data sets (MODIS, AIRS/AMSU and AIRS only) showed significant warming rates (2.3 \u00b1 1.7 ~ 2.8 \u00b1 1.9 K decade\u22121) in the northern high regions (70\u201380\u00b0 N) as expected from the ice-albedo feedback. The systematic temperature disagreement associated with surface type classification had an impact on the resulting temperature trends.",
+            "language": "en",
+            "ISSN": "1867-8548",
+            "date": "2015-10-02",
+            "pages": "4025-4041",
+            "DOI": "10.5194/amt-8-4025-2015",
+            "url": "https://amt.copernicus.org/articles/8/4025/2015/",
+            "title": "Uncertainties of satellite-derived surface skin temperatures in the polar oceans: MODIS, AIRS/AMSU, and AIRS only",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "accessDate": "2023-05-24T18:36:34Z",
+            "shortTitle": "Uncertainties of satellite-derived surface skin temperatures in the polar oceans"
+        },
+        "ESDTs": [
+            "AIRS3STD"
+        ],
+        "Type": "journal-article"
+    },
+    {
+        "result_id": [
+            "2Ys0kcKcpYUJ"
+        ],
+        "URL": [
+            "https://www.sciencedirect.com/science/article/pii/S0048969721035907"
+        ],
+        "pub_doi": "10.1016/J.SCITOTENV.2021.148518",
+        "author": "RR Kumar",
+        "year": "2021",
+        "title": "Comparison of INSAT-3D retrieved total column ozone with ground-based and AIRS observations over India",
+        "zotero": {
+            "key": "3MUHL3J4",
+            "version": 0,
+            "itemType": "journalArticle",
+            "creators": [
+                {
+                    "firstName": "Ravi Ranjan",
+                    "lastName": "Kumar",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Koteswara Rao",
+                    "lastName": "Vankayalapati",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "V. K.",
+                    "lastName": "Soni",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Hari Prasad",
+                    "lastName": "Dasari",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "M. K.",
+                    "lastName": "Jain",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Arpit",
+                    "lastName": "Tiwari",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "R. K.",
+                    "lastName": "Giri",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Srinivas",
+                    "lastName": "Desamsetti",
+                    "creatorType": "author"
+                }
+            ],
+            "tags": [
+                {
+                    "tag": "Validation",
+                    "type": 1
+                },
+                {
+                    "tag": "INSAT-3D",
+                    "type": 1
+                },
+                {
+                    "tag": "AIRS",
+                    "type": 1
+                },
+                {
+                    "tag": "Dobson spectrophotometer",
+                    "type": 1
+                },
+                {
+                    "tag": "Total column ozone",
+                    "type": 1
+                }
+            ],
+            "pages": "148518",
+            "date": "2021-11-01",
+            "ISSN": "0048-9697",
+            "DOI": "10.1016/j.scitotenv.2021.148518",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0048969721035907",
+            "abstractNote": "Ozone plays an important role in the thermal structure and chemical composition of the atmosphere. The present study compares the temporal and spatial distributions of Total Column Ozone (TCO) over the Indian sub-continent retrieved from a geostationary Indian National Satellite (INSAT-3D) and Atmospheric Infrared Sounder (AIRS). The INSAT-3D TCO values are also evaluated against the Dobson spectrophotometer observations at two locations. The inter-comparison results reveal a good correlation of 0.8, the bias of \u22125 DU, and Root Mean Square Error (RMSE) of 15 DU approximately between the TCO retrieved from INSAT-3D and AIRS. The lowest RMSE and highest correlation coefficient were found in the pre-monsoon season. The INSAT-3D and AIRS show reasonable agreement with the RMSE varying between 10 and 30 DU. On the other hand, evaluation of the INSAT-3D TCO with the ground-based observations from Dobson spectrophotometers located at New Delhi and Varanasi showed fair agreement with a maximum monthly mean correlation coefficient of 0.68 and 0.76, respectively, and RMSE varying from 11 to 16 DU for both the stations. The seasonal distribution of TCO and its variation over the Indian region has also been studied using INSAT-3D and AIRS data. The analysis exhibits strong seasonal variations, with higher values in pre-monsoon season and minimum values in winter season. The noticeable seasonal variability of TCO can be attributed to complex combination of photochemical and dynamical processes in the troposphere and stratosphere. The main objectives of the study are to compare the INSAT-3D TCO with two independent ground-based Dobson spectrophotometer observations and Atmospheric Infrared Sounder (AIRS) aboard NASA's Aqua satellite.",
+            "title": "Comparison of INSAT-3D retrieved total column ozone with ground-based and AIRS observations over India",
+            "journalAbbreviation": "Science of The Total Environment",
+            "volume": "793",
+            "publicationTitle": "Science of The Total Environment",
+            "language": "en",
+            "libraryCatalog": "ScienceDirect",
+            "accessDate": "2023-05-24T18:34:09Z"
+        },
+        "ESDTs": [
+            "AIRS3STD"
+        ],
+        "Type": "journal-article"
+    },
+    {
+        "result_id": [
+            "qEzLImCrH2IJ"
+        ],
+        "URL": [
+            "https://www.mdpi.com/1660-4601/19/16/10388"
+        ],
+        "pub_doi": "10.3390/IJERPH191610388",
+        "author": "MS Islam",
+        "year": "2022",
+        "title": "Heat wave and bushfire meteorology in New South Wales, Australia: air quality and health impacts",
+        "zotero": {
+            "key": "ILADJ4YX",
+            "version": 0,
+            "itemType": "journalArticle",
+            "creators": [
+                {
+                    "firstName": "Mohammad S.",
+                    "lastName": "Islam",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Tianxin",
+                    "lastName": "Fang",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Callum",
+                    "lastName": "Oldfield",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Puchanee",
+                    "lastName": "Larpruenrudee",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Hamidreza Mortazavy",
+                    "lastName": "Beni",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Md M.",
+                    "lastName": "Rahman",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Shahid",
+                    "lastName": "Husain",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Yuantong",
+                    "lastName": "Gu",
+                    "creatorType": "author"
+                }
+            ],
+            "tags": [
+                {
+                    "tag": "heat wave",
+                    "type": 1
+                },
+                {
+                    "tag": "bushfire",
+                    "type": 1
+                },
+                {
+                    "tag": "PM<sub>10</sub>",
+                    "type": 1
+                },
+                {
+                    "tag": "PM<sub>2.5</sub>",
+                    "type": 1
+                },
+                {
+                    "tag": "health impacts",
+                    "type": 1
+                }
+            ],
+            "title": "Heat Wave and Bushfire Meteorology in New South Wales, Australia: Air Quality and Health Impacts",
+            "publicationTitle": "International Journal of Environmental Research and Public Health",
+            "rights": "http://creativecommons.org/licenses/by/3.0/",
+            "volume": "19",
+            "issue": "16",
+            "pages": "10388",
+            "date": "2022/1",
+            "DOI": "10.3390/ijerph191610388",
+            "ISSN": "1660-4601",
+            "url": "https://www.mdpi.com/1660-4601/19/16/10388",
+            "abstractNote": "The depletion of air quality is a major problem that is faced around the globe. In Australia, the pollutants emitted by bushfires play an important role in making the air polluted. These pollutants in the air result in many adverse impacts on the environment. This paper analysed the air pollution from the bushfires from November 2019 to July 2020 and identified how it affects the human respiratory system. The bush fires burnt over 13 million hectares, destroying over 2400 buildings. While these immediate effects were devastating, the long-term effects were just as devastating, with air pollution causing thousands of people to be admitted to hospitals and emergency departments because of respiratory complications. The pollutant that caused most of the health effects throughout Australia was Particulate Matter (PM) PM2.5 and PM10. Data collection and analysis were covered in this paper to illustrate where and when PM2.5 and PM10, and other pollutants were at their most concerning levels. Susceptible areas were identified by analysing environmental factors such as temperature and wind speed. The study identified how these pollutants in the air vary from region to region in the same time interval. This study also focused on how these pollutant distributions vary according to the temperature, which helps to determine the relationship between the heatwave and air quality. A computational model for PM2.5 aerosol transport to the realistic airways was also developed to understand the bushfire exhaust aerosol transport and deposition in airways. This study would improve the knowledge of the heat wave and bushfire meteorology and corresponding respiratory health impacts.",
+            "language": "en",
+            "libraryCatalog": "www.mdpi.com",
+            "accessDate": "2023-05-24T18:34:22Z",
+            "shortTitle": "Heat Wave and Bushfire Meteorology in New South Wales, Australia"
+        },
+        "ESDTs": [
+            "AIRS3STD"
+        ],
+        "Type": "journal-article"
+    },
+    {
+        "result_id": [
+            "DyLM5aC6UGgJ"
+        ],
+        "URL": [
+            "https://journals.ametsoc.org/view/journals/apme/57/4/jamc-d-17-0213.1.xml?tab_body=fulltext-display"
+        ],
+        "pub_doi": "10.1175/JAMC-D-17-0213.1",
+        "author": "S Prakash",
+        "year": "2018",
+        "title": "Estimation of consistent global microwave land surface emissivity from AMSR-E and AMSR2 observations",
+        "zotero": {
+            "key": "PVXFYYN5",
+            "version": 0,
+            "itemType": "journalArticle",
+            "creators": [
+                {
+                    "firstName": "Satya",
+                    "lastName": "Prakash",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Hamid",
+                    "lastName": "Norouzi",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Marzi",
+                    "lastName": "Azarderakhsh",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Reginald",
+                    "lastName": "Blake",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Catherine",
+                    "lastName": "Prigent",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Reza",
+                    "lastName": "Khanbilvardi",
+                    "creatorType": "author"
+                }
+            ],
+            "tags": [],
+            "title": "Estimation of Consistent Global Microwave Land Surface Emissivity from AMSR-E and AMSR2 Observations",
+            "date": "2018/04/01",
+            "DOI": "10.1175/JAMC-D-17-0213.1",
+            "url": "https://journals.ametsoc.org/view/journals/apme/57/4/jamc-d-17-0213.1.xml",
+            "abstractNote": "Abstract Accurate estimation of passive microwave land surface emissivity (LSE) is crucial for numerical weather prediction model data assimilation, for microwave retrievals of land precipitation and atmospheric profiles, and for a better understanding of land surface and subsurface characteristics. In this study, global instantaneous LSE is estimated for a 9-yr period from the Advanced Microwave Scanning Radiometer for Earth Observing System (AMSR-E) and for a 5-yr period from the Advanced Microwave Scanning Radiometer 2 (AMSR2) sensors. Estimates of LSE from both sensors were obtained by using an updated algorithm that minimizes the discrepancy between the differences in penetration depths from microwave and infrared remote sensing observations. Concurrent ancillary datasets such as skin temperature from the Moderate Resolution Imaging Spectroradiometer (MODIS) and profiles of air temperature and humidity from the Atmospheric Infrared Sounder are used. The latest collection 6 of MODIS skin temperature is used for the LSE estimation, and the differences between collections 6 and 5 are also comprehensively assessed. Analyses reveal that the differences between these two versions of infrared-based skin temperatures could lead to approximately a 0.015 difference in passive microwave LSE values, especially in arid regions. The comparison of global mean LSE features from the combined use of AMSR-E and AMSR2 with an independent product\u2014Tool to Estimate Land Surface Emissivity from Microwave to Submillimeter Waves (TELSEM2)\u2014shows spatial pattern correlations of order 0.92 at all frequencies. However, there are considerable differences in magnitude between these two LSE estimates, possibly because of differences in incidence angles, frequencies, observation times, and ancillary datasets.",
+            "publicationTitle": "Journal of Applied Meteorology and Climatology",
+            "volume": "57",
+            "issue": "4",
+            "language": "EN",
+            "pages": "907-919",
+            "ISSN": "1558-8424, 1558-8432",
+            "libraryCatalog": "journals.ametsoc.org",
+            "accessDate": "2023-05-24T18:38:49Z"
+        },
+        "ESDTs": [
+            "AIRS3STD"
+        ],
+        "Type": "journal-article"
+    },
+    {
+        "result_id": [
+            "2Y31sDXFMQ8J"
+        ],
+        "URL": [
+            "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11366/1136609/Photovoltaic-energy-yield-predictions-using-satellite-data/10.1117/12.2557375.short"
+        ],
+        "pub_doi": "10.1117/12.2557375",
+        "author": "IM Peters",
+        "year": "2020",
+        "title": "Photovoltaic energy yield predictions using satellite data",
+        "zotero": {
+            "key": "DJLHT6CC",
+            "version": 0,
+            "itemType": "conferencePaper",
+            "creators": [
+                {
+                    "firstName": "Ian Marius",
+                    "lastName": "Peters",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Haohui",
+                    "lastName": "Liu",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Tonio",
+                    "lastName": "Buonassisi",
+                    "creatorType": "author"
+                }
+            ],
+            "tags": [],
+            "title": "Photovoltaic energy yield predictions using satellite data",
+            "url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11366/1136609/Photovoltaic-energy-yield-predictions-using-satellite-data/10.1117/12.2557375.full",
+            "abstractNote": "Energy yield is a key metric for evaluating the performance of photovoltaic systems. It describes the total amount of energy generated by a photovoltaic (PV) installation over a given period, typically a year, and depends on physical properties of the solar cell like efficiency, band gap and temperature coefficient, as well as the operating conditions in a given location. Because the response of a solar cell to these conditions varies, two photovoltaic technologies may have a different energy yield, even if their lab efficiency is identical. Predicting energy yield accurately is important to system operators and installers to estimate the technical and economic performance of a PV installation. In this paper, we summarize our findings about satellite based energy yield predictions of solar cells with various technologies.",
+            "date": "2020/04/01",
+            "proceedingsTitle": "Photonics for Solar Energy Systems VIII",
+            "volume": "11366",
+            "conferenceName": "Photonics for Solar Energy Systems VIII",
+            "publisher": "SPIE",
+            "DOI": "10.1117/12.2557375",
+            "pages": "1136609",
+            "libraryCatalog": "www.spiedigitallibrary.org",
+            "accessDate": "2023-05-24T18:47:26Z"
+        },
+        "ESDTs": [
+            "AIRS3STD"
+        ],
+        "Type": "proceedings-article"
+    },
+    {
+        "result_id": [
+            "LJLkaNQHAaQJ"
+        ],
+        "URL": [
+            "https://acp.copernicus.org/articles/23/4595/2023/"
+        ],
+        "pub_doi": "10.5194/ACP-23-4595-2023",
+        "author": "R Herbert",
+        "year": "2023",
+        "title": "Satellite observations of smoke\u2013cloud\u2013radiation interactions over the Amazon rainforest",
+        "zotero": {
+            "key": "KL9RDI53",
+            "version": 0,
+            "itemType": "journalArticle",
+            "creators": [
+                {
+                    "firstName": "Ross",
+                    "lastName": "Herbert",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Philip",
+                    "lastName": "Stier",
+                    "creatorType": "author"
+                }
+            ],
+            "tags": [],
+            "publicationTitle": "Atmospheric Chemistry and Physics",
+            "journalAbbreviation": "Atmos. Chem. Phys.",
+            "volume": "23",
+            "issue": "7",
+            "abstractNote": "Abstract. The Amazon rainforest routinely experiences intense and long-lived biomass\nburning events that result in smoke plumes that cover vast regions. The\nspatial and temporal extent of the plumes and the complex pathways through\nwhich they interact with the atmosphere have proved challenging to measure\nfor purposes of gaining a representative understanding of smoke impacts on the Amazonian\natmosphere. In this study, we use multiple collocated satellite sensors\non board AQUA and TERRA platforms to study the underlying\nsmoke\u2013cloud\u2013radiation interactions during the diurnal cycle. An 18-year\ntime series for both morning and afternoon overpasses is constructed,\nproviding collocated measurements of aerosol optical depth (AOD; column-integrated aerosol extinction), cloud properties, top-of-atmosphere\nradiative fluxes, precipitation, and column water vapour content from\nindependent sources. The long-term time series reduces the impact of interannual variability and\nprovides robust evidence that smoke significantly modifies the Amazonian\natmosphere. Low loadings of smoke (AOD\u2009\u2264\u20090.4) enhance convective\nactivity, cloudiness, and precipitation, but higher loadings (AOD\u2009>\u20090.4) strongly suppress afternoon convection and promote\nlow-level cloud occurrence. Accumulated precipitation increases with\nconvective activity but remains elevated under high smoke loadings,\nsuggesting fewer but more intense convective cells. Contrasting morning and\nafternoon cloud responses to smoke are observed, in line with recent\nsimulations. Observations of top-of-atmosphere radiative fluxes support the\nfindings and show that the response of low-level cloud properties and\ncirrus coverage to smoke results in a pronounced and consistent increase in\ntop-of-atmosphere outgoing radiation (cooling) of up to 50\u2009W\u2009m\u22122 for an AOD perturbation of +1.0. The results demonstrate that smoke strongly modifies the atmosphere over the Amazon via widespread changes to the cloud field properties. Rapid\nadjustments work alongside instantaneous radiative effects to drive a\nstronger cooling effect from smoke than previously thought, whilst\ncontrasting morning and afternoon responses of liquid and ice water paths\nhighlight a potential method for constraining aerosol impacts on climate.\nIncreased drought susceptibility, land use change, and deforestation will\nhave important and widespread impacts on the region over the coming decades.\nBased on this analysis, we anticipate that further increases in anthropogenic\nfire activity will associated with an overall reduction in regional\nprecipitation and a negative forcing (cooling) on the Earth's energy\nbudget.",
+            "language": "en",
+            "ISSN": "1680-7324",
+            "date": "2023-04-17",
+            "pages": "4595-4616",
+            "DOI": "10.5194/acp-23-4595-2023",
+            "url": "https://acp.copernicus.org/articles/23/4595/2023/",
+            "title": "Satellite observations of smoke\u2013cloud\u2013radiation interactions over the Amazon rainforest",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "accessDate": "2023-05-24T18:47:03Z"
+        },
+        "ESDTs": [
+            "AIRS3STD"
+        ],
+        "Type": "journal-article"
+    },
+    {
+        "result_id": [
+            "cZFQHse-QW0J"
+        ],
+        "URL": [
+            "https://bg.copernicus.org/articles/14/4101/2017/"
+        ],
+        "pub_doi": "10.5194/BG-14-4101-2017",
+        "author": "SH Alemohammad",
+        "year": "2017",
+        "title": "Water, Energy, and Carbon with Artificial Neural Networks (WECANN): a statistically based estimate of global surface turbulent fluxes and gross primary productivity \u2026",
+        "zotero": {
+            "key": "IJHVB3ZH",
+            "version": 0,
+            "itemType": "journalArticle",
+            "creators": [
+                {
+                    "firstName": "Seyed Hamed",
+                    "lastName": "Alemohammad",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Bin",
+                    "lastName": "Fang",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Alexandra G.",
+                    "lastName": "Konings",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Filipe",
+                    "lastName": "Aires",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Julia K.",
+                    "lastName": "Green",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Jana",
+                    "lastName": "Kolassa",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Diego",
+                    "lastName": "Miralles",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Catherine",
+                    "lastName": "Prigent",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Pierre",
+                    "lastName": "Gentine",
+                    "creatorType": "author"
+                }
+            ],
+            "tags": [],
+            "publicationTitle": "Biogeosciences",
+            "journalAbbreviation": "Biogeosciences",
+            "volume": "14",
+            "issue": "18",
+            "abstractNote": "Abstract. A new global estimate of surface turbulent fluxes, latent heat flux (LE) and sensible heat flux (H), and gross primary production (GPP) is developed using a machine learning approach informed by novel remotely sensed solar-induced fluorescence (SIF) and other radiative and meteorological variables. This is the first study to jointly retrieve LE, H, and GPP using SIF observations. The approach uses an artificial neural network (ANN) with a target dataset generated from three independent data sources, weighted based on a triple collocation (TC) algorithm. The new retrieval, named Water, Energy, and Carbon with Artificial Neural Networks (WECANN), provides estimates of LE, H, and GPP from 2007 to 2015 at 1\u00b0\u202f\u2009\u00d7\u2009\u202f1\u00b0 spatial resolution and at monthly time resolution. The quality of ANN training is assessed using the target data, and the WECANN retrievals are evaluated using eddy covariance tower estimates from the FLUXNET network across various climates and conditions. When compared to eddy covariance estimates, WECANN typically outperforms other products, particularly for sensible and latent heat fluxes. Analyzing WECANN retrievals across three extreme drought and heat wave events demonstrates the capability of the retrievals to capture the extent of these events. Uncertainty estimates of the retrievals are analyzed and the interannual variability in average global and regional fluxes shows the impact of distinct climatic events \u2013 such as the 2015 El Ni\u00f1o \u2013 on surface turbulent fluxes and GPP.",
+            "language": "en",
+            "ISSN": "1726-4189",
+            "date": "2017-09-20",
+            "pages": "4101-4124",
+            "DOI": "10.5194/bg-14-4101-2017",
+            "url": "https://bg.copernicus.org/articles/14/4101/2017/",
+            "title": "Water, Energy, and Carbon with Artificial Neural Networks (WECANN): a statistically based estimate of global surface turbulent fluxes and gross primary productivity using solar-induced fluorescence",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "accessDate": "2023-05-24T18:42:58Z",
+            "shortTitle": "Water, Energy, and Carbon with Artificial Neural Networks (WECANN)"
+        },
+        "ESDTs": [
+            "AIRS3STD"
+        ],
+        "Type": "journal-article"
+    },
+    {
+        "result_id": [
+            "5VtOT2qSQqgJ"
+        ],
+        "URL": [
+            "https://link.springer.com/article/10.1134/S0001433821120057"
+        ],
+        "pub_doi": "10.1134/S0001433821120057",
+        "author": "VG Bondur",
+        "year": "2021",
+        "title": "A Study from Space of Anomalous Variations of Various Geophysical Fields during the Preparation of a Series of Strong Earthquakes in Italy in 2016\u20132017",
+        "zotero": {
+            "key": "VCKIB8QF",
+            "version": 0,
+            "itemType": "journalArticle",
+            "creators": [
+                {
+                    "firstName": "V. G.",
+                    "lastName": "Bondur",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "M. N.",
+                    "lastName": "Tsidilina",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "O. S.",
+                    "lastName": "Voronova",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "N. V.",
+                    "lastName": "Feoktistova",
+                    "creatorType": "author"
+                }
+            ],
+            "tags": [
+                {
+                    "tag": "remote sensing",
+                    "type": 1
+                },
+                {
+                    "tag": "satellite monitoring",
+                    "type": 1
+                },
+                {
+                    "tag": "earthquake precursors",
+                    "type": 1
+                },
+                {
+                    "tag": "thermal anomalies",
+                    "type": 1
+                },
+                {
+                    "tag": "aerosol optical depth",
+                    "type": 1
+                },
+                {
+                    "tag": "ionosphere",
+                    "type": 1
+                }
+            ],
+            "date": "2021-12-01",
+            "title": "A Study from Space of Anomalous Variations of Various Geophysical Fields during the Preparation of a Series of Strong Earthquakes in Italy in 2016\u20132017",
+            "pages": "1604-1620",
+            "abstractNote": "A time series of the occurrence of thermal anomalies, aerosol optical-depth anomalies, and total electron content of the ionosphere during the preparation of strong earthquakes with magnitudes of M = 5.2\u20136.6 in Central Italy in 2016\u20132017 is revealed based on the joint analysis of various geophysical fields recorded from space. The values of temperatures of the surface, the near-surface layer of the atmosphere, and the outgoing longwave radiation detected by the AIRS instrument (Aqua satellite) are used to analyze thermal fields. Changes in the aerosol optical-depth values are investigated using the MCD19A2 product (Terra and Aqua satellites). Global ionospheric maps obtained from data of global satellite navigation systems and ground-based GPS stations located within a radius of 100 km from earthquake epicenters are used to study anomalies in the ionosphere. It is found that the first precursory changes in geophysical fields occurred in areas with radii of 200 km, the centers of which coincided with the centers of high earthquake risk zones, and were detected 11\u201315 days before the main seismic shocks.",
+            "ISSN": "1555-628X",
+            "url": "https://doi.org/10.1134/S0001433821120057",
+            "DOI": "10.1134/S0001433821120057",
+            "journalAbbreviation": "Izv. Atmos. Ocean. Phys.",
+            "volume": "57",
+            "issue": "12",
+            "publicationTitle": "Izvestiya, Atmospheric and Oceanic Physics",
+            "language": "en",
+            "libraryCatalog": "Springer Link",
+            "accessDate": "2023-05-24T18:47:16Z"
+        },
+        "ESDTs": [
+            "AIRS3STD"
+        ],
+        "Type": "journal-article"
+    },
+    {
+        "result_id": [
+            "EYdHuYRzhn4J"
+        ],
+        "URL": [
+            "https://link.springer.com/article/10.1134/S0001433821010102"
+        ],
+        "pub_doi": "10.1134/S0001433821010102",
+        "author": "VS Rakitin",
+        "year": "2021",
+        "title": "Long-Term Tendencies of Carbon Monoxide in the Atmosphere of the Moscow Megapolis",
+        "zotero": {
+            "key": "9VBD9JWC",
+            "version": 0,
+            "itemType": "journalArticle",
+            "creators": [
+                {
+                    "firstName": "V. S.",
+                    "lastName": "Rakitin",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "N. F.",
+                    "lastName": "Elansky",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "A. I.",
+                    "lastName": "Skorokhod",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "A. V.",
+                    "lastName": "Dzhola",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "A. V.",
+                    "lastName": "Rakitina",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "A. V.",
+                    "lastName": "Shilkin",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "N. S.",
+                    "lastName": "Kirillova",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "A. V.",
+                    "lastName": "Kazakov",
+                    "creatorType": "author"
+                }
+            ],
+            "tags": [
+                {
+                    "tag": "atmospheric composition",
+                    "type": 1
+                },
+                {
+                    "tag": "carbon monoxide",
+                    "type": 1
+                },
+                {
+                    "tag": "atmospheric spectroscopy",
+                    "type": 1
+                },
+                {
+                    "tag": "remote sensing",
+                    "type": 1
+                },
+                {
+                    "tag": "megapolis",
+                    "type": 1
+                },
+                {
+                    "tag": "trends",
+                    "type": 1
+                }
+            ],
+            "date": "2021-01-01",
+            "title": "Long-Term Tendencies of Carbon Monoxide in the Atmosphere of the Moscow Megapolis",
+            "pages": "116-125",
+            "abstractNote": "This paper presents the results of a comprehensive analysis of measurements of CO total content (CO TC) at stations of the Obukhov Institute of Atmospheric Physics, Russian Academy of Sciences (IAP\u00a0RAS), in Moscow and Moscow oblast. Also CO in-situ data obtained from automated stations of the Mosecomonitoring network, satellite monitoring results and information on the parameters of the atmospheric boundary layer in Moscow and the surrounding regions are analyzed. The long-term variability of CO\u00a0TC and meteorological parameters is investigated, the carbon monoxide accumulation characteristics in calm days in the atmospheric boundary layer are obtained. A decrease in the average annual values \u200b\u200bof TC CO in 2000\u20132018 was found in Moscow (\u20132.56 \u00b1 0.52%/year) and at the Zvenigorod Scientific Station (ZSS) (\u20121.15 \u00b1 0.37%/year). However, the rate of decrease in both sites is different in different seasons and periods. After about 2007\u20132008, the rate of CO TC reduction decreased at both sites. In 2008\u20132018, at the ZSS, an increase in CO TC was recorded in the summer and autumn months at a rate of about 0.7%/year. An increase in the wind speed in the atmospheric boundary layer of Moscow in different periods of 2000\u20132018 at a rate of 0.4\u20131.6%/year has been determined. At the same time, no statistically significant changes in wind speed were found in Kaluga oblast. The recurrence of calm days in Moscow in 2006\u20132017 decreased (\u20137.06 \u00b1 3.96%/year) with a decrease in the anthropogenic part of the CO content in the same period (\u20136.72 \u00b1 3.48%/year). The results indicate the influence of the climatic (meteorological) factor on air quality in Moscow.",
+            "ISSN": "1555-628X",
+            "url": "https://doi.org/10.1134/S0001433821010102",
+            "DOI": "10.1134/S0001433821010102",
+            "journalAbbreviation": "Izv. Atmos. Ocean. Phys.",
+            "volume": "57",
+            "issue": "1",
+            "publicationTitle": "Izvestiya, Atmospheric and Oceanic Physics",
+            "language": "en",
+            "libraryCatalog": "Springer Link",
+            "accessDate": "2023-05-24T18:47:12Z"
+        },
+        "ESDTs": [
+            "AIRS3STD"
+        ],
+        "Type": "journal-article"
+    },
+    {
+        "result_id": [
+            "MV0Gv3LCDm8J"
+        ],
+        "URL": [
+            "https://www.mdpi.com/1628542"
+        ],
+        "pub_doi": "10.3390/RS14102343",
+        "author": "Z Jiao",
+        "year": "2022",
+        "title": "Pre-Seismic Temporal Integrated Anomalies from Multiparametric Remote Sensing Data",
+        "zotero": {
+            "key": "QVLR7RWN",
+            "version": 0,
+            "itemType": "journalArticle",
+            "creators": [
+                {
+                    "firstName": "Zhonghu",
+                    "lastName": "Jiao",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Xinjian",
+                    "lastName": "Shan",
+                    "creatorType": "author"
+                }
+            ],
+            "tags": [
+                {
+                    "tag": "earthquake anomaly",
+                    "type": 1
+                },
+                {
+                    "tag": "multiparametric anomalies",
+                    "type": 1
+                },
+                {
+                    "tag": "thermal infrared remote sensing",
+                    "type": 1
+                }
+            ],
+            "title": "Pre-Seismic Temporal Integrated Anomalies from Multiparametric Remote Sensing Data",
+            "publicationTitle": "Remote Sensing",
+            "rights": "http://creativecommons.org/licenses/by/3.0/",
+            "volume": "14",
+            "issue": "10",
+            "pages": "2343",
+            "date": "2022/1",
+            "DOI": "10.3390/rs14102343",
+            "ISSN": "2072-4292",
+            "url": "https://www.mdpi.com/2072-4292/14/10/2343",
+            "abstractNote": "Pre-seismic anomalies have the potential to indicate imminent strong earthquakes in the short to medium terms. However, an improved understanding of the statistical significance between anomalies and earthquakes is required to develop operational forecasting systems. We developed a temporal integrated anomaly (TIA) method to obtain the temporal trends of multiparametric anomalies derived from the Atmospheric Infrared Sounder (AIRS) product before earthquakes. A total of 169 global earthquakes that occurred from 2006 to 2020 and had magnitudes of \u22657.0 and focal depths of \u226470 km were used to test this new method in a retrospective manner. In addition, 169 synthetic earthquakes were randomly generated to demonstrate the suppression capacity of the TIA method for false alarms. We identified four different TIA trends according to the temporal characteristics of positive and negative TIAs. Long-term correlation analyses show that the recognition ability was 12.4\u201328.4% higher for true earthquakes than for synthetic earthquakes (i.e., higher than that of a random guess). Incorporating 2\u20135 kinds of TIAs offered the best chance of recognizing imminent shocks, highlighting the importance of multiparameter anomalies. Although the TIA trend characteristics before the earthquakes were not unique, we identified certain unexplained pre-seismic phenomena within the remote sensing data. The results provide new insight into the relationships between pre-seismic anomalies and earthquakes; moreover, the recognition ability of the proposed approach exceeds that of random guessing.",
+            "language": "en",
+            "libraryCatalog": "www.mdpi.com",
+            "accessDate": "2023-05-24T18:34:27Z"
+        },
+        "ESDTs": [
+            "AIRS3STD"
+        ],
+        "Type": "journal-article"
+    },
+    {
+        "result_id": [
+            "2T9uw9bLvFYJ"
+        ],
+        "URL": [
+            "https://www.nature.com/articles/s41598-021-99304-x"
+        ],
+        "pub_doi": "10.1038/S41598-021-99304-X",
+        "author": "FH Wagner",
+        "year": "2021",
+        "title": "The flowering of Atlantic Forest Pleroma trees",
+        "zotero": {
+            "key": "NQCW8F4G",
+            "version": 0,
+            "itemType": "journalArticle",
+            "creators": [
+                {
+                    "firstName": "Fabien H.",
+                    "lastName": "Wagner",
+                    "creatorType": "author"
+                }
+            ],
+            "tags": [
+                {
+                    "tag": "Biogeography",
+                    "type": 1
+                },
+                {
+                    "tag": "Computational science",
+                    "type": 1
+                },
+                {
+                    "tag": "Flowering",
+                    "type": 1
+                },
+                {
+                    "tag": "Forest ecology",
+                    "type": 1
+                },
+                {
+                    "tag": "Image processing",
+                    "type": 1
+                },
+                {
+                    "tag": "Macroecology",
+                    "type": 1
+                },
+                {
+                    "tag": "Tropical ecology",
+                    "type": 1
+                }
+            ],
+            "title": "The flowering of Atlantic Forest Pleroma trees",
+            "publicationTitle": "Scientific Reports",
+            "rights": "2021 The Author(s)",
+            "volume": "11",
+            "issue": "1",
+            "pages": "20437",
+            "date": "2021-10-14",
+            "DOI": "10.1038/s41598-021-99304-x",
+            "ISSN": "2045-2322",
+            "url": "https://www.nature.com/articles/s41598-021-99304-x",
+            "abstractNote": "Mapping the spatial distribution of a plant is a current challenge in ecology. Here, a convolutional neural network (CNN) and 33,798 Sentinel-2 satellite images were used to detect and map forest stands dominated by trees of the genus Pleroma by their magenta-to-deep-purple blossoms in the entire Brazilian Atlantic Forest domain, from June 2016 to July 2020. The Pleroma genus, known for its pioneer behaviour, was detected in an area representing 10.8% of the Atlantic Forest, associated negatively with temperature and positively with elevation, slope, tree cover and precipitation. The detection of another genus by the model, 18% of all the detections contained only pink blooming Handroanthus trees, highlighted that botanical identification from space must be taken with caution, particularly outside the known distribution range of the species. The Pleroma blossom seasonality occurred over a period of ~5\u20136 months centered on the March equinox and populations with distinct blossom timings were found. Our results indicate that in the Atlantic Forest, the remaining natural forest is less diverse than expected but is at least recovering from degradation. Our study suggests a method to produce ecological-domain scale maps of tree genera and species based on their blossoms that could be used for tree studies and biodiversity assessments.",
+            "language": "en",
+            "journalAbbreviation": "Sci Rep",
+            "libraryCatalog": "www.nature.com",
+            "accessDate": "2023-05-24T18:38:43Z"
+        },
+        "ESDTs": [
+            "AIRS3STD"
+        ],
+        "Type": "journal-article"
+    },
+    {
+        "result_id": [
+            "xgsJnP373PwJ"
+        ],
+        "URL": [
+            "https://ieeexplore.ieee.org/abstract/document/9554237/"
+        ],
+        "pub_doi": "10.1109/IGARSS47720.2021.9554237",
+        "author": "F Jing",
+        "year": "2021",
+        "title": "Satellite Observed Multi-Parameter Variations Associated with the 2020 Yutian Earthquake, China",
+        "zotero": {
+            "key": "9ZY4G9YQ",
+            "version": 0,
+            "itemType": "conferencePaper",
+            "creators": [
+                {
+                    "firstName": "Feng",
+                    "lastName": "Jing",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Ramesh P.",
+                    "lastName": "Singh",
+                    "creatorType": "author"
+                }
+            ],
+            "tags": [
+                {
+                    "tag": "Couplings",
+                    "type": 1
+                },
+                {
+                    "tag": "Gases",
+                    "type": 1
+                },
+                {
+                    "tag": "Satellites",
+                    "type": 1
+                },
+                {
+                    "tag": "Earthquakes",
+                    "type": 1
+                },
+                {
+                    "tag": "Earth Observing System",
+                    "type": 1
+                },
+                {
+                    "tag": "Terrestrial atmosphere",
+                    "type": 1
+                },
+                {
+                    "tag": "Skin",
+                    "type": 1
+                },
+                {
+                    "tag": "AIRS",
+                    "type": 1
+                },
+                {
+                    "tag": "earthquake",
+                    "type": 1
+                },
+                {
+                    "tag": "geosphere coupling",
+                    "type": 1
+                }
+            ],
+            "proceedingsTitle": "2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS",
+            "title": "Satellite Observed Multi-Parameter Variations Associated with the 2020 Yutian Earthquake, China",
+            "pages": "1476-1479",
+            "abstractNote": "The multi-parameter at different pressure levels prior and after the Yutian earthquake (M 6.3) in China observed by AIRS (the Atmospheric Infrared Sounder) aboard EOS (the Earth Observing System) Aqua satellite have been analyzed based on the Index of Anomaly (IA) and deviation (STD) threshold method. Complementary variations in the different parameters (carbon monoxide, ozone, air temperature, skin temperature and outgoing longwave radiation) along the main active faults on 1\u20132 days prior to the event are observed showing existence of coupling between lithosphere and atmosphere. Our results show that the sudden variations in these parameters could be attributed to the tectonic and seismic activities.",
+            "DOI": "10.1109/IGARSS47720.2021.9554237",
+            "date": "2021-07",
+            "conferenceName": "2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS",
+            "extra": "ISSN: 2153-7003",
+            "libraryCatalog": "IEEE Xplore"
+        },
+        "ESDTs": [
+            "AIRS3STD"
+        ],
+        "Type": "proceedings-article"
+    },
+    {
+        "result_id": [
+            "pR1AhJ7G_6EJ"
+        ],
+        "URL": [
+            "https://link.springer.com/article/10.1134/S0001433821120239"
+        ],
+        "pub_doi": "10.1134/S0001433821120239",
+        "author": "OS Voronova",
+        "year": "2021",
+        "title": "Studying the Dynamics of Wildfires in Russia in 2001\u20132020 Taking into Account Climatic Factors",
+        "zotero": {
+            "key": "VBWFMRER",
+            "version": 0,
+            "itemType": "journalArticle",
+            "creators": [
+                {
+                    "firstName": "O. S.",
+                    "lastName": "Voronova",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "K. A.",
+                    "lastName": "Gordo",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "A. L.",
+                    "lastName": "Zima",
+                    "creatorType": "author"
+                }
+            ],
+            "tags": [
+                {
+                    "tag": "wildfires",
+                    "type": 1
+                },
+                {
+                    "tag": "remote sensing",
+                    "type": 1
+                },
+                {
+                    "tag": "satellite data",
+                    "type": 1
+                },
+                {
+                    "tag": "satellite monitoring",
+                    "type": 1
+                },
+                {
+                    "tag": "atmospheric blocking",
+                    "type": 1
+                },
+                {
+                    "tag": "emissions",
+                    "type": 1
+                },
+                {
+                    "tag": "aerosol index",
+                    "type": 1
+                }
+            ],
+            "date": "2021-12-01",
+            "title": "Studying the Dynamics of Wildfires in Russia in 2001\u20132020 Taking into Account Climatic Factors",
+            "pages": "1720-1731",
+            "abstractNote": "The features of large wildfires that occurred in Russia in 2001\u20132020 were studied on the base of satellite monitoring data. The contribution of the regions of the European part of Russia, as well as the Ural, Siberian, and Far East federal districts, to \u0421\u041e, \u0421\u041e2, and PM2.5 emissions due to wildfires is estimated. It is established that the contribution of the Siberian Federal District into total emission volumes due to wildfires was prevailing from 2011 to 2017, and in some years it reached 60%. It is revealed that in 2020 wildfire emission volumes in the territory of the Far East Federal District exceeded 55% of the all-Russian emissions. An analysis of the features of anomalous wildfires is performed taking into account weather and climate factors. The relationship between large wildfires and weather and climatic factors, including blocking anticyclones, has been revealed. Using OMI (Aura satellite) data, it has been found that an aerosol plume due to large wildfires in Russia can spread over long distances and reach other continents.",
+            "ISSN": "1555-628X",
+            "url": "https://doi.org/10.1134/S0001433821120239",
+            "DOI": "10.1134/S0001433821120239",
+            "journalAbbreviation": "Izv. Atmos. Ocean. Phys.",
+            "volume": "57",
+            "issue": "12",
+            "publicationTitle": "Izvestiya, Atmospheric and Oceanic Physics",
+            "language": "en",
+            "libraryCatalog": "Springer Link",
+            "accessDate": "2023-05-24T18:47:34Z"
+        },
+        "ESDTs": [
+            "AIRS3STD"
+        ],
+        "Type": "journal-article"
+    },
+    {
+        "result_id": [
+            "zyFyRjAkUNIJ"
+        ],
+        "URL": [
+            "https://link.springer.com/article/10.1007/s10661-023-11118-8"
+        ],
+        "pub_doi": "10.1007/S10661-023-11118-8",
+        "author": "M Elshora",
+        "year": "2023",
+        "title": "Evaluation of MODIS combined DT and DB AOD retrievals and their association with meteorological variables over Qena, Egypt",
+        "zotero": {
+            "key": "BKGVVT4F",
+            "version": 0,
+            "itemType": "journalArticle",
+            "creators": [
+                {
+                    "firstName": "Mohamed",
+                    "lastName": "Elshora",
+                    "creatorType": "author"
+                }
+            ],
+            "tags": [
+                {
+                    "tag": "MODIS",
+                    "type": 1
+                },
+                {
+                    "tag": "Aerosol optical depth (AOD)",
+                    "type": 1
+                },
+                {
+                    "tag": "Dark target (DT)",
+                    "type": 1
+                },
+                {
+                    "tag": "Deep blue (DB)",
+                    "type": 1
+                },
+                {
+                    "tag": "AERONET",
+                    "type": 1
+                },
+                {
+                    "tag": "Meteorological variables",
+                    "type": 1
+                },
+                {
+                    "tag": "Regression",
+                    "type": 1
+                }
+            ],
+            "date": "2023-03-18",
+            "title": "Evaluation of MODIS combined DT and DB AOD retrievals and their association with meteorological variables over Qena, Egypt",
+            "pages": "483",
+            "abstractNote": "The purpose of this study is to validate the daily Terra-MODIS level 2 combined dark target (DT) and deep blue (DB) aerosol optical depth (AOD) retrievals with a spatial resolution of 10\u00a0km against the ground-based AERONET AOD data to be used in evaluating the air pollution and impact of meteorological variables over Qena, Egypt, in 2019. The regression analysis demonstrated an accepted agreement between the MODIS and AERONET AOD data with a correlation coefficient (R) of 0.7118 and 74.22% of the collocated points fall within the expected error (EE) limits. Quality flag filtering and spatial and temporal collocation were found to have a significant impact on the regression results. Quality flag filtering increased R by 0.2091 and % within EE by 17.97, spatial collocation increased R by 0.0143 and % within EE by 1.13, and temporal collocation increased R by 0.0089 and % within EE by 4.43. By validating the MODIS AOD data seasonally and analyzing the temporal distribution of the seasonal AOD data to show the retrieval accuracy variations between seasons, it was found that the MODIS AOD observations overestimated the AERONET AOD values in all seasons, and this may be because of underestimating the surface reflectance. Perhaps the main reason for the highest overestimation in summer and autumn is the transportation of aerosols from other regions, which changes the aerosol model in Qena, making accurate aerosol-type assumptions more difficult. Therefore, this study recommends necessary improvements regarding the aerosol model selection and the surface reflectance calculations. Temperature and relative humidity were found to have a strong negative relationship with a correlation of\u2009\u2212\u20090.735, and both have a moderate association with AOD with a correlation of 0.451 and\u2009\u2212\u20090.356, respectively. Because Qena is not a rainy city, precipitation was found to have no correlation with the other variables.",
+            "ISSN": "1573-2959",
+            "url": "https://doi.org/10.1007/s10661-023-11118-8",
+            "DOI": "10.1007/s10661-023-11118-8",
+            "journalAbbreviation": "Environ Monit Assess",
+            "volume": "195",
+            "issue": "4",
+            "publicationTitle": "Environmental Monitoring and Assessment",
+            "language": "en",
+            "libraryCatalog": "Springer Link",
+            "accessDate": "2023-05-24T18:43:01Z"
+        },
+        "ESDTs": [
+            "AIRS3STD"
+        ],
+        "Type": "journal-article"
+    },
+    {
+        "result_id": [
+            "9v7zz-mJTS4J"
+        ],
+        "URL": [
+            "https://link.springer.com/article/10.1007/s12524-023-01681-5"
+        ],
+        "pub_doi": "10.1007/S12524-023-01681-5",
+        "author": "AS Nair",
+        "year": "2023",
+        "title": "Aerosol Variability at Coastal Bhola Island (Bangladesh), an IGP Outflow Region",
+        "zotero": {
+            "key": "6CDUUG3V",
+            "version": 0,
+            "itemType": "journalArticle",
+            "creators": [
+                {
+                    "firstName": "Anjali S.",
+                    "lastName": "Nair",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Kirti",
+                    "lastName": "Soni",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Priyanka",
+                    "lastName": "Singh",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Kuldeep",
+                    "lastName": "Meena",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Rina",
+                    "lastName": "Sharma",
+                    "creatorType": "author"
+                }
+            ],
+            "tags": [
+                {
+                    "tag": "Aerosols",
+                    "type": 1
+                },
+                {
+                    "tag": "AOD",
+                    "type": 1
+                },
+                {
+                    "tag": "\u00c5ngstr\u00f6m wavelength exponent",
+                    "type": 1
+                },
+                {
+                    "tag": "\u00c5ngstr\u00f6m turbidity coefficient",
+                    "type": 1
+                },
+                {
+                    "tag": "Air pollution",
+                    "type": 1
+                }
+            ],
+            "date": "2023-05-01",
+            "title": "Aerosol Variability at Coastal Bhola Island (Bangladesh), an IGP Outflow Region",
+            "pages": "1013-1035",
+            "abstractNote": "The aerosol optical depth (AOD) and \u00c5ngstr\u00f6m parameters are recognised to be pivotal factors in understanding the status of ambient aerosol concentrations over a certain place and depend not only on the local but also on large-scale atmospheric dynamics. Aerosol climatology was undertaken across coastal Bhola Island for 7\u00a0years (2014\u20132021), using data from the Aerosol Robotic Network (AERONET). This study provides a protracted scrutiny of daily, monthly, seasonal and inter-annual variations of the AOD and \u00c5ngstr\u00f6m parameters for Bhola. The observed columnar AOD was analysed to offer a hitherto unknown temporal picture of trends in aerosol pollution over Bhola. During the study period (2014\u20132021), the AOD value increased from 2015\u20132019 to 2020\u20132021. The AOD value was\u2009\u2265\u20090.70 except for 2014\u20132015 and 2019\u20132020. The seasonal mean AOD over Bhola was\u2009>\u20090.3, highest in January and February (winter) and lowest in July (monsoon). Coarse-mode fractions during winter and fine-mode fractions during rest, corroborate the seasonal pattern of AODs and \u03b1 (\u00c5ngstr\u00f6m wavelength\u00a0exponent). The average \u03b1 was found to be\u2009>\u20091 during the inter-annual comparison, implying the ubiety and predominance of fine-mode aerosol. The average \u03b1'\u00a0(second order\u00a0\u00c5ngstr\u00f6m exponent) value was positive, with an overall cumulative count of 90% of the data having positive \u03b1' validating the pre-eminence of fine-mode aerosols. The \u03b2 (\u00c5ngstr\u00f6m turbidity coefficient)\u00a0value proportionally varied with respect to AOD, whereas it was inversely proportional to the   \u03b1 at a broader wavelength. The average \u03b2 varied between 0.2 and 0.4. The aerosols detected over the Bhola are of metropolitan/industrial, maritime, biomass combustion and dust origins, with proportionate inputs varying in various seasons. The current study data will be used for future investigations of Bhola\u2019s aerosols, pollution load, climate and atmospheric environment. Thus, this study is important as it facilitates the baseline data for policymakers and model simulation for pollution load and climate change analysis.",
+            "ISSN": "0974-3006",
+            "url": "https://doi.org/10.1007/s12524-023-01681-5",
+            "DOI": "10.1007/s12524-023-01681-5",
+            "journalAbbreviation": "J Indian Soc Remote Sens",
+            "volume": "51",
+            "issue": "5",
+            "publicationTitle": "Journal of the Indian Society of Remote Sensing",
+            "language": "en",
+            "libraryCatalog": "Springer Link",
+            "accessDate": "2023-05-24T18:47:07Z"
+        },
+        "ESDTs": [
+            "AIRS3STD"
+        ],
+        "Type": "journal-article"
+    },
+    {
+        "result_id": [
+            "bXQ0LN90JPIJ"
+        ],
+        "URL": [
+            "https://www.sciencedirect.com/science/article/pii/S1569843223001693"
+        ],
+        "pub_doi": "10.1016/J.JAG.2023.103347",
+        "author": "S Xu",
+        "year": "2023",
+        "title": "Assessment of gridded datasets of various near surface temperature variables over Heihe River Basin: Uncertainties, spatial heterogeneity and clear-sky bias",
+        "zotero": {
+            "key": "6L3YKMRY",
+            "version": 0,
+            "itemType": "journalArticle",
+            "creators": [
+                {
+                    "firstName": "Shuo",
+                    "lastName": "Xu",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Dongdong",
+                    "lastName": "Wang",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Shunlin",
+                    "lastName": "Liang",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Yuling",
+                    "lastName": "Liu",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Aolin",
+                    "lastName": "Jia",
+                    "creatorType": "author"
+                }
+            ],
+            "tags": [
+                {
+                    "tag": "Temperature",
+                    "type": 1
+                },
+                {
+                    "tag": "Near surface temperature",
+                    "type": 1
+                },
+                {
+                    "tag": "Land surface temperature",
+                    "type": 1
+                },
+                {
+                    "tag": "Air temperature",
+                    "type": 1
+                },
+                {
+                    "tag": "Soil temperature",
+                    "type": 1
+                },
+                {
+                    "tag": "Validation",
+                    "type": 1
+                },
+                {
+                    "tag": "Spatial heterogeneity",
+                    "type": 1
+                },
+                {
+                    "tag": "Clear-sky bias",
+                    "type": 1
+                }
+            ],
+            "pages": "103347",
+            "date": "2023-06-01",
+            "ISSN": "1569-8432",
+            "DOI": "10.1016/j.jag.2023.103347",
+            "url": "https://www.sciencedirect.com/science/article/pii/S1569843223001693",
+            "abstractNote": "Near-surface temperatures, such as air, land surface, and soil temperatures, play significant roles in surface radiation and energy balance. This study assessed nine gridded near-surface temperature products and analyzed the spatial heterogeneity and clear-sky bias of these temperature variables, using extensive measurements collected at Heihe River Basin. The MXD21 (MOD21 and MYD21) product had the lowest root mean square error (RMSE) (3.35\u00a0K) among all skin temperature products but a high percentage of missing values (48.4 %). All-weather skin temperature products had comparable accuracy for the interpolated cloudy-sky cases (RMSE 4.92\u00a0K) and observed clear-sky pixels (RMSE 3.42\u00a0K). For air temperature, AMSR2 had the lowest RMSE (2.48\u00a0K), but a high percentage of invalid data (32.5 %); and ERA5 had a worse accuracy (RMSE 3.87\u00a0K) but a high spatial resolution and gap-free data coverage. Comparing products from the same data source, air and soil temperatures had higher accuracies than skin temperature. Among the different variables of temperature, the 0\u00a0cm soil temperature and skin temperature had higher spatiotemporal heterogeneity than the air temperature and the soil temperatures at greater depths. The skin temperature, 0\u00a0cm soil temperature, and air temperature had higher clear-sky biases compared to soil temperatures.",
+            "title": "Assessment of gridded datasets of various near surface temperature variables over Heihe River Basin: Uncertainties, spatial heterogeneity and clear-sky bias",
+            "journalAbbreviation": "International Journal of Applied Earth Observation and Geoinformation",
+            "volume": "120",
+            "publicationTitle": "International Journal of Applied Earth Observation and Geoinformation",
+            "language": "en",
+            "libraryCatalog": "ScienceDirect",
+            "accessDate": "2023-05-24T18:47:20Z",
+            "shortTitle": "Assessment of gridded datasets of various near surface temperature variables over Heihe River Basin"
+        },
+        "ESDTs": [
+            "AIRS3STD"
+        ],
+        "Type": "journal-article"
+    },
+    {
+        "result_id": [
+            "lPyIuTBqQFsJ"
+        ],
+        "URL": [
+            "https://acp.copernicus.org/articles/21/18333/2021/"
+        ],
+        "pub_doi": "10.5194/ACP-21-18333-2021",
+        "author": "RD Field",
+        "year": "2021",
+        "title": "Changes in satellite retrievals of atmospheric composition over eastern China during the 2020 COVID-19 lockdowns",
+        "zotero": {
+            "key": "84TG2RBL",
+            "version": 0,
+            "itemType": "journalArticle",
+            "creators": [
+                {
+                    "firstName": "Robert D.",
+                    "lastName": "Field",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Jonathan E.",
+                    "lastName": "Hickman",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Igor V.",
+                    "lastName": "Geogdzhayev",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Kostas",
+                    "lastName": "Tsigaridis",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Susanne E.",
+                    "lastName": "Bauer",
+                    "creatorType": "author"
+                }
+            ],
+            "tags": [],
+            "publicationTitle": "Atmospheric Chemistry and Physics",
+            "journalAbbreviation": "Atmos. Chem. Phys.",
+            "volume": "21",
+            "issue": "24",
+            "abstractNote": "Abstract. We examined daily level-3 satellite retrievals of Atmospheric\nInfrared Sounder (AIRS) CO, Ozone Monitoring Instrument (OMI) SO2 and NO2, and Moderate Resolution Imaging Spectroradiometer (MODIS) aerosol optical depth (AOD) over eastern China to understand how\nCOVID-19 lockdowns affected atmospheric composition. Changes in 2020 were strongly dependent on the choice of background period since 2005 and\nwhether trends in atmospheric composition were accounted for. Over central east China during the 23\u00a0January\u20138\u00a0April lockdown window, CO in 2020 was\nbetween 3\u2009% and 12\u2009% lower than average depending on the background period. The 2020 CO was not consistently less than expected from trends\nbeginning between 2005 and 2016 and ending in 2019 but was 3\u2009%\u20134\u2009% lower than the background mean during the 2017\u20132019 period when CO\nchanges had flattened. Similarly for AOD, 2020 was between 14\u2009% and 30\u2009% lower than averages beginning in 2005 and 14\u2009%\u201317\u2009% lower\ncompared to different background means beginning in 2016. NO2 in 2020 was between 30\u2009% and 43\u2009% lower than the mean over different\nbackground periods and between 17\u2009% and 33\u2009% lower than what would be expected for trends beginning later than 2011. Relative to the\n2016\u20132019 period when NO2 had flattened, 2020 was 30\u2009%\u201333\u2009% lower. Over southern China, 2020 NO2 was between 23\u2009%\nand 27\u2009% lower than different background means beginning in 2013, the beginning of a period of persistently lower NO2. CO over\nsouthern China was significantly higher in 2020 than what would be expected, which we suggest was partly because of an active fire season in\nneighboring countries. Over central east and southern China, 2020 SO2 was higher than expected, but this depended strongly on how daily\nregional values were calculated from individual retrievals and reflects background values approaching the retrieval detection limit. Future work\nover China, or other regions, needs to take into account the sensitivity of differences in 2020 to different background periods and trends in order\nto separate the effects of COVID-19 on air quality from previously occurring changes or from variability in other sources.",
+            "language": "en",
+            "ISSN": "1680-7324",
+            "date": "2021-12-17",
+            "pages": "18333-18350",
+            "DOI": "10.5194/acp-21-18333-2021",
+            "url": "https://acp.copernicus.org/articles/21/18333/2021/",
+            "title": "Changes in satellite retrievals of atmospheric composition over eastern China during the 2020 COVID-19 lockdowns",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "accessDate": "2023-05-24T18:38:40Z"
+        },
+        "ESDTs": [
+            "AIRS3STD"
+        ],
+        "Type": "journal-article"
+    },
+    {
+        "result_id": [
+            "XBZ1ld3ZjrcJ"
+        ],
+        "URL": [
+            "https://iopscience.iop.org/article/10.1088/1757-899X/1208/1/012033/meta"
+        ],
+        "pub_doi": "10.1088/1757-899X/1208/1/012033",
+        "author": "M Musabasic",
+        "year": "2021",
+        "title": "Fire prediction with logistic regression on territory of Bosnia and Herzegovina",
+        "zotero": {
+            "key": "FQYJUST5",
+            "version": 0,
+            "itemType": "journalArticle",
+            "creators": [
+                {
+                    "firstName": "Mursel",
+                    "lastName": "Musaba\u0161i\u0107",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Denis",
+                    "lastName": "Mu\u0161i\u0107",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Elmir",
+                    "lastName": "Babovi\u0107",
+                    "creatorType": "author"
+                }
+            ],
+            "tags": [],
+            "publicationTitle": "IOP Conference Series: Materials Science and Engineering",
+            "journalAbbreviation": "IOP Conf. Ser.: Mater. Sci. Eng.",
+            "volume": "1208",
+            "issue": "1",
+            "abstractNote": "Abstract\r\n            The Canadian Fire Weather Index system [1] has been used worldwide by many countries as classic approach in fire prediction. It represents system that account for the effects of fuel moisture and weather conditions on fire behaviour. It numerical outputs are based on calculation of four meteorological elements: air temperature, relative humidity, wind speed and precipitation in last 24h. In this paper meteorological data in combination with Canadian Fire Weather Index system (CFWI) components is used as input to predict fire occurrence using logistic regression model. As logistic regression is a supervised machine learning method it\u2019s based on user input in the form of dataset. Dataset is collected using NASA GES DISC Giovanni web-based application in the form of daily area-averaged time series in period of 31.7.2010 to 31.7.2020, it\u2019s analysed and pre-processed before it is used as input for logit model. CFWI components values are not imported but calculated in run-time based on pre-processed meteorological data. As a result of this research windows application was developed to assist fire managers and all those involved in studying the fire behaviour.",
+            "ISSN": "1757-8981, 1757-899X",
+            "date": "2021-11-01",
+            "pages": "012033",
+            "DOI": "10.1088/1757-899X/1208/1/012033",
+            "url": "https://iopscience.iop.org/article/10.1088/1757-899X/1208/1/012033",
+            "title": "Fire prediction with logistic regression on territory of Bosnia and Herzegovina",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "accessDate": "2023-05-24T18:47:19Z"
+        },
+        "ESDTs": [
+            "AIRS3STD"
+        ],
+        "Type": "journal-article"
+    },
+    {
+        "result_id": [
+            "IYhnqYqPiisJ"
+        ],
+        "URL": [
+            "https://www.mdpi.com/2071-1050/15/5/4173"
+        ],
+        "pub_doi": "10.3390/SU15054173",
+        "author": "ND Melaku",
+        "year": "2023",
+        "title": "Exploring the Impact of Winter Storm Uri on Power Outage, Air Quality, and Water Systems in Texas, USA",
+        "zotero": {
+            "key": "4GVG259T",
+            "version": 0,
+            "itemType": "journalArticle",
+            "creators": [
+                {
+                    "firstName": "Nigus Demelash",
+                    "lastName": "Melaku",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Ali",
+                    "lastName": "Fares",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Ripendra",
+                    "lastName": "Awal",
+                    "creatorType": "author"
+                }
+            ],
+            "tags": [
+                {
+                    "tag": "winter storm Uri",
+                    "type": 1
+                },
+                {
+                    "tag": "pollutants",
+                    "type": 1
+                },
+                {
+                    "tag": "cold snaps",
+                    "type": 1
+                },
+                {
+                    "tag": "air quality index",
+                    "type": 1
+                }
+            ],
+            "title": "Exploring the Impact of Winter Storm Uri on Power Outage, Air Quality, and Water Systems in Texas, USA",
+            "publicationTitle": "Sustainability",
+            "rights": "http://creativecommons.org/licenses/by/3.0/",
+            "volume": "15",
+            "issue": "5",
+            "pages": "4173",
+            "date": "2023/1",
+            "DOI": "10.3390/su15054173",
+            "ISSN": "2071-1050",
+            "url": "https://www.mdpi.com/2071-1050/15/5/4173",
+            "abstractNote": "Texas was hit by a record-setting cold snap from the 14\u201317 February 2021 after three decades that resulted in power outages, disruption of the public water systems, and other cascading effects. This study investigates the unprecedented impact of winter storm Uri on power outages, air quality, and water systems in Texas, USA. Analysis of the Parameter Regression of Independent Slopes Model (PRISM) gridded climate data showed that the average daily freezing temperature range was 0\u2013\u221219 \u00b0C on 14 February 2021, with severe levels (\u221217\u2013\u221219 \u00b0C) occurring in the Texas High Plains. Our results showed that the extreme freezing temperature persisted from 14\u201317 February 2021, significantly affecting power operation and reliability, and creating power outages across Texas. Uri impacted the public water systems and air quality on time scales ranging from a few minutes to several days, resulting in 322 boiling notices. The air quality index level exceeded the standard limit by 51.7%, 61.7%, 50.8%, and 60% in Dallas\u2013Fort Worth, Houston\u2013Galveston, Austin, and Lubbock regions. The level of the pollutants exceeded the EPA NAAQS standard allowable limits during winter storm Uri. In general, this study gives information on the government\u2019s future preparedness, policies, communication, and response to storm impacts on vulnerable regions and communities.",
+            "language": "en",
+            "libraryCatalog": "www.mdpi.com",
+            "accessDate": "2023-05-24T18:34:03Z"
+        },
+        "ESDTs": [
+            "AIRS3STD"
+        ],
+        "Type": "journal-article"
+    },
+    {
+        "result_id": [
+            "OqWYfRa2bGoJ"
+        ],
+        "URL": [
+            "https://aaqr.org/articles/aaqr-21-03-oa-0072"
+        ],
+        "pub_doi": "10.4209/AAQR.210072",
+        "author": "M Rendana",
+        "year": "2021",
+        "title": "Atmospheric Methane Condition over the South Sumatera Peatland during the COVID-19 Pandemic",
+        "zotero": {
+            "key": "LFCBAALC",
+            "version": 0,
+            "itemType": "journalArticle",
+            "creators": [
+                {
+                    "firstName": "Muhammad",
+                    "lastName": "Rendana",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Wan Mohd Razi",
+                    "lastName": "Idris",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Sahibin Abdul",
+                    "lastName": "Rahim",
+                    "creatorType": "author"
+                }
+            ],
+            "tags": [],
+            "title": "Atmospheric Methane Condition over the South Sumatera Peatland during the COVID-19 Pandemic",
+            "DOI": "10.4209/aaqr.210072",
+            "url": "https://aaqr.org/articles/aaqr-21-03-oa-0072",
+            "abstractNote": "ABSTRACT Recent anthropogenic activities have degraded peatlands, the largest natural reservoir of soil carbon, thereby reducing their carbon uptake from the atmosphere. As one of the primary sources of methane (CH4) emissions in terrestrial ecosystems, peatlands also contribute to atmospheric greenhouse gases. During the coronavirus disease 2019 (COVID-19) pandemic, Indonesia implemented a lockdown referred to as large-scale social restrictions (LSSR) in areas with high case numbers. To evaluate the effects of anthropogenic activity on peatlands, we investigated the CH4 concentrations in the atmosphere above the tropical peatlands of the Indonesian province South Sumatra before the LSSR (March 2020), during the LSSR (May 2020), and during the corresponding months of the previous year (March and May 2019). Using satellite-retrieved data from NASA, viz., the CH4 concentration and gross primary production (GPP) measured by the Atmospheric Infrared Sounder (AIRS) on board Aqua and Moderate Resolution Imaging Spectroradiometer (MODIS) on board Terra, respectively, we discovered a decrease of approximately 5.5% in the mean CH4 concentration (which averaged 1.73 ppm across the periods prior to lockdown) as well as an increase in the GPP (which ranged from 53.3 to 63.9 g C m\u20132 day\u20131 during the lockdown, indicating high atmospheric carbon intake) during the LSSR. Thus, the restrictions during lockdown, which reduced anthropogenic activities, such as land use conversion and biomass burning, and related events, such as peatland and forest fires, significantly influenced the level of atmospheric CH4 above the peatlands in Indonesia.",
+            "date": "2021",
+            "publicationTitle": "Aerosol and Air Quality Research",
+            "journalAbbreviation": "Aerosol Air Qual. Res.",
+            "volume": "21",
+            "issue": "10",
+            "language": "en",
+            "pages": "210072",
+            "ISSN": "2071-1409",
+            "libraryCatalog": "aaqr.org",
+            "accessDate": "2023-05-24T18:34:02Z"
+        },
+        "ESDTs": [
+            "AIRS3STD"
+        ],
+        "Type": "journal-article"
+    },
+    {
+        "result_id": [
+            "22ehC5-0_ZwJ"
+        ],
+        "URL": [
+            "http://www.adearth.ac.cn/EN/Y2011/V26/I7/787"
+        ],
+        "pub_doi": "10.11867/J.ISSN.1001-8166.2011.07.0787",
+        "author": "Y Cui",
+        "year": "2011",
+        "title": "Remote Sensing Signals of Atmospheric Physics and Chemistry Related to 2010 Yushu Ms 7.1 Earthquake\ue003\ue003",
+        "zotero": {
+            "key": "FI6WITEW",
+            "version": 0,
+            "itemType": "journalArticle",
+            "creators": [
+                {
+                    "firstName": "Cui",
+                    "lastName": "Yueju",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Du",
+                    "lastName": "Jianguo",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Chen",
+                    "lastName": "Zhi",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Li",
+                    "lastName": "Jing",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Xie",
+                    "lastName": "Chao",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Zhou Xiaochen\uff0cLiu",
+                    "lastName": "Lei",
+                    "creatorType": "author"
+                }
+            ],
+            "tags": [],
+            "title": "Remote Sensing Signals of Atmospheric Physics and Chemistry Related to 2010 Yushu Ms 7.1 Earthquake\ue003\ue003",
+            "date": "2011-07-10",
+            "ISSN": "1001-8166",
+            "language": "en",
+            "publicationTitle": "Advances in Earth Science",
+            "volume": "26",
+            "issue": "7",
+            "DOI": "10.11867/j.issn.1001-8166.2011.07.0787",
+            "pages": "787",
+            "url": "http://www.adearth.ac.cn/EN/10.11867/j.issn.1001-8166.2011.07.0787",
+            "abstractNote": "The temporal and spatial variations of surface temperature, vapor tota...",
+            "libraryCatalog": "www.adearth.ac.cn",
+            "accessDate": "2023-05-24T18:47:32Z"
+        },
+        "ESDTs": [
+            "AIRS3STD"
+        ],
+        "Type": ""
+    },
+    {
+        "result_id": [
+            "-KRn9SNmQPcJ"
+        ],
+        "URL": [
+            "https://nhess.copernicus.org/articles/13/2513/2013/"
+        ],
+        "pub_doi": "10.5194/NHESS-13-2513-2013",
+        "author": "Y Cui",
+        "year": "2013",
+        "title": "Anomalies of total column CO and O3 associated with great earthquakes in recent years",
+        "zotero": {
+            "key": "95ANMS5J",
+            "version": 0,
+            "itemType": "journalArticle",
+            "creators": [
+                {
+                    "firstName": "Y.",
+                    "lastName": "Cui",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "J.",
+                    "lastName": "Du",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "D.",
+                    "lastName": "Zhang",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Y.",
+                    "lastName": "Sun",
+                    "creatorType": "author"
+                }
+            ],
+            "tags": [],
+            "publicationTitle": "Natural Hazards and Earth System Sciences",
+            "journalAbbreviation": "Nat. Hazards Earth Syst. Sci.",
+            "volume": "13",
+            "issue": "10",
+            "abstractNote": "Abstract. Variations of total column CO and O3 in the atmosphere over the epicenter areas of 35 great earthquakes that occurred throughout the world in recent years were studied based on the hyper-spectrum data from Atmospheric Infrared Sounder (AIRS). It was found that anomalous increases of CO and/or O3 concentrations occurred over the epicenter areas of 12 earthquakes among the 35 studied ones. However, increases in both CO and O3 concentrations were found for 6 earthquakes. The O3 anomalies appeared in the month when the earthquake occurred and lasted for a few months, whereas CO anomalies occurred irregularly. The duration of CO and O3 anomalies related to the earthquakes ranged from 1 to 6 months. The anomalies of CO concentration related to the earthquake can be mainly attributed to gas emission from the lithosphere and photochemical reaction, while the anomalous increases in O3 concentration can be mainly due to the transport of O3-enriched air and photochemical reaction. However, more work needs to be done in order to understand the mechanism of the CO and O3 anomalies further.",
+            "language": "en",
+            "ISSN": "1684-9981",
+            "date": "2013-10-09",
+            "pages": "2513-2519",
+            "DOI": "10.5194/nhess-13-2513-2013",
+            "url": "https://nhess.copernicus.org/articles/13/2513/2013/",
+            "title": "Anomalies of total column CO and O&lt;sub&gt;3&lt;/sub&gt; associated with great earthquakes in recent years",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "accessDate": "2023-05-24T18:45:01Z"
+        },
+        "ESDTs": [
+            "AIRS3STD"
+        ],
+        "Type": "journal-article"
+    },
+    {
+        "result_id": [
+            "NQwawoG7e_QJ"
+        ],
+        "URL": [
+            "https://www.sciencedirect.com/science/article/pii/S1352231021005264"
+        ],
+        "pub_doi": "10.1016/J.ATMOSENV.2021.118704",
+        "author": "L Gao",
+        "year": "2021",
+        "title": "Subseasonal characteristics and meteorological causes of surface O3 in different East Asian summer monsoon periods over the North China Plain during 2014\u20132019",
+        "zotero": {
+            "key": "UX49FIJF",
+            "version": 0,
+            "itemType": "journalArticle",
+            "creators": [
+                {
+                    "firstName": "Libo",
+                    "lastName": "Gao",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Tijian",
+                    "lastName": "Wang",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Xuejuan",
+                    "lastName": "Ren",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Danyang",
+                    "lastName": "Ma",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Bingliang",
+                    "lastName": "Zhuang",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Shu",
+                    "lastName": "Li",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Min",
+                    "lastName": "Xie",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Mengmeng",
+                    "lastName": "Li",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Xiu-Qun",
+                    "lastName": "Yang",
+                    "creatorType": "author"
+                }
+            ],
+            "tags": [
+                {
+                    "tag": "Surface ozone",
+                    "type": 1
+                },
+                {
+                    "tag": "The East Asian summer monsoon period",
+                    "type": 1
+                },
+                {
+                    "tag": "Subseasonal",
+                    "type": 1
+                },
+                {
+                    "tag": "Trend",
+                    "type": 1
+                }
+            ],
+            "pages": "118704",
+            "date": "2021-11-01",
+            "ISSN": "1352-2310",
+            "DOI": "10.1016/j.atmosenv.2021.118704",
+            "url": "https://www.sciencedirect.com/science/article/pii/S1352231021005264",
+            "abstractNote": "In recent years, surface ozone (O3) has increased rapidly over the North China Plain (NCP), which is harmful to human health and crop yields. Summertime O3 over the NCP is remarkably influenced by the East Asian summer monsoon (EASM), while the distinctions of their relations in different monsoon periods are still vague. In this study, we divided the whole monsoon season into the pre-flood period, the Meiyu flood period, and the post-flood period. For each monsoon period, we examined the characteristics and variations of O3 from 2014 to 2019 and the associated atmospheric circulations individually. Based on a multiple linear regression model, we further quantified the meteorological contributions to the year-by-year variation and increasing trend in O3 during different monsoon periods. We found that the maximum daily 8\u00a0h-average O3 concentration (O3_MDA8) exhibits subseasonal variations on the mean level (72.5, 76.7, and 63.8\u00a0ppb) and trends (3.2, 4.0, and 1.7\u00a0ppb\u00a0yr\u22121) during the three monsoon periods. Meteorological variations account for 58.9% and 58.6% of the O3 uptrends in the Meiyu flood and the pre-flood periods but exert adverse effects on the O3 increase in the post-flood period (\u221227.4%). The positive meteorology-driven trend in the pre-flood period is attributed to increased radiation and temperature, and that in the Meiyu flood period is contributed by the rise in radiation and decrease in relative humidity. While in the post-flood period, the decreasing trend mainly results from the increased precipitation. The subseasonal discrepancy is related to the distinct dominance of wave activities in the mid-and-high latitudes and the western Pacific subtropical high (WPSH) in different monsoon periods. The anomalously high pressure conduces to the high-level O3 over the NCP in the pre-flood period. Frequent O3 pollution in the Meiyu flood period is caused by the strong wave amplitudes in the mid-and-high latitudes and a westward stretched and intensified WPSH. While in the post-flood period, the east-west shift of WPSH modulates the precipitation and O3 variations over the NCP region. Among the three periods, we highlighted the Meiyu flood period for the highest O3 level and the most drastic increasing trend, during which more strict emission control should be implemented.",
+            "title": "Subseasonal characteristics and meteorological causes of surface O3 in different East Asian summer monsoon periods over the North China Plain during 2014\u20132019",
+            "journalAbbreviation": "Atmospheric Environment",
+            "volume": "264",
+            "publicationTitle": "Atmospheric Environment",
+            "language": "en",
+            "libraryCatalog": "ScienceDirect",
+            "accessDate": "2023-05-24T18:47:17Z"
+        },
+        "ESDTs": [
+            "AIRS3STD"
+        ],
+        "Type": "journal-article"
+    },
+    {
+        "result_id": [
+            "Y_p3g9kylKUJ"
+        ],
+        "URL": [
+            "https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/joc.7983"
+        ],
+        "pub_doi": "10.1002/JOC.7983",
+        "author": "MA Osei",
+        "year": "2023",
+        "title": "West Africa's moist convective environment as observed by the Atmospheric InfraRed Sounder (AIRS)",
+        "zotero": {
+            "key": "M4G2KV3V",
+            "version": 0,
+            "itemType": "journalArticle",
+            "creators": [
+                {
+                    "firstName": "Marian Amoakowaah",
+                    "lastName": "Osei",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Craig R.",
+                    "lastName": "Ferguson",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Emmanuel",
+                    "lastName": "Quansah",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Michael",
+                    "lastName": "Padi",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Leonard K.",
+                    "lastName": "Amekudzi",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Sylvester",
+                    "lastName": "Danuor",
+                    "creatorType": "author"
+                }
+            ],
+            "tags": [],
+            "publicationTitle": "International Journal of Climatology",
+            "journalAbbreviation": "Intl Journal of Climatology",
+            "volume": "43",
+            "issue": "5",
+            "language": "en",
+            "ISSN": "0899-8418, 1097-0088",
+            "date": "04/2023",
+            "pages": "2428-2448",
+            "DOI": "10.1002/joc.7983",
+            "url": "https://rmets.onlinelibrary.wiley.com/doi/10.1002/joc.7983",
+            "title": "West Africa's moist convective environment as observed by the Atmospheric <span style=\"font-variant:small-caps;\">InfraRed</span> Sounder ( <span style=\"font-variant:small-caps;\">AIRS</span> )",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "accessDate": "2023-05-24T18:34:00Z",
+            "shortTitle": "West Africa's moist convective environment as observed by the Atmospheric <span style=\"font-variant"
+        },
+        "ESDTs": [
+            "AIRS3STD"
+        ],
+        "Type": "journal-article"
+    },
+    {
+        "result_id": [
+            "RNLE8Y9PIooJ"
+        ],
+        "URL": [
+            "https://ieeexplore.ieee.org/abstract/document/9804768/"
+        ],
+        "pub_doi": "10.1109/TGRS.2022.3185636",
+        "author": "L Chang",
+        "year": "2022",
+        "title": "Effects of Water Vapor and Cloud Fraction in AIRS Retrievals on Arctic Sea Ice Variability",
+        "zotero": {
+            "key": "UL7VYEK9",
+            "version": 0,
+            "itemType": "journalArticle",
+            "creators": [
+                {
+                    "firstName": "Liang",
+                    "lastName": "Chang",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Fanglin",
+                    "lastName": "Chen",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Guoping",
+                    "lastName": "Gao",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Yang",
+                    "lastName": "Zhang",
+                    "creatorType": "author"
+                }
+            ],
+            "tags": [
+                {
+                    "tag": "Sea ice",
+                    "type": 1
+                },
+                {
+                    "tag": "Arctic",
+                    "type": 1
+                },
+                {
+                    "tag": "Market research",
+                    "type": 1
+                },
+                {
+                    "tag": "Clouds",
+                    "type": 1
+                },
+                {
+                    "tag": "Ocean temperature",
+                    "type": 1
+                },
+                {
+                    "tag": "Sea surface",
+                    "type": 1
+                },
+                {
+                    "tag": "Springs",
+                    "type": 1
+                },
+                {
+                    "tag": "Arctic",
+                    "type": 1
+                },
+                {
+                    "tag": "cloud fraction (CF)",
+                    "type": 1
+                },
+                {
+                    "tag": "sea ice",
+                    "type": 1
+                },
+                {
+                    "tag": "water vapor",
+                    "type": 1
+                }
+            ],
+            "publicationTitle": "IEEE Transactions on Geoscience and Remote Sensing",
+            "title": "Effects of Water Vapor and Cloud Fraction in AIRS Retrievals on Arctic Sea Ice Variability",
+            "volume": "60",
+            "pages": "1-12",
+            "abstractNote": "Using the precipitable water vapor (PWV) and cloud fraction (CF) measurements from the atmospheric infrared sounder (AIRS), this study investigates the potential feedback on Arctic sea ice concentration (SIC) caused by variations in PWV and total CF, as well as CFs at low, middle and high levels during December 2002\u2013November 2020. We find that increases in PWV and total CF generally coincide with the Arctic sea ice decline in each season, and both PWV and total CF anomalies are typically correlated with SIC anomalies in all seasons except for the PWV anomalies in summer. In addition, during all seasons except summer, the low CF generally exhibits closer connection than the middle and high CFs with the trend in total CF and sea ice, and the correlation of SIC with total CF anomalies is governed by that with low CF anomalies. The sensitivities of SIC to changes in PWV and total CF are typically negative, and they are generally consistent with each other in each season. Moreover, the negative sensitivities of SIC to low, middle, and high CFs are greatest and most extensive in summer. The contribution of PWV is typically much greater and more extensive than that of total CF to Arctic sea ice change in all seasons. Among the CFs at different levels, the positive contribution of low CF is typically most extensive in winter and spring, while the contributions of high and middle CFs are relatively greater in summer and autumn.",
+            "DOI": "10.1109/TGRS.2022.3185636",
+            "ISSN": "1558-0644",
+            "date": "2022",
+            "libraryCatalog": "IEEE Xplore"
+        },
+        "ESDTs": [
+            "AIRS3STD"
+        ],
+        "Type": "journal-article"
+    },
+    {
+        "result_id": [
+            "BGXpnQDGnPkJ"
+        ],
+        "URL": [
+            "https://www.sciencedirect.com/science/article/pii/S0048969721003223"
+        ],
+        "pub_doi": "10.1016/J.SCITOTENV.2021.145256",
+        "author": "P Xiong",
+        "year": "2021",
+        "title": "Towards advancing the earthquake forecasting by machine learning of satellite data",
+        "zotero": {
+            "key": "D4YKYH4N",
+            "version": 0,
+            "itemType": "journalArticle",
+            "creators": [
+                {
+                    "firstName": "Pan",
+                    "lastName": "Xiong",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Lei",
+                    "lastName": "Tong",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Kun",
+                    "lastName": "Zhang",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Xuhui",
+                    "lastName": "Shen",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Roberto",
+                    "lastName": "Battiston",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Dimitar",
+                    "lastName": "Ouzounov",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Roberto",
+                    "lastName": "Iuppa",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Danny",
+                    "lastName": "Crookes",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Cheng",
+                    "lastName": "Long",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Huiyu",
+                    "lastName": "Zhou",
+                    "creatorType": "author"
+                }
+            ],
+            "tags": [
+                {
+                    "tag": "Earthquake forecasting",
+                    "type": 1
+                },
+                {
+                    "tag": "Earthquake precursors",
+                    "type": 1
+                },
+                {
+                    "tag": "Machine learning",
+                    "type": 1
+                },
+                {
+                    "tag": "Infrared and hyperspectral parameters",
+                    "type": 1
+                }
+            ],
+            "pages": "145256",
+            "date": "2021-06-01",
+            "ISSN": "0048-9697",
+            "DOI": "10.1016/j.scitotenv.2021.145256",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0048969721003223",
+            "abstractNote": "Earthquakes have become one of the leading causes of death from natural hazards in the last fifty years. Continuous efforts have been made to understand the physical characteristics of earthquakes and the interaction between the physical hazards and the environments so that appropriate warnings may be generated before earthquakes strike. However, earthquake forecasting is not trivial at all. Reliable forecastings should include the analysis and the signals indicating the coming of a significant quake. Unfortunately, these signals are rarely evident before earthquakes occur, and therefore it is challenging to detect such precursors in seismic analysis. Among the available technologies for earthquake research, remote sensing has been commonly used due to its unique features such as fast imaging and wide image-acquisition range. Nevertheless, early studies on pre-earthquake and remote-sensing anomalies are mostly oriented towards anomaly identification and analysis of a single physical parameter. Many analyses are based on singular events, which provide a lack of understanding of this complex natural phenomenon because usually, the earthquake signals are hidden in the environmental noise. The universality of such analysis still is not being demonstrated on a worldwide scale. In this paper, we investigate physical and dynamic changes of seismic data and thereby develop a novel machine learning method, namely Inverse Boosting Pruning Trees (IBPT), to issue short-term forecast based on the satellite data of 1371 earthquakes of magnitude six or above due to their impact on the environment. We have analyzed and compared our proposed framework against several states of the art machine learning methods using ten different infrared and hyperspectral measurements collected between 2006 and 2013. Our proposed method outperforms all the six selected baselines and shows a strong capability in improving the likelihood of earthquake forecasting across different earthquake databases.",
+            "title": "Towards advancing the earthquake forecasting by machine learning of satellite data",
+            "journalAbbreviation": "Science of The Total Environment",
+            "volume": "771",
+            "publicationTitle": "Science of The Total Environment",
+            "language": "en",
+            "libraryCatalog": "ScienceDirect",
+            "accessDate": "2023-05-24T18:45:02Z"
+        },
+        "ESDTs": [
+            "AIRS3STD"
+        ],
+        "Type": "journal-article"
+    },
+    {
+        "result_id": [
+            "fWJCAyZFnp0J"
+        ],
+        "URL": [
+            "https://www.sciencedirect.com/science/article/pii/S2590056022000172"
+        ],
+        "pub_doi": "10.1016/J.JAESX.2022.100096",
+        "author": "ZH Jiao",
+        "year": "2022",
+        "title": "Consecutive statistical evaluation framework for earthquake forecasting: Evaluating satellite surface temperature anomaly detection methods",
+        "zotero": {
+            "key": "8CT78C6L",
+            "version": 0,
+            "itemType": "journalArticle",
+            "creators": [
+                {
+                    "firstName": "Zhong-Hu",
+                    "lastName": "Jiao",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Xinjian",
+                    "lastName": "Shan",
+                    "creatorType": "author"
+                }
+            ],
+            "tags": [
+                {
+                    "tag": "Skin temperature anomaly",
+                    "type": 1
+                },
+                {
+                    "tag": "Anomaly detection",
+                    "type": 1
+                },
+                {
+                    "tag": "Earthquake forecasting",
+                    "type": 1
+                },
+                {
+                    "tag": "Forecasting efficiency",
+                    "type": 1
+                },
+                {
+                    "tag": "Statistical seismology",
+                    "type": 1
+                },
+                {
+                    "tag": "Consecutive statistical evaluation framework (CSEF)",
+                    "type": 1
+                }
+            ],
+            "pages": "100096",
+            "date": "2022-06-01",
+            "ISSN": "2590-0560",
+            "DOI": "10.1016/j.jaesx.2022.100096",
+            "url": "https://www.sciencedirect.com/science/article/pii/S2590056022000172",
+            "abstractNote": "Short-term earthquake prediction remains a challenge. In this study, we investigated earthquake predictability using a consecutive statistical evaluation framework (CSEF). Two widely used anomaly detection methods\u2014Z-score (ZS) and Robust Satellite Techniques (RST)\u2014were evaluated using the Atmospheric Infrared Sounder surface temperature data based on global M\u00a0\u2265\u00a06 earthquakes with focal depths of \u226470\u00a0km from 2006 to 2020. Retrospective correlation analyses reveal accuracy and missed detection rates of 80.33% & 19.67% and 80.93% & 19.67% for ZS and RST, respectively. For earthquake forecasting performance in seismically active regions, accuracy rates are within 0\u20131% and false alarm rates are up to 50\u201380%. Areas near earthquake-prone regions have the highest accuracy rates. The accuracy rates can be >10% within some regions in Japan and Indonesia. Overall temporal average Matthews correlation coefficients (MCC) range from \u22120.48 to 0.21; global spatial average MCCs for each day from 2006 to 2020 are between \u22120.1 and 0.1. After 2012, the ZS method yields higher MCC values than the RST method. Our results confirm the reliability of CESF for assessment of earthquake forecasting capability, and the possibility of forecasting earthquakes at earthquake-prone areas. This approach can be applied to long-term analyses of precursory parameters, anomaly detection methods, and hypotheses, all of which are essential to the ultimate goal of routine and consistent earthquake forecasting.",
+            "title": "Consecutive statistical evaluation framework for earthquake forecasting: Evaluating satellite surface temperature anomaly detection methods",
+            "journalAbbreviation": "Journal of Asian Earth Sciences: X",
+            "volume": "7",
+            "publicationTitle": "Journal of Asian Earth Sciences: X",
+            "language": "en",
+            "libraryCatalog": "ScienceDirect",
+            "accessDate": "2023-05-24T18:34:19Z",
+            "shortTitle": "Consecutive statistical evaluation framework for earthquake forecasting"
+        },
+        "ESDTs": [
+            "AIRS3STD"
+        ],
+        "Type": "journal-article"
+    },
+    {
+        "result_id": [
+            "nyivoQIuJGUJ"
+        ],
+        "URL": [
+            "https://www.mdpi.com/2571-6255/6/3/99"
+        ],
+        "pub_doi": "10.3390/FIRE6030099",
+        "author": "VG Bondur",
+        "year": "2023",
+        "title": "Intense Wildfires in Russia over a 22-Year Period According to Satellite Data",
+        "zotero": {
+            "key": "UKUN2RST",
+            "version": 0,
+            "itemType": "journalArticle",
+            "creators": [
+                {
+                    "firstName": "Valery G.",
+                    "lastName": "Bondur",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Kristina A.",
+                    "lastName": "Gordo",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Olga S.",
+                    "lastName": "Voronova",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Alla L.",
+                    "lastName": "Zima",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Natalya V.",
+                    "lastName": "Feoktistova",
+                    "creatorType": "author"
+                }
+            ],
+            "tags": [
+                {
+                    "tag": "satellite data",
+                    "type": 1
+                },
+                {
+                    "tag": "FRP",
+                    "type": 1
+                },
+                {
+                    "tag": "anomalous wildfires",
+                    "type": 1
+                },
+                {
+                    "tag": "surface air temperature",
+                    "type": 1
+                },
+                {
+                    "tag": "relative humidity",
+                    "type": 1
+                }
+            ],
+            "title": "Intense Wildfires in Russia over a 22-Year Period According to Satellite Data",
+            "publicationTitle": "Fire",
+            "rights": "http://creativecommons.org/licenses/by/3.0/",
+            "volume": "6",
+            "issue": "3",
+            "pages": "99",
+            "date": "2023/3",
+            "DOI": "10.3390/fire6030099",
+            "ISSN": "2571-6255",
+            "url": "https://www.mdpi.com/2571-6255/6/3/99",
+            "abstractNote": "The spatiotemporal distributions of wildfire areas and FRP values for the territory of Russia and its large regions (the European part of Russia, as well as the Ural, Siberian, and Far Eastern Federal Districts) during 2001\u20132022 were analyzed using satellite data. For the territory of Russia, there was a decreasing trend in annual burned areas and a small increase in average hotspot FRP. At the same time, the largest annual burned areas in the territory of Russia were recorded in 2008 (295.2 thous. km2), 2002 (272.4 thous. km2), 2006 (261.2 thous. km2), and in 2012 (258.4 thous. km2). It was found that during the studied period, 90% of fire hotspots in Russia had a maximum FRP < 100 MW. The most intense wildfires (FRP > 1500 MW) amounted to only 0.1% and were detected mainly in the Siberian and Far Eastern Federal Districts. Interconnections between large wildfires and meteorological factors, including blocking activity in the atmosphere, were revealed.",
+            "language": "en",
+            "libraryCatalog": "www.mdpi.com",
+            "accessDate": "2023-05-24T18:34:32Z"
+        },
+        "ESDTs": [
+            "AIRS3STD"
+        ],
+        "Type": "journal-article"
+    },
+    {
+        "result_id": [
+            "GVO-x0cPmYgJ"
+        ],
+        "URL": [
+            "https://ieeexplore.ieee.org/abstract/document/7506020/"
+        ],
+        "pub_doi": "10.1109/LGRS.2016.2581140",
+        "author": "S Prakash",
+        "year": "2016",
+        "title": "Global land surface emissivity estimation from AMSR2 observations",
+        "zotero": {
+            "key": "GLBNQHZX",
+            "version": 0,
+            "itemType": "journalArticle",
+            "creators": [
+                {
+                    "firstName": "Satya",
+                    "lastName": "Prakash",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Hamid",
+                    "lastName": "Norouzi",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Marzi",
+                    "lastName": "Azarderakhsh",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Reginald",
+                    "lastName": "Blake",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Kibrewossen",
+                    "lastName": "Tesfagiorgis",
+                    "creatorType": "author"
+                }
+            ],
+            "tags": [
+                {
+                    "tag": "Land surface",
+                    "type": 1
+                },
+                {
+                    "tag": "Land surface temperature",
+                    "type": 1
+                },
+                {
+                    "tag": "Microwave radiometry",
+                    "type": 1
+                },
+                {
+                    "tag": "Vegetation mapping",
+                    "type": 1
+                },
+                {
+                    "tag": "Surface treatment",
+                    "type": 1
+                },
+                {
+                    "tag": "Atmospheric modeling",
+                    "type": 1
+                },
+                {
+                    "tag": "Skin",
+                    "type": 1
+                },
+                {
+                    "tag": "Brightness temperature",
+                    "type": 1
+                },
+                {
+                    "tag": "land cover",
+                    "type": 1
+                },
+                {
+                    "tag": "land surface emissivity",
+                    "type": 1
+                },
+                {
+                    "tag": "passive microwave (PMW) remote sensing",
+                    "type": 1
+                }
+            ],
+            "publicationTitle": "IEEE Geoscience and Remote Sensing Letters",
+            "title": "Global Land Surface Emissivity Estimation From AMSR2 Observations",
+            "volume": "13",
+            "issue": "9",
+            "pages": "1270-1274",
+            "abstractNote": "A reliable estimate of emissivity is critical for a wide range of applications for the atmosphere, the biosphere, the lithosphere, the cryosphere, and the hydrosphere. This study uses three years (August 2012 to July 2015) of data from the Advanced Microwave Scanning Radiometer-2 sensor that is onboard the Global Change Observation Mission 1st Water satellite to explore estimates of instantaneous global land emissivity. A method is adopted to remove the known inconsistency in penetration depths between microwave brightness temperatures and infrared-based ancillary data that could cause differences between day and night emissivity estimates. After removing the diurnal atmospheric effects, the resulting retrieved cloud-free land emissivities realistically represent well-known large-scale features. As expected, the polarization differences of estimated emissivities show noticeable seasonal variations over the deciduous woodland and grassland regions due to changes in vegetation density. The potential of estimated emissivities for high-latitude snow detection and freeze/thaw state identification is also demonstrated.",
+            "DOI": "10.1109/LGRS.2016.2581140",
+            "ISSN": "1558-0571",
+            "date": "2016-09",
+            "libraryCatalog": "IEEE Xplore"
+        },
+        "ESDTs": [
+            "AIRS3STD"
+        ],
+        "Type": "journal-article"
+    },
+    {
+        "result_id": [
+            "x0R1bcRrJPwJ"
+        ],
+        "URL": [
+            "https://iopscience.iop.org/article/10.3847/1538-4357/acbe3c/meta"
+        ],
+        "pub_doi": "10.3847/1538-4357/ACBE3C",
+        "author": "JN Mettler",
+        "year": "2023",
+        "title": "Earth as an Exoplanet. II. Earth's Time-variable Thermal Emission and Its Atmospheric Seasonality of Bioindicators",
+        "zotero": {
+            "key": "VZVICTV5",
+            "version": 0,
+            "itemType": "journalArticle",
+            "creators": [
+                {
+                    "firstName": "Jean-No\u00ebl",
+                    "lastName": "Mettler",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Sascha P.",
+                    "lastName": "Quanz",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Ravit",
+                    "lastName": "Helled",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Stephanie L.",
+                    "lastName": "Olson",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Edward W.",
+                    "lastName": "Schwieterman",
+                    "creatorType": "author"
+                }
+            ],
+            "tags": [],
+            "publicationTitle": "The Astrophysical Journal",
+            "journalAbbreviation": "ApJ",
+            "volume": "946",
+            "issue": "2",
+            "abstractNote": "Abstract\r\n            \r\n              We assess the dependence of Earth\u2019s disk-integrated mid-infrared thermal emission spectrum on observation geometries and investigate which and how spectral features are impacted by seasonality on Earth. We compiled an exclusive data set containing 2690 disk-integrated thermal emission spectra for four different full-disk observing geometries (North and South Pole-centered and Africa and Pacific-centered equatorial views) over four consecutive years. The spectra were derived from 2378 spectral channels in the wavelength range from 3.75\u201315.4\r\n              \u03bc\r\n              m (nominal resolution \u22481200) and were recorded by the Atmospheric Infrared Sounder on board the Aqua satellite. We learned that there is significant seasonal variability in Earth\u2019s thermal emission spectrum, and the strength of spectral features of bioindicators, such as N\r\n              2\r\n              O, CH\r\n              4\r\n              , O\r\n              3\r\n              , and CO\r\n              2\r\n              depends strongly on both season and viewing geometry. In addition, we found a strong spectral degeneracy with respect to the latter two indicating that multi-epoch measurements and time-dependent signals may be required in order to fully characterize planetary environments. Even for Earth and especially for equatorial views, the variations in flux and strength of absorption features in the disk-integrated data are small and typically \u2264 10%. Disentangling these variations from the noise in future exoplanet observations will be a challenge. However, irrespectively of when the planet will be measured (i.e., day or night or season) the results from mid-infrared observations will remain the same to the zeroth order, which is an advantage over reflected light observations.",
+            "ISSN": "0004-637X, 1538-4357",
+            "date": "2023-04-01",
+            "pages": "82",
+            "DOI": "10.3847/1538-4357/acbe3c",
+            "url": "https://iopscience.iop.org/article/10.3847/1538-4357/acbe3c",
+            "title": "Earth as an Exoplanet. II. Earth\u2019s Time-variable Thermal Emission and Its Atmospheric Seasonality of Bioindicators",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "accessDate": "2023-05-24T18:34:06Z"
+        },
+        "ESDTs": [
+            "AIRS3STD"
+        ],
+        "Type": "journal-article"
+    },
+    {
+        "result_id": [
+            "o3CB8fvrGj0J"
+        ],
+        "URL": [
+            "https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018JD028428"
+        ],
+        "pub_doi": "10.1029/2018JD028428",
+        "author": "S Sarkar",
+        "year": "2018",
+        "title": "Crop residue burning in northern India: Increasing threat to Greater India",
+        "zotero": {
+            "key": "8FDHJGY6",
+            "version": 0,
+            "itemType": "journalArticle",
+            "creators": [
+                {
+                    "firstName": "S.",
+                    "lastName": "Sarkar",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "R. P.",
+                    "lastName": "Singh",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "A.",
+                    "lastName": "Chauhan",
+                    "creatorType": "author"
+                }
+            ],
+            "tags": [],
+            "publicationTitle": "Journal of Geophysical Research: Atmospheres",
+            "journalAbbreviation": "J. Geophys. Res. Atmos.",
+            "volume": "123",
+            "issue": "13",
+            "language": "en",
+            "ISSN": "2169-897X, 2169-8996",
+            "date": "2018-07-16",
+            "pages": "6920-6934",
+            "DOI": "10.1029/2018JD028428",
+            "url": "https://onlinelibrary.wiley.com/doi/abs/10.1029/2018JD028428",
+            "title": "Crop Residue Burning in Northern India: Increasing Threat to Greater India",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "accessDate": "2023-05-24T18:34:03Z",
+            "shortTitle": "Crop Residue Burning in Northern India"
+        },
+        "ESDTs": [
+            "AIRS3STD"
+        ],
+        "Type": "journal-article"
+    },
+    {
+        "result_id": [
+            "qHxUrCaEjvUJ"
+        ],
+        "URL": [
+            "https://link.springer.com/article/10.1134/s0001433822120209"
+        ],
+        "pub_doi": "10.1134/S0001433822120209",
+        "author": "NV Rodionova",
+        "year": "2022",
+        "title": "Correlation of Ground-Based and Satellite Measurements of Methane Concentration in the Surface Layer of the Atmosphere in the Tiksi Region",
+        "zotero": {
+            "key": "5GSN87VE",
+            "version": 0,
+            "itemType": "journalArticle",
+            "creators": [
+                {
+                    "firstName": "N. V.",
+                    "lastName": "Rodionova",
+                    "creatorType": "author"
+                }
+            ],
+            "tags": [
+                {
+                    "tag": "remote sensing",
+                    "type": 1
+                },
+                {
+                    "tag": "ground measurements",
+                    "type": 1
+                },
+                {
+                    "tag": "satellite measurements",
+                    "type": 1
+                },
+                {
+                    "tag": "methane concentration in the atmosphere",
+                    "type": 1
+                },
+                {
+                    "tag": "Spearman correlation coefficient",
+                    "type": 1
+                }
+            ],
+            "date": "2022-12-01",
+            "title": "Correlation of Ground-Based and Satellite Measurements of Methane Concentration in the Surface Layer of the Atmosphere in the Tiksi Region",
+            "pages": "1610-1618",
+            "abstractNote": "In this work, the correlation of AIRS/Aqua satellite measurements of methane concentration in the surface layer of the atmosphere with ground-based measurements at the Voeikov Main Geophysical Observatory in Tiksi in 2011\u20132020 is determined. The correlation of satellite measurements with ground measurements depends on the season. In spring and summer, the correlation exceeds the autumn correlation, and it is lowest in winter. For the winter period (December, January, and February), the decrease in correlation is associated with possible inversions of air temperature (Yurganov et al., 2016; Anisimov and Kokorev, 2015). When the temperature contrast (TC) is less than 10\u00b0C (the difference between air temperatures at the surface and at a level of 4 km (600 hPa)), it is preferable to use satellite data averaged at the levels of 400\u2013500 hPa. This gives an increase in the Spearman correlation coefficient (SCC) between ground and satellite measurements from 0.44 (1000 hPa) to 0.63 (400\u2013500 hPa). However, the obtained regression relationship with a determination coefficient of 0.44 makes it problematic to use it for predicting ground-based data from satellite measurements in areas similar in climatic conditions to Tiksi.",
+            "ISSN": "1555-628X",
+            "url": "https://doi.org/10.1134/S0001433822120209",
+            "DOI": "10.1134/S0001433822120209",
+            "journalAbbreviation": "Izv. Atmos. Ocean. Phys.",
+            "volume": "58",
+            "issue": "12",
+            "publicationTitle": "Izvestiya, Atmospheric and Oceanic Physics",
+            "language": "en",
+            "libraryCatalog": "Springer Link",
+            "accessDate": "2023-05-24T18:36:37Z"
+        },
+        "ESDTs": [
+            "AIRS3STD"
+        ],
+        "Type": "journal-article"
+    },
+    {
+        "result_id": [
+            "H34jXmvxCmYJ"
+        ],
+        "URL": [
+            "https://www.tandfonline.com/doi/abs/10.1080/01431161.2017.1346401"
+        ],
+        "pub_doi": "10.1080/01431161.2017.1346401",
+        "author": "OA Isioye",
+        "year": "2017",
+        "title": "Retrieval and analysis of precipitable water vapour based on GNSS, AIRS, and reanalysis models over Nigeria",
+        "zotero": {
+            "key": "EE6I6KN8",
+            "version": 0,
+            "itemType": "journalArticle",
+            "creators": [
+                {
+                    "firstName": "Olalekan Adekunle",
+                    "lastName": "Isioye",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Ludwig",
+                    "lastName": "Combrinck",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Joel Ondego",
+                    "lastName": "Botai",
+                    "creatorType": "author"
+                }
+            ],
+            "tags": [],
+            "publicationTitle": "International Journal of Remote Sensing",
+            "journalAbbreviation": "International Journal of Remote Sensing",
+            "volume": "38",
+            "issue": "20",
+            "language": "en",
+            "ISSN": "0143-1161, 1366-5901",
+            "date": "2017-10-18",
+            "pages": "5710-5735",
+            "DOI": "10.1080/01431161.2017.1346401",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/01431161.2017.1346401",
+            "title": "Retrieval and analysis of precipitable water vapour based on GNSS, AIRS, and reanalysis models over Nigeria",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "accessDate": "2023-05-24T18:38:47Z"
+        },
+        "ESDTs": [
+            "AIRS3STD"
+        ],
+        "Type": "journal-article"
+    },
+    {
+        "result_id": [
+            "MikBPeREBy0J"
+        ],
+        "URL": [
+            "https://www.dzxb.org/en/article/doi/10.11939/jass.2016.03.012"
+        ],
+        "pub_doi": "10.11939/JASS.2016.03.012",
+        "author": "C Yueju",
+        "year": "2016",
+        "title": "Mapping emission of carbon-bearing gases from the satellite hyperspectral data in western Sichuan before and after the 2008 Wenchuan MS8.0 earthquake",
+        "zotero": {
+            "key": "8ZYN6KHE",
+            "version": 0,
+            "itemType": "journalArticle",
+            "creators": [
+                {
+                    "firstName": "Cui",
+                    "lastName": "Yueju",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Du",
+                    "lastName": "Jianguo",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Jing",
+                    "lastName": "Feng",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Li",
+                    "lastName": "Xinyan",
+                    "creatorType": "author"
+                }
+            ],
+            "tags": [],
+            "title": "Mapping emission of carbon-bearing gases from the satellite hyperspectral data in western Sichuan before and after the 2008 Wenchuan <i>M</i><sub>S</sub>8.0 earthquake",
+            "publicationTitle": "\u5730\u9707\u5b66\u62a5",
+            "rights": "http://creativecommons.org/licenses/by/3.0/",
+            "date": "2016-05-01",
+            "DOI": "10.11939/jass.2016.03.012",
+            "url": "https://www.dzxb.org/en/article/doi/10.11939/jass.2016.03.012",
+            "abstractNote": "Carbon-bearing gases underground strongly emitted before and after the <i>M<sub>S</sub></i>8.0 Wenchuan earthquake in 2008. This paper obtained the temporal and spatial distribution characteristics of carbon-bearing gases anomalies by using the differential method with the satellite hyperspectral data. The data showed that CO<sub>2</sub>, CH<sub>4</sub> and CO anomalies occurred before and after Wenchuan earthquake, which were spatially controlled by the faults obviously and were similar with the thermal  infrared anomaly distribution. CO and CO<sub>2</sub> anomalies had a larger range than CH<sub>4</sub>. CO anomaly distributed not only along the Longmenshan fault but also in the Sichuan basin. The order of carbon-gas anomaly appearance was CO<sub>2</sub>, CH<sub>4</sub> and CO. CO<sub>2 </sub> and CH<sub>4</sub> gases mainly emitted from the inner earth along the Longmenshan fault, and CH<sub>4</sub> also may be the reduction products of CO<sub>2</sub> under the reduce condition. CO can be controlled not only by the gas emission along the fault but also by the emitted CH<sub>4</sub> oxidation, and CO anomaly in the Sichuan basin was caused by the oxidation of CH<sub>4</sub> which seepes from the oil and gas field. The results not only provide new monitoring parameters of earthquake precursor but also a scientific basis for the mechanism of thermal infrared anomaly associated with  \u201cearth degassing and greenhouse effect\u201d\uff0cand can be used in the study of earthquake prediction. At the same time, the results play an important role in the study of geological carbon-emission caused by earthquake.",
+            "language": "zh",
+            "journalAbbreviation": "dzxb",
+            "volume": "38",
+            "issue": "3",
+            "pages": "448-457",
+            "ISSN": "0253-3782",
+            "libraryCatalog": "www.dzxb.org",
+            "accessDate": "2023-05-24T18:40:57Z"
+        },
+        "ESDTs": [
+            "AIRS3STD"
+        ],
+        "Type": ""
+    },
+    {
+        "result_id": [
+            "D0en4ug0C0sJ"
+        ],
+        "URL": [
+            "https://www.sciencedirect.com/science/article/pii/S0034425721005587"
+        ],
+        "pub_doi": "10.1016/J.RSE.2021.112838",
+        "author": "V Capelle",
+        "year": "2022",
+        "title": "A full physics algorithm to retrieve nighttime sea surface temperature with IASI: Toward an independent homogeneous long time-series for climate studies",
+        "zotero": {
+            "key": "HAEIXNVU",
+            "version": 0,
+            "itemType": "journalArticle",
+            "creators": [
+                {
+                    "firstName": "Virginie",
+                    "lastName": "Capelle",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Jean-Michel",
+                    "lastName": "Hartmann",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Cyril",
+                    "lastName": "Crevoisier",
+                    "creatorType": "author"
+                }
+            ],
+            "tags": [
+                {
+                    "tag": "Sea surface skin temperature",
+                    "type": 1
+                },
+                {
+                    "tag": "Infrared radiative transfer retrieval algorithm",
+                    "type": 1
+                },
+                {
+                    "tag": "Infrared Atmospheric Sounder Interferometer (IASI)",
+                    "type": 1
+                },
+                {
+                    "tag": "Long time series",
+                    "type": 1
+                }
+            ],
+            "pages": "112838",
+            "date": "2022-02-01",
+            "ISSN": "0034-4257",
+            "DOI": "10.1016/j.rse.2021.112838",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0034425721005587",
+            "abstractNote": "A fully physically-based algorithm is presented and used to retrieve nighttime sea-surface (skin) temperatures (SSTs) from spectra recorded by the Infrared Atmospheric Sounder Interferometer (IASI). The main advantage of the proposed approach, based on radiative transfer calculations, is to provide a dataset totally independent of any in-situ measurement or model. The SSTs are retrieved at the IASI spot resolution (clear sky) for the three Metop platforms, today leading to a continuous record over more than 13\u00a0years, which is planned to be extended for at least another decade. Five atmospheric transparency windows centered at 3.8, 4.0, 4.7, 9.0 and 11\u00a0\u03bcm have been used in the retrieval. Results are compared with in-situ temperatures provided by the buoys network as well as with other satellite datasets. This first analysis enables to draw the following three main conclusions. First, we confirm the interest of using short wavelengths around 4\u00a0\u03bcm which enables accurate estimates characterized by a reduced bias with respect to those around 9 and 11\u00a0\u03bcm, thanks to significantly weaker sensitivities to errors in the modeling of the water vapor contribution to the atmospheric absorption and emission. Second, we show that the observed dependences of the skin-depth temperature difference on various observed-scene parameters (wind speed, air-sea temperature difference, humidity) are consistent with predictions of theoretical and empirical models, as well as with those from other SST products. Finally, the overall averaged bias between our retrieved values converted to depth temperatures and those provided by in-situ measurements is \u22120.04\u00a0K (median: \u22120.024\u00a0K), with a standard deviation (SD) of 0.38\u00a0K (Robust SD\u00a0=\u00a00.25\u00a0K). The bias is thus well below the 0.1\u00a0K required for a SST product usable for climate studies and extremely stable over more than a decade. Then, we investigate the consistency between the three generations of IASI on-board Metop-A, -B, and -C over their overlap periods (2013\u20132020 for Metop-A and Metop-B, and 2019\u20132020 for Metop-C) by comparing the associated retrieved monthly-averaged SSTs over 1\u00b0x1\u00b0 grids. The mean differences obtained are lower than 0.02\u00a0K, with a SD of 0.3\u00a0K consistent with the natural variation of the SST within a month. This demonstrates the high stability of the SSTs retrieved using spectra recorded from the IASI suite and opens the possibility to generate long time series for climate studies. This is tested in a preliminary investigation of the SST anomalies between 2008 and 2020, with the successful detection of short-term (El Ni\u00f1o and La Ni\u00f1a) changes as well as of a global warming trend of about +0.3\u00a0K/decade quantitatively consistent with other observations.",
+            "title": "A full physics algorithm to retrieve nighttime sea surface temperature with IASI: Toward an independent homogeneous long time-series for climate studies",
+            "journalAbbreviation": "Remote Sensing of Environment",
+            "volume": "269",
+            "publicationTitle": "Remote Sensing of Environment",
+            "language": "en",
+            "libraryCatalog": "ScienceDirect",
+            "accessDate": "2023-05-24T18:47:35Z",
+            "shortTitle": "A full physics algorithm to retrieve nighttime sea surface temperature with IASI"
+        },
+        "ESDTs": [
+            "AIRS3STD"
+        ],
+        "Type": "journal-article"
+    },
+    {
+        "result_id": [
+            "MUGEVr8OIfkJ"
+        ],
+        "URL": [
+            "https://ieeexplore.ieee.org/abstract/document/8714041/"
+        ],
+        "pub_doi": "10.1109/TGRS.2019.2913149",
+        "author": "L Chang",
+        "year": "2019",
+        "title": "Variations in water vapor from AIRS and MODIS in response to Arctic sea ice change in December 2002\u2013November 2016",
+        "zotero": {
+            "key": "LMD8X5AF",
+            "version": 0,
+            "itemType": "journalArticle",
+            "creators": [
+                {
+                    "firstName": "Liang",
+                    "lastName": "Chang",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Guoping",
+                    "lastName": "Gao",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Yangdong",
+                    "lastName": "Li",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Yu",
+                    "lastName": "Zhang",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Chunling",
+                    "lastName": "Zhang",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Yang",
+                    "lastName": "Zhang",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Guiping",
+                    "lastName": "Feng",
+                    "creatorType": "author"
+                }
+            ],
+            "tags": [
+                {
+                    "tag": "Arctic",
+                    "type": 1
+                },
+                {
+                    "tag": "Oceans",
+                    "type": 1
+                },
+                {
+                    "tag": "Sea measurements",
+                    "type": 1
+                },
+                {
+                    "tag": "MODIS",
+                    "type": 1
+                },
+                {
+                    "tag": "Sea ice",
+                    "type": 1
+                },
+                {
+                    "tag": "Atmospheric measurements",
+                    "type": 1
+                },
+                {
+                    "tag": "Silicon carbide",
+                    "type": 1
+                },
+                {
+                    "tag": "Climate change",
+                    "type": 1
+                },
+                {
+                    "tag": "Arctic water vapor",
+                    "type": 1
+                },
+                {
+                    "tag": "Atmospheric Infrared Sounder (AIRS)",
+                    "type": 1
+                },
+                {
+                    "tag": "Moderate Resolution Imaging Spectroradiometer (MODIS)",
+                    "type": 1
+                },
+                {
+                    "tag": "sea ice concentration (SIC)",
+                    "type": 1
+                }
+            ],
+            "publicationTitle": "IEEE Transactions on Geoscience and Remote Sensing",
+            "title": "Variations in Water Vapor From AIRS and MODIS in Response to Arctic Sea Ice Change in December 2002\u2013November 2016",
+            "volume": "57",
+            "issue": "10",
+            "pages": "7395-7405",
+            "abstractNote": "Water vapor plays a vital role in the Arctic sea ice and climate change. The Atmospheric Infrared Sounder (AIRS) and the Moderate Resolution Imaging Spectroradiometer (MODIS) are useful tools for studying the water vapor variations over the entire Arctic. In this paper, we discuss precipitable water vapor (PWV) variations from the AIRS and MODIS Level-3 data products in response to Arctic sea ice change during December 2002\u2013November 2016. The results indicate that both AIRS- and MODIS-derived PWV measurements tend to be underestimated, and this underestimation is generally greater for the latter than the former over both land and ocean. Additionally, both the AIRS and MODIS retrievals suggest that the atmospheres are drier in the solid sea ice pack and, to a lesser extent, in the marginal ice zone, than in the open ocean in each season. Moreover, statistically significant correlations between the PWV and sea ice concentration (SIC) anomalies are generally observed in all seasons under different ice conditions except in the open ocean, where variations in the PWV may be attributed to the poleward moisture transport from lower latitudes. The Arctic PWV and SIC variation patterns are also dominated by the atmospheric and ice conditions in the solid sea ice pack, respectively. The monthly mean PWV and SIC time series analysis further reveals that the Arctic PWV variations tend to be affected by a delayed effect of approximately 1.2\u20131.3 months from SIC changes from a climatological perspective.",
+            "DOI": "10.1109/TGRS.2019.2913149",
+            "ISSN": "1558-0644",
+            "date": "2019-10",
+            "libraryCatalog": "IEEE Xplore"
+        },
+        "ESDTs": [
+            "AIRS3STD"
+        ],
+        "Type": "journal-article"
+    },
+    {
+        "result_id": [
+            "KbYcFPgnvXQJ"
+        ],
+        "URL": [
+            "https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020JC016985"
+        ],
+        "pub_doi": "10.1029/2020JC016985",
+        "author": "H Liang",
+        "year": "2021",
+        "title": "Variability in sea ice melt onset in the Arctic Northeast Passage: Seesaw of the Laptev Sea and the East Siberian Sea",
+        "zotero": {
+            "key": "5YLVH4AV",
+            "version": 0,
+            "itemType": "journalArticle",
+            "creators": [
+                {
+                    "firstName": "Hongjie",
+                    "lastName": "Liang",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Jie",
+                    "lastName": "Su",
+                    "creatorType": "author"
+                }
+            ],
+            "tags": [],
+            "publicationTitle": "Journal of Geophysical Research: Oceans",
+            "journalAbbreviation": "JGR Oceans",
+            "volume": "126",
+            "issue": "10",
+            "language": "en",
+            "ISSN": "2169-9275, 2169-9291",
+            "date": "10/2021",
+            "DOI": "10.1029/2020JC016985",
+            "url": "https://onlinelibrary.wiley.com/doi/10.1029/2020JC016985",
+            "title": "Variability in Sea Ice Melt Onset in the Arctic Northeast Passage: Seesaw of the Laptev Sea and the East Siberian Sea",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "accessDate": "2023-05-24T18:42:58Z",
+            "shortTitle": "Variability in Sea Ice Melt Onset in the Arctic Northeast Passage"
+        },
+        "ESDTs": [
+            "AIRS3STD"
+        ],
+        "Type": "journal-article"
+    },
+    {
+        "result_id": [
+            "4Uf8WSfR_bEJ"
+        ],
+        "URL": [
+            "https://www.sciencedirect.com/science/article/pii/S2352938521000914"
+        ],
+        "pub_doi": "10.1016/J.RSASE.2021.100555",
+        "author": "E Alcantara",
+        "year": "2021",
+        "title": "A satellite-based investigation into the algae bloom variability in large water supply urban reservoirs during COVID-19 lockdown",
+        "zotero": {
+            "key": "BJCRM65W",
+            "version": 0,
+            "itemType": "journalArticle",
+            "creators": [
+                {
+                    "firstName": "Enner",
+                    "lastName": "Alcantara",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Keyla",
+                    "lastName": "Coimbra",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Igor",
+                    "lastName": "Ogashawara",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Thanan",
+                    "lastName": "Rodrigues",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Jos\u00e9",
+                    "lastName": "Mantovani",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Luiz Henrique",
+                    "lastName": "Rotta",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Edward",
+                    "lastName": "Park",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Davi Gasparini",
+                    "lastName": "Fernandes Cunha",
+                    "creatorType": "author"
+                }
+            ],
+            "tags": [
+                {
+                    "tag": "Algae bloom",
+                    "type": 1
+                },
+                {
+                    "tag": "Cyanobacteria",
+                    "type": 1
+                },
+                {
+                    "tag": "Water supply",
+                    "type": 1
+                },
+                {
+                    "tag": "Water quality",
+                    "type": 1
+                },
+                {
+                    "tag": "COVID-19",
+                    "type": 1
+                }
+            ],
+            "pages": "100555",
+            "date": "2021-08-01",
+            "ISSN": "2352-9385",
+            "DOI": "10.1016/j.rsase.2021.100555",
+            "url": "https://www.sciencedirect.com/science/article/pii/S2352938521000914",
+            "abstractNote": "Here we report the first case study of the significant algae blooming in large reservoirs in relation to the COVID-19 lockdown in Sao Paulo, Brazil. Chlorophyll-a (Chl-a) and phycocyanin (PC) concentrations were estimated for the Guarapiranga and Billings reservoirs, which supply daily water use for over 20 million people and receives treated wastewater. We employed field-calibrated Sentinel 2 MSI and Landsat 8 OLI images to map the spatial patterns of Chl-a and PC over the two periods: before the lockdown (April, August and October 2019) and after the lockdown in S\u00e3o Paulo (April 2020). We found a significant increase in algae pigments (Chl-a and PC) in both reservoirs in April 2020, compared to the same month of 2019. We show that the episodic algae blooming is strongly related to the increased inflows of the residential wastewater from the surrounding watersheds, because the household water use has increased ~3.2% in April 2020, while the runoff into the reservoirs driven by the rainfall was much lower in 2020 compared to the previous year for the same month. In the case of Guarapiranga Reservoir, PC increased nearly 500% in April 2020 compared to April 2019. Given the importance of Billings and Guarapiranga reservoirs for the water supply of the Metropolitan Region of Sao Paulo (MRSP), the abrupt occurrence of cyanobacteria blooms related to the state's lockdown should be considered a major concern for public and environmental health of the region. Although several environmental consequences have been reported due to the COVID-19 worldwide, this study is the first to report the impact of COVID-19 on the trophic state in the tropical reservoirs.",
+            "title": "A satellite-based investigation into the algae bloom variability in large water supply urban reservoirs during COVID-19 lockdown",
+            "journalAbbreviation": "Remote Sensing Applications: Society and Environment",
+            "volume": "23",
+            "publicationTitle": "Remote Sensing Applications: Society and Environment",
+            "language": "en",
+            "libraryCatalog": "ScienceDirect",
+            "accessDate": "2023-05-24T18:34:21Z"
+        },
+        "ESDTs": [
+            "AIRS3STD"
+        ],
+        "Type": "journal-article"
+    },
+    {
+        "result_id": [
+            "6QFApmy-17oJ"
+        ],
+        "URL": [
+            "http://eadnurt.diit.edu.ua/handle/123456789/15371"
+        ],
+        "pub_doi": "10.34185/1562-9945-3-140-2022-05",
+        "author": "OO Kavats",
+        "year": "2022",
+        "title": "Open Access Satellite Data for Global Greenhouse Gas Monitoring",
+        "zotero": {
+            "key": "SS6VBRR9",
+            "version": 0,
+            "itemType": "journalArticle",
+            "creators": [
+                {
+                    "firstName": "Olena O.",
+                    "lastName": "Kavats",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Dmitriy A.",
+                    "lastName": "Khramov",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Kateryna L.",
+                    "lastName": "Sergieieva",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Volodymyr V.",
+                    "lastName": "Vasyliev",
+                    "creatorType": "author"
+                }
+            ],
+            "tags": [],
+            "title": "Open Access Satellite Data for Global Greenhouse Gas Monitoring",
+            "date": "2022",
+            "DOI": "10.34185/1562-9945-3-140-2022-05",
+            "ISSN": "1562-9945 (Print)",
+            "abstractNote": "ENG: Open satellite concentration data for the main greenhouse gases (CO2, CH4, N2O) are considered in terms of their possible use for local, regional, and global monitoring. The main data characteristics are provided. The satellite products most suitable for global moni-toring of greenhouse gas concentrations are specified. The disadvantages of existing satellite data are analyzed.",
+            "journalAbbreviation": "\u0412\u0456\u0434\u043a\u0440\u0438\u0442\u0456 \u0441\u0443\u043f\u0443\u0442\u043d\u0438\u043a\u043e\u0432\u0456 \u0434\u0430\u043d\u0456 \u0434\u043b\u044f \u0433\u043b\u043e\u0431\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u043c\u043e\u043d\u0456\u0442\u043e\u0440\u0438\u043d\u0433\u0443 \u043f\u0430\u0440\u043d\u0438\u043a\u043e\u0432\u0438\u0445 \u0433\u0430\u0437\u0456\u0432",
+            "language": "en",
+            "url": "http://eadnurt.diit.edu.ua:8080/jspui/handle/123456789/15371",
+            "libraryCatalog": "eadnurt.diit.edu.ua",
+            "accessDate": "2023-05-24T18:38:53Z"
+        },
+        "ESDTs": [
+            "AIRS3STD"
+        ],
+        "Type": "journal-article"
+    },
+    {
+        "result_id": [
+            "Lk92M6-v1JMJ"
+        ],
+        "URL": [
+            "https://www.mdpi.com/798156"
+        ],
+        "pub_doi": "10.3390/RS12162631",
+        "author": "MA Osei",
+        "year": "2020",
+        "title": "Inter-comparison of AIRS temperature and relative humidity profiles with AMMA and DACCIWA radiosonde observations over West Africa",
+        "zotero": {
+            "key": "PBJDCHHX",
+            "version": 0,
+            "itemType": "journalArticle",
+            "creators": [
+                {
+                    "firstName": "Marian Amoakowaah",
+                    "lastName": "Osei",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Leonard Kofitse",
+                    "lastName": "Amekudzi",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Craig R.",
+                    "lastName": "Ferguson",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Sylvester Kojo",
+                    "lastName": "Danuor",
+                    "creatorType": "author"
+                }
+            ],
+            "tags": [
+                {
+                    "tag": "atmospheric infrared sounder (AIRS)",
+                    "type": 1
+                },
+                {
+                    "tag": "radiosonde",
+                    "type": 1
+                },
+                {
+                    "tag": "validation",
+                    "type": 1
+                },
+                {
+                    "tag": "temperature and relative humidity profiles",
+                    "type": 1
+                }
+            ],
+            "title": "Inter-Comparison of AIRS Temperature and Relative Humidity Profiles with AMMA and DACCIWA Radiosonde Observations over West Africa",
+            "publicationTitle": "Remote Sensing",
+            "rights": "http://creativecommons.org/licenses/by/3.0/",
+            "volume": "12",
+            "issue": "16",
+            "pages": "2631",
+            "date": "2020/1",
+            "DOI": "10.3390/rs12162631",
+            "ISSN": "2072-4292",
+            "url": "https://www.mdpi.com/2072-4292/12/16/2631",
+            "abstractNote": "The vertical profiles of temperature and water vapour from the Atmospheric InfraRed Sounder (AIRS) have been validated across various regions of the globe as an effort to provide a substitute for radiosonde observations. However, there is a paucity of inter-comparisons over West Africa where local convective processes dominate and radiosonde observations (RAOBs) are limited. This study validates AIRS temperature and relative humidity profiles for selected radiosonde stations in West Africa. Radiosonde data were obtained from the AMMA and DACCIWA campaigns which spanned 2006\u20132008 and June\u2013July 2016 respectively and offered a period of prolonged radiosonde observations in West Africa. AIRS performance was evaluated with the bias and root mean square difference (RMSD) at seven RAOB stations which were grouped into coastal and inland. Evaluation was performed on diurnal and seasonal timescales, cloud screening conditions and derived thunderstorm instability indices. At all timescales, the temperature RMSD was higher than the AIRS accuracy mission goal of \u00b11 K. Relative humidity RMSD was satisfactory with deviations <20% and <50% for both lower and upper troposphere respectively. AIRS retrieval of water vapour under cloudy and cloud-free conditions had no significant difference whereas cloud-free temperature was found to be more accurate. The seasonal evolution of some thunderstorm convective indices were also found to be comparable for AIRS and RAOB. The ability of AIRS to capture the evolution of these indices imply it will be a useful dataset for the African Science for Weather Information and Forecasting Techniques (SWIFT) high impact weather studies.",
+            "language": "en",
+            "libraryCatalog": "www.mdpi.com",
+            "accessDate": "2023-05-24T18:34:10Z"
+        },
+        "ESDTs": [
+            "AIRS3STD"
+        ],
+        "Type": "journal-article"
+    },
+    {
+        "result_id": [
+            "8HOakQDlQnkJ"
+        ],
+        "URL": [
+            "https://ieeexplore.ieee.org/abstract/document/10020453/"
+        ],
+        "pub_doi": "10.1109/BIGDATA55660.2022.10020453",
+        "author": "I Segovia-Dominguez",
+        "year": "2022",
+        "title": "Learning on Health Fairness and Environmental Justice via Interactive Visualization",
+        "zotero": {
+            "key": "KENNVB9M",
+            "version": 0,
+            "itemType": "conferencePaper",
+            "creators": [
+                {
+                    "firstName": "Abdullah-Al-Raihan",
+                    "lastName": "Nayeem",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Ignacio",
+                    "lastName": "Segovia-Dominguez",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Huikyo",
+                    "lastName": "Lee",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Dongyun",
+                    "lastName": "Han",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Yuzhou",
+                    "lastName": "Chen",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Zhiwei",
+                    "lastName": "Zhen",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Yulia",
+                    "lastName": "Gel",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Isaac",
+                    "lastName": "Cho",
+                    "creatorType": "author"
+                }
+            ],
+            "tags": [
+                {
+                    "tag": "COVID-19",
+                    "type": 1
+                },
+                {
+                    "tag": "Visualization",
+                    "type": 1
+                },
+                {
+                    "tag": "Pandemics",
+                    "type": 1
+                },
+                {
+                    "tag": "Infectious diseases",
+                    "type": 1
+                },
+                {
+                    "tag": "NASA",
+                    "type": 1
+                },
+                {
+                    "tag": "Data visualization",
+                    "type": 1
+                },
+                {
+                    "tag": "Big Data",
+                    "type": 1
+                },
+                {
+                    "tag": "coronavirus severity",
+                    "type": 1
+                },
+                {
+                    "tag": "interactive visualization",
+                    "type": 1
+                },
+                {
+                    "tag": "multivariate visualization",
+                    "type": 1
+                }
+            ],
+            "proceedingsTitle": "2022 IEEE International Conference on Big Data (Big Data)",
+            "title": "Learning on Health Fairness and Environmental Justice via Interactive Visualization",
+            "pages": "784-791",
+            "abstractNote": "This paper introduces an interactive visualization interface with a machine learning consensus analysis that enables the researchers to explore the impact of atmospheric and socioeconomic factors on COVID-19 clinical severity by employing multiple Recurrent Graph Neural Networks. We designed and implemented a visualization interface that leverages coordinated multi-views to support exploratory and predictive analysis of hospitalizations and other socio-geographic variables at multiple dimensions, simultaneously. By harnessing the strength of geometric deep learning, we build a consensus machine learning model to include knowledge from county-level records and investigate the complex interrelationships between global infectious disease, environment, and social justice. Additionally, we make use of unique NASA satellite-based observations which are not broadly used in the context of climate justice applications. Our current interactive interface focus on three US states (California, Pennsylvania, and Texas) to demonstrate its scientific value and presented three case studies to make qualitative evaluations.",
+            "DOI": "10.1109/BigData55660.2022.10020453",
+            "date": "2022-12",
+            "conferenceName": "2022 IEEE International Conference on Big Data (Big Data)",
+            "libraryCatalog": "IEEE Xplore"
+        },
+        "ESDTs": [
+            "AIRS3STD"
+        ],
+        "Type": "proceedings-article"
+    },
+    {
+        "result_id": [
+            "tYO9GN0y9KYJ"
+        ],
+        "URL": [
+            "https://www.mdpi.com/1870890"
+        ],
+        "pub_doi": "10.3390/RS14194980",
+        "author": "O Tomshin",
+        "year": "2022",
+        "title": "Features of the Extreme Fire Season of 2021 in Yakutia (Eastern Siberia) and Heavy Air Pollution Caused by Biomass Burning",
+        "zotero": {
+            "key": "XT7VF2KQ",
+            "version": 0,
+            "itemType": "journalArticle",
+            "creators": [
+                {
+                    "firstName": "Oleg",
+                    "lastName": "Tomshin",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Vladimir",
+                    "lastName": "Solovyev",
+                    "creatorType": "author"
+                }
+            ],
+            "tags": [
+                {
+                    "tag": "wildfires",
+                    "type": 1
+                },
+                {
+                    "tag": "fire weather",
+                    "type": 1
+                },
+                {
+                    "tag": "air quality",
+                    "type": 1
+                },
+                {
+                    "tag": "air pollution",
+                    "type": 1
+                },
+                {
+                    "tag": "Siberia",
+                    "type": 1
+                },
+                {
+                    "tag": "Yakutia",
+                    "type": 1
+                }
+            ],
+            "title": "Features of the Extreme Fire Season of 2021 in Yakutia (Eastern Siberia) and Heavy Air Pollution Caused by Biomass Burning",
+            "publicationTitle": "Remote Sensing",
+            "rights": "http://creativecommons.org/licenses/by/3.0/",
+            "volume": "14",
+            "issue": "19",
+            "pages": "4980",
+            "date": "2022/1",
+            "DOI": "10.3390/rs14194980",
+            "ISSN": "2072-4292",
+            "url": "https://www.mdpi.com/2072-4292/14/19/4980",
+            "abstractNote": "Yakutia (Eastern Siberia) is one of the most fire-prone regions of Russia, which is frequently affected by large-scale wildfires despite a relatively short warm period, which usually lasts from May to September. In 2021, Yakutia experienced the worst fire season over the last four decades. In this study, we investigate features of the extreme fire season, factors that promote extreme fire weather, and heavy air pollution caused by biomass burning in the region utilizing multiple satellite and ground-based observations along with reanalysis data and forward-trajectory modelling. The results demonstrate that the total number of hotspots (HS) in 2021 amounted to ~150,000, which is almost twice as much as the previous record year (2020). One of the main features of the 2021 fire season was the period of extensive growth of the number of HS, which occurred from 24 July to 12 August. High fire danger during the fire season was promoted by positive anomalies in monthly air temperature (August) and negative anomalies in monthly precipitation (May\u2013July). August of 2021 in central Yakutia was the second most hot August (14.9 \u00b0C) during a 43-year NCEP-DOE Reanalysis record (1979\u20132021). In addition, the intensification of wildfires during August 2021 was associated with persistent high-pressure systems, which promoted dry weather conditions in the region by blocking the transport of moist air masses from the western part of Russia. The low wind speeds, observed in the center of a high-pressure system, led to the accumulation of wildfire emissions in the atmosphere, which significantly affect air quality in the region. The monthly mean aerosol optical depth values in July 2021 were 0.82 (MODIS MAIAC) and 1.37 (AERONET) which were 14.9 and 18.7 times higher than respective values of 2007 (the year with minimal wildfires in the Asian part of Russia and Yakutia). Based on aerosol index observations and forward trajectories, we demonstrate that smoke plumes originated from the study area were transported over long distances reaching the Ural Mountains in the west, Mongolia in the south, the North Pole in the north, and Alaska in the east, traveling the distances of ~2000\u20137000 km. Maximum spatial extent of the smoke plumes reached ~10\u201312 mln. km2.",
+            "language": "en",
+            "libraryCatalog": "www.mdpi.com",
+            "accessDate": "2023-05-24T18:38:51Z"
+        },
+        "ESDTs": [
+            "AIRS3STD"
+        ],
+        "Type": "journal-article"
+    },
+    {
+        "result_id": [
+            "WB5M2f_5q58J"
+        ],
+        "URL": [
+            "https://www.sciencedirect.com/science/article/pii/S1367912021000481"
+        ],
+        "pub_doi": "10.1016/J.JSEAES.2021.104710",
+        "author": "ZH Jiao",
+        "year": "2021",
+        "title": "Statistical framework for the evaluation of earthquake forecasting: A case study based on satellite surface temperature anomalies",
+        "zotero": {
+            "key": "QX53J24K",
+            "version": 0,
+            "itemType": "journalArticle",
+            "creators": [
+                {
+                    "firstName": "Zhong-Hu",
+                    "lastName": "Jiao",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Xinjian",
+                    "lastName": "Shan",
+                    "creatorType": "author"
+                }
+            ],
+            "tags": [
+                {
+                    "tag": "Global earthquakes",
+                    "type": 1
+                },
+                {
+                    "tag": "Earthquake precursors",
+                    "type": 1
+                },
+                {
+                    "tag": "Surface temperature anomalies",
+                    "type": 1
+                },
+                {
+                    "tag": "Atmospheric Infrared Sounder (AIRS)",
+                    "type": 1
+                },
+                {
+                    "tag": "Thermal infrared remote sensing",
+                    "type": 1
+                },
+                {
+                    "tag": "Seismic hazard",
+                    "type": 1
+                }
+            ],
+            "pages": "104710",
+            "date": "2021-05-15",
+            "ISSN": "1367-9120",
+            "DOI": "10.1016/j.jseaes.2021.104710",
+            "url": "https://www.sciencedirect.com/science/article/pii/S1367912021000481",
+            "abstractNote": "There are growing observational evidences that various geophysical anomalies precede large earthquakes. However, the reliability of these anomalies for earthquake forecasting is controversial, and therefore more consistent assessment of forecasting ability is required. A framework for investigating pre-seismic anomaly detection using essential statistical indicators before global earthquakes is proposed. Surface temperature (ST) data from the Atmospheric Infrared Sounder (AIRS) sensor were used to realize this framework. First, seismic-related ST anomalies were identified, and then the statistical characteristics of forecasting ability for three indicators (accuracy, missed detection, and false alarm) were calculated in retrospective and prospective ways. The ST anomalies displayed some aggregation effects. Negative anomalies mainly concentrated on epicenters and to the north, while positive anomalies were found on the periphery; neither were strongly dependent on earthquake magnitude. The temporal evolution of forecasting metrics was relatively stable for the period 2010\u20132018. Mean accuracy, missed detection, and false alarm ratios were 6.01%, 1.60%, and 92.39%, respectively. Accuracy and missed detection ratios showed some spatial correlation and both peaked in the same area (e.g., eastern Japan); however, most areas showed very high false alarm ratios. Based on our findings, the combination of AIRS ST data and the Z-score anomaly detection algorithm to predict short-term earthquakes is currently not practical; the possibility of earthquake forecasting based on satellite thermal infrared measurements remains a huge challenge. However, our results confirmed the efficiency of this framework for quantitatively evaluating earthquake forecasting ability. This approach could be applied to various geophysical parameters and anomaly detection methods.",
+            "title": "Statistical framework for the evaluation of earthquake forecasting: A case study based on satellite surface temperature anomalies",
+            "journalAbbreviation": "Journal of Asian Earth Sciences",
+            "volume": "211",
+            "publicationTitle": "Journal of Asian Earth Sciences",
+            "language": "en",
+            "libraryCatalog": "ScienceDirect",
+            "accessDate": "2023-05-24T18:33:59Z",
+            "shortTitle": "Statistical framework for the evaluation of earthquake forecasting"
+        },
+        "ESDTs": [
+            "AIRS3STD"
+        ],
+        "Type": "journal-article"
+    },
+    {
+        "result_id": [
+            "rSX56cue4Q4J"
+        ],
+        "URL": [
+            "https://www.sciencedirect.com/science/article/pii/S0034425720305198"
+        ],
+        "pub_doi": "10.1016/J.RSE.2020.112146",
+        "author": "J Sun",
+        "year": "2021",
+        "title": "Global evaluation of terrestrial near-surface air temperature and specific humidity retrievals from the Atmospheric Infrared Sounder (AIRS)",
+        "zotero": {
+            "key": "ET6W3GD4",
+            "version": 0,
+            "itemType": "journalArticle",
+            "creators": [
+                {
+                    "firstName": "Jing",
+                    "lastName": "Sun",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Kaighin A.",
+                    "lastName": "McColl",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Yan",
+                    "lastName": "Wang",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Angela J.",
+                    "lastName": "Rigden",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Hui",
+                    "lastName": "Lu",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Kun",
+                    "lastName": "Yang",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Yishan",
+                    "lastName": "Li",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Joseph A.",
+                    "lastName": "Santanello",
+                    "creatorType": "author"
+                }
+            ],
+            "tags": [],
+            "pages": "112146",
+            "date": "2021-01-01",
+            "ISSN": "0034-4257",
+            "DOI": "10.1016/j.rse.2020.112146",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0034425720305198",
+            "abstractNote": "Global observations of near-surface air temperature and specific humidity over land are needed for a variety of applications, including to constrain global estimates of evapotranspiration (ET). Spaceborne hyperspectral observations, such as those from NASA's Atmospheric Infrared Sounder (AIRS) mission, show promise for meeting this need, yet there are surprisingly few validation studies of AIRS near-surface atmospheric state retrievals. In this study, we use triple collocation to validate AIRS Level 3 retrievals of near-surface atmospheric state over land using twelve years of gridded station observations and two reanalyses. Deseasonalized AIRS retrievals correlate well with deseasonalized ground observations outside the tropics, but correlate less well in the tropics. Lower temporal sensitivity near the surface in the tropics contributes to the lower correlation for near-surface air temperature and is consistent with known physics of the tropical atmosphere, in which temperatures outside the boundary layer (which dominate the AIRS retrieval signal) are poorly correlated with those near the surface. Retrievals in the tropics may also be more susceptible to errors in cloud-clearing algorithms, and to uncertainty in surface emissivity. Since ET is greatest in the tropics, and tropical measurement networks are particularly sparse, this work motivates new approaches for measuring ET in the tropics.",
+            "title": "Global evaluation of terrestrial near-surface air temperature and specific humidity retrievals from the Atmospheric Infrared Sounder (AIRS)",
+            "journalAbbreviation": "Remote Sensing of Environment",
+            "volume": "252",
+            "publicationTitle": "Remote Sensing of Environment",
+            "language": "en",
+            "libraryCatalog": "ScienceDirect",
+            "accessDate": "2023-05-24T18:34:11Z"
+        },
+        "ESDTs": [
+            "AIRS3STD"
+        ],
+        "Type": "journal-article"
+    }
+]

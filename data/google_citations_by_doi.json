@@ -1,0 +1,86 @@
+[
+    {
+        "result_id": "TwBVw83GvJMJ",
+        "URL": "https://www.nature.com/articles/s41597-023-01987-6",
+        "pub_doi": "10.1038/s41597-023-01987-6",
+        "author": "S Horvath",
+        "year": "2023",
+        "title": "Database of daily Lagrangian Arctic sea ice parcel drift tracks with coincident ice and atmospheric conditions",
+        "DOIs": [
+            "10.5067/UO3Q64CTTS1U"
+        ],
+        "ESDTs": [
+            "AIRS3STD"
+        ]
+    },
+    {
+        "result_id": "i7HE3ze4NQQJ",
+        "URL": "https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022JD036665",
+        "pub_doi": "10.1029/2022JD036665",
+        "author": "D Jin",
+        "year": "2022",
+        "title": "A New Organization Metric for Synoptic Scale Tropical Convective Aggregation",
+        "DOIs": [
+            "10.5067/UO3Q64CTTS1U"
+        ],
+        "ESDTs": [
+            "AIRS3STD"
+        ]
+    },
+    {
+        "result_id": "d0s9-E8AGkgJ",
+        "URL": "https://dspace.mit.edu/handle/1721.1/144854",
+        "pub_doi": "",
+        "author": "LN Zhang",
+        "year": "2022",
+        "title": "Evaporative Controls on Convective Adjustment: A Satellite-Based Assessment of Convective Available Energy (CAPE) During Surface Drydowns",
+        "DOIs": [
+            "10.5067/UO3Q64CTTS1U"
+        ],
+        "ESDTs": [
+            "AIRS3STD"
+        ]
+    },
+    {
+        "result_id": "RNLE8Y9PIooJ",
+        "URL": "https://ieeexplore.ieee.org/abstract/document/9804768/",
+        "pub_doi": "",
+        "author": "L Chang",
+        "year": "2022",
+        "title": "Effects of Water Vapor and Cloud Fraction in AIRS Retrievals on Arctic Sea Ice Variability",
+        "DOIs": [
+            "10.5067/UO3Q64CTTS1U"
+        ],
+        "ESDTs": [
+            "AIRS3STD"
+        ]
+    },
+    {
+        "result_id": "rG9pDCfdqCYJ",
+        "URL": "https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022JD037271",
+        "pub_doi": "10.1029/2022JD037271",
+        "author": "B Jiang",
+        "year": "2023",
+        "title": "Importance of Atmospheric Transport on Methanesulfonic Acid (MSA) Concentrations in the Arctic Ocean during Summer under Global Warming",
+        "DOIs": [
+            "10.5067/UO3Q64CTTS1U"
+        ],
+        "ESDTs": [
+            "AIRS3STD"
+        ]
+    },
+    {
+        "result_id": "2T9uw9bLvFYJ",
+        "URL": "https://www.nature.com/articles/s41598-021-99304-x",
+        "pub_doi": "10.1038/s41598-021-99304-x",
+        "author": "FH Wagner",
+        "year": "2021",
+        "title": "The flowering of Atlantic Forest Pleroma trees",
+        "DOIs": [
+            "10.5067/UO3Q64CTTS1U"
+        ],
+        "ESDTs": [
+            "AIRS3STD"
+        ]
+    }
+]

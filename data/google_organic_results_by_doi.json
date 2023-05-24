@@ -1,0 +1,244 @@
+[
+    {
+        "position": 0,
+        "title": "Database of daily Lagrangian Arctic sea ice parcel drift tracks with coincident ice and atmospheric conditions",
+        "result_id": "TwBVw83GvJMJ",
+        "type": "Html",
+        "link": "https://www.nature.com/articles/s41597-023-01987-6",
+        "snippet": "Since the early 2000s, sea ice has experienced an increased rate of decline in thickness, extent and age. This new regime, coined the \u2018New Arctic\u2019, is accompanied by a reshuffling of \u2026",
+        "publication_info": {
+            "summary": "S Horvath, L Boisvert, C Parker, M Webster, P Taylor\u2026 - Scientific Data, 2023 - nature.com",
+            "authors": [
+                {
+                    "name": "S Horvath",
+                    "link": "https://scholar.google.com/citations?user=oVD84sQAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=oVD84sQAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "oVD84sQAAAAJ"
+                },
+                {
+                    "name": "C Parker",
+                    "link": "https://scholar.google.com/citations?user=CXgjDMgAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=CXgjDMgAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "CXgjDMgAAAAJ"
+                },
+                {
+                    "name": "M Webster",
+                    "link": "https://scholar.google.com/citations?user=EPrGkSQAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=EPrGkSQAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "EPrGkSQAAAAJ"
+                },
+                {
+                    "name": "P Taylor",
+                    "link": "https://scholar.google.com/citations?user=j178KlYAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=j178KlYAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "j178KlYAAAAJ"
+                }
+            ]
+        },
+        "resources": [
+            {
+                "title": "nature.com",
+                "file_format": "HTML",
+                "link": "https://www.nature.com/articles/s41597-023-01987-6"
+            },
+            {
+                "title": "Full View",
+                "link": "https://scholar.google.com/scholar?output=instlink&q=info:TwBVw83GvJMJ:scholar.google.com/&hl=en&lr=lang_en&as_sdt=0,33&as_vis=1&scillfp=13555404857581059366&oi=lle"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=TwBVw83GvJMJ",
+            "html_version": "https://www.nature.com/articles/s41597-023-01987-6",
+            "versions": {
+                "total": 6,
+                "link": "https://scholar.google.com/scholar?cluster=10645602206244733007&hl=en&lr=lang_en&as_sdt=0,33&as_vis=1",
+                "cluster_id": "10645602206244733007",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C33&as_vis=1&cluster=10645602206244733007&engine=google_scholar&hl=en&lr=lang_en"
+            }
+        },
+        "ESDT": "AIRS3STD",
+        "DOI": "10.5067/UO3Q64CTTS1U"
+    },
+    {
+        "position": 1,
+        "title": "A New Organization Metric for Synoptic Scale Tropical Convective Aggregation",
+        "result_id": "i7HE3ze4NQQJ",
+        "link": "https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022JD036665",
+        "snippet": "Organization metrics were originally developed to measure how densely convective clouds are arranged at mesoscales. In this work, we apply organization metrics to describe tropical \u2026",
+        "publication_info": {
+            "summary": "D Jin, L Oreopoulos, D Lee, J Tan\u2026 - Journal of Geophysical \u2026, 2022 - Wiley Online Library",
+            "authors": [
+                {
+                    "name": "D Jin",
+                    "link": "https://scholar.google.com/citations?user=6IXNgBMAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=6IXNgBMAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "6IXNgBMAAAAJ"
+                },
+                {
+                    "name": "L Oreopoulos",
+                    "link": "https://scholar.google.com/citations?user=OYUN-UoAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=OYUN-UoAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "OYUN-UoAAAAJ"
+                },
+                {
+                    "name": "D Lee",
+                    "link": "https://scholar.google.com/citations?user=U3Crv3YAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=U3Crv3YAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "U3Crv3YAAAAJ"
+                },
+                {
+                    "name": "J Tan",
+                    "link": "https://scholar.google.com/citations?user=q1LJZKQAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=q1LJZKQAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "q1LJZKQAAAAJ"
+                }
+            ]
+        },
+        "resources": [
+            {
+                "title": "authorea.com",
+                "file_format": "PDF",
+                "link": "https://www.authorea.com/doi/pdf/10.1002/essoar.10510736.1"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=i7HE3ze4NQQJ",
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:i7HE3ze4NQQJ:scholar.google.com/&scioq=10.5067/UO3Q64CTTS1U&hl=en&lr=lang_en&as_sdt=0,33&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C33&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3Ai7HE3ze4NQQJ%3Ascholar.google.com%2F",
+            "versions": {
+                "total": 5,
+                "link": "https://scholar.google.com/scholar?cluster=303351100034298251&hl=en&lr=lang_en&as_sdt=0,33&as_vis=1",
+                "cluster_id": "303351100034298251",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C33&as_vis=1&cluster=303351100034298251&engine=google_scholar&hl=en&lr=lang_en"
+            }
+        },
+        "ESDT": "AIRS3STD",
+        "DOI": "10.5067/UO3Q64CTTS1U"
+    },
+    {
+        "position": 2,
+        "title": "Evaporative Controls on Convective Adjustment: A Satellite-Based Assessment of Convective Available Energy (CAPE) During Surface Drydowns",
+        "result_id": "d0s9-E8AGkgJ",
+        "link": "https://dspace.mit.edu/handle/1721.1/144854",
+        "snippet": "Changes in surface properties are known to influence weather and climate through interactions between the land and atmosphere. In convective atmospheres, convective available \u2026",
+        "publication_info": {
+            "summary": "LN Zhang - 2022 - dspace.mit.edu"
+        },
+        "resources": [
+            {
+                "title": "mit.edu",
+                "file_format": "PDF",
+                "link": "https://dspace.mit.edu/bitstream/handle/1721.1/144854/zhang-lnzhang-sb-eaps-2022%2Cunsigned.pdf?sequence=1&isAllowed=y"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=d0s9-E8AGkgJ",
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:d0s9-E8AGkgJ:scholar.google.com/&scioq=10.5067/UO3Q64CTTS1U&hl=en&lr=lang_en&as_sdt=0,33&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C33&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3Ad0s9-E8AGkgJ%3Ascholar.google.com%2F",
+            "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:d0s9-E8AGkgJ:scholar.google.com/+10.5067/UO3Q64CTTS1U&hl=en&lr=lang_en&as_sdt=0,33&as_vis=1"
+        },
+        "ESDT": "AIRS3STD",
+        "DOI": "10.5067/UO3Q64CTTS1U"
+    },
+    {
+        "position": 3,
+        "title": "Effects of Water Vapor and Cloud Fraction in AIRS Retrievals on Arctic Sea Ice Variability",
+        "result_id": "RNLE8Y9PIooJ",
+        "link": "https://ieeexplore.ieee.org/abstract/document/9804768/",
+        "snippet": "Using the precipitable water vapor (PWV) and cloud fraction (CF) measurements from the atmospheric infrared sounder (AIRS), this study investigates the potential feedback on Arctic \u2026",
+        "publication_info": {
+            "summary": "L Chang, F Chen, G Gao\u2026 - IEEE Transactions on \u2026, 2022 - ieeexplore.ieee.org"
+        },
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=RNLE8Y9PIooJ",
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:RNLE8Y9PIooJ:scholar.google.com/&scioq=10.5067/UO3Q64CTTS1U&hl=en&lr=lang_en&as_sdt=0,33&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C33&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3ARNLE8Y9PIooJ%3Ascholar.google.com%2F",
+            "versions": {
+                "total": 2,
+                "link": "https://scholar.google.com/scholar?cluster=9953605606097343044&hl=en&lr=lang_en&as_sdt=0,33&as_vis=1",
+                "cluster_id": "9953605606097343044",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C33&as_vis=1&cluster=9953605606097343044&engine=google_scholar&hl=en&lr=lang_en"
+            }
+        },
+        "ESDT": "AIRS3STD",
+        "DOI": "10.5067/UO3Q64CTTS1U"
+    },
+    {
+        "position": 4,
+        "title": "Importance of Atmospheric Transport on Methanesulfonic Acid (MSA) Concentrations in the Arctic Ocean during Summer under Global Warming",
+        "result_id": "rG9pDCfdqCYJ",
+        "link": "https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022JD037271",
+        "snippet": "The climatic effects of aerosols derived from dimethyl sulfide (DMS) (eg, methanesulfonic acid [MSA]) have long been of concern, particularly in the rapidly warming Arctic Ocean. \u2026",
+        "publication_info": {
+            "summary": "B Jiang, Z Xie, A Chen, F Yue, X Yu\u2026 - Journal of \u2026, 2023 - Wiley Online Library",
+            "authors": [
+                {
+                    "name": "Z Xie",
+                    "link": "https://scholar.google.com/citations?user=lE--jDAAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=lE--jDAAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "lE--jDAAAAAJ"
+                }
+            ]
+        },
+        "resources": [
+            {
+                "title": "researchgate.net",
+                "file_format": "PDF",
+                "link": "https://www.researchgate.net/profile/Jiang_Bei2/publication/367289475_Importance_of_Atmospheric_Transport_on_Methanesulfonic_Acid_MSA_Concentrations_in_the_Arctic_Ocean_during_Summer_under_Global_Warming/links/63f4bd95574950594531be0e/Importance-of-Atmospheric-Transport-on-Methanesulfonic-Acid-MSA-Concentrations-in-the-Arctic-Ocean-During-Summer-Under-Global-Warming.pdf"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=rG9pDCfdqCYJ",
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:rG9pDCfdqCYJ:scholar.google.com/&scioq=10.5067/UO3Q64CTTS1U&hl=en&lr=lang_en&as_sdt=0,33&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C33&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3ArG9pDCfdqCYJ%3Ascholar.google.com%2F"
+        },
+        "ESDT": "AIRS3STD",
+        "DOI": "10.5067/UO3Q64CTTS1U"
+    },
+    {
+        "position": 5,
+        "title": "The flowering of Atlantic Forest Pleroma trees",
+        "result_id": "2T9uw9bLvFYJ",
+        "type": "Html",
+        "link": "https://www.nature.com/articles/s41598-021-99304-x",
+        "snippet": "Mapping the spatial distribution of a plant is a current challenge in ecology. Here, a convolutional neural network (CNN) and 33,798 Sentinel-2 satellite images were used to detect and \u2026",
+        "publication_info": {
+            "summary": "FH Wagner - Scientific reports, 2021 - nature.com",
+            "authors": [
+                {
+                    "name": "FH Wagner",
+                    "link": "https://scholar.google.com/citations?user=2VM_OJIAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=2VM_OJIAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "2VM_OJIAAAAJ"
+                }
+            ]
+        },
+        "resources": [
+            {
+                "title": "nature.com",
+                "file_format": "HTML",
+                "link": "https://www.nature.com/articles/s41598-021-99304-x"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=2T9uw9bLvFYJ",
+            "html_version": "https://www.nature.com/articles/s41598-021-99304-x",
+            "cited_by": {
+                "total": 4,
+                "link": "https://scholar.google.com/scholar?cites=6250094506145628121&as_sdt=5,33&sciodt=0,33&hl=en",
+                "cites_id": "6250094506145628121",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=6250094506145628121&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:2T9uw9bLvFYJ:scholar.google.com/&scioq=10.5067/UO3Q64CTTS1U&hl=en&lr=lang_en&as_sdt=0,33&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C33&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3A2T9uw9bLvFYJ%3Ascholar.google.com%2F",
+            "versions": {
+                "total": 8,
+                "link": "https://scholar.google.com/scholar?cluster=6250094506145628121&hl=en&lr=lang_en&as_sdt=0,33&as_vis=1",
+                "cluster_id": "6250094506145628121",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C33&as_vis=1&cluster=6250094506145628121&engine=google_scholar&hl=en&lr=lang_en"
+            }
+        },
+        "ESDT": "AIRS3STD",
+        "DOI": "10.5067/UO3Q64CTTS1U"
+    }
+]

@@ -1,0 +1,409 @@
+[
+    {
+        "result_id": [
+            "RNLE8Y9PIooJ"
+        ],
+        "URL": [
+            "https://ieeexplore.ieee.org/abstract/document/9804768/"
+        ],
+        "pub_doi": "10.1109/TGRS.2022.3185636",
+        "author": "L Chang",
+        "year": "2022",
+        "title": "Effects of Water Vapor and Cloud Fraction in AIRS Retrievals on Arctic Sea Ice Variability",
+        "zotero": {
+            "key": "6FZKUSM5",
+            "version": 0,
+            "itemType": "journalArticle",
+            "creators": [
+                {
+                    "firstName": "Liang",
+                    "lastName": "Chang",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Fanglin",
+                    "lastName": "Chen",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Guoping",
+                    "lastName": "Gao",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Yang",
+                    "lastName": "Zhang",
+                    "creatorType": "author"
+                }
+            ],
+            "tags": [
+                {
+                    "tag": "Sea ice",
+                    "type": 1
+                },
+                {
+                    "tag": "Arctic",
+                    "type": 1
+                },
+                {
+                    "tag": "Market research",
+                    "type": 1
+                },
+                {
+                    "tag": "Clouds",
+                    "type": 1
+                },
+                {
+                    "tag": "Ocean temperature",
+                    "type": 1
+                },
+                {
+                    "tag": "Sea surface",
+                    "type": 1
+                },
+                {
+                    "tag": "Springs",
+                    "type": 1
+                },
+                {
+                    "tag": "Arctic",
+                    "type": 1
+                },
+                {
+                    "tag": "cloud fraction (CF)",
+                    "type": 1
+                },
+                {
+                    "tag": "sea ice",
+                    "type": 1
+                },
+                {
+                    "tag": "water vapor",
+                    "type": 1
+                }
+            ],
+            "publicationTitle": "IEEE Transactions on Geoscience and Remote Sensing",
+            "title": "Effects of Water Vapor and Cloud Fraction in AIRS Retrievals on Arctic Sea Ice Variability",
+            "volume": "60",
+            "pages": "1-12",
+            "abstractNote": "Using the precipitable water vapor (PWV) and cloud fraction (CF) measurements from the atmospheric infrared sounder (AIRS), this study investigates the potential feedback on Arctic sea ice concentration (SIC) caused by variations in PWV and total CF, as well as CFs at low, middle and high levels during December 2002\u2013November 2020. We find that increases in PWV and total CF generally coincide with the Arctic sea ice decline in each season, and both PWV and total CF anomalies are typically correlated with SIC anomalies in all seasons except for the PWV anomalies in summer. In addition, during all seasons except summer, the low CF generally exhibits closer connection than the middle and high CFs with the trend in total CF and sea ice, and the correlation of SIC with total CF anomalies is governed by that with low CF anomalies. The sensitivities of SIC to changes in PWV and total CF are typically negative, and they are generally consistent with each other in each season. Moreover, the negative sensitivities of SIC to low, middle, and high CFs are greatest and most extensive in summer. The contribution of PWV is typically much greater and more extensive than that of total CF to Arctic sea ice change in all seasons. Among the CFs at different levels, the positive contribution of low CF is typically most extensive in winter and spring, while the contributions of high and middle CFs are relatively greater in summer and autumn.",
+            "DOI": "10.1109/TGRS.2022.3185636",
+            "ISSN": "1558-0644",
+            "date": "2022",
+            "libraryCatalog": "IEEE Xplore"
+        },
+        "DOIs": [
+            "10.5067/UO3Q64CTTS1U"
+        ],
+        "Type": "journal-article"
+    },
+    {
+        "result_id": [
+            "i7HE3ze4NQQJ"
+        ],
+        "URL": [
+            "https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022JD036665"
+        ],
+        "pub_doi": "10.1029/2022JD036665",
+        "author": "D Jin",
+        "year": "2022",
+        "title": "A New Organization Metric for Synoptic Scale Tropical Convective Aggregation",
+        "zotero": {
+            "key": "CMYTQ9FP",
+            "version": 0,
+            "itemType": "journalArticle",
+            "creators": [
+                {
+                    "firstName": "Daeho",
+                    "lastName": "Jin",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Lazaros",
+                    "lastName": "Oreopoulos",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Dongmin",
+                    "lastName": "Lee",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Jackson",
+                    "lastName": "Tan",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Kyu\u2010myong",
+                    "lastName": "Kim",
+                    "creatorType": "author"
+                }
+            ],
+            "tags": [],
+            "publicationTitle": "Journal of Geophysical Research: Atmospheres",
+            "journalAbbreviation": "JGR Atmospheres",
+            "volume": "127",
+            "issue": "13",
+            "language": "en",
+            "ISSN": "2169-897X, 2169-8996",
+            "date": "2022-07-16",
+            "DOI": "10.1029/2022JD036665",
+            "url": "https://onlinelibrary.wiley.com/doi/10.1029/2022JD036665",
+            "title": "A New Organization Metric for Synoptic Scale Tropical Convective Aggregation",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "accessDate": "2023-05-24T18:49:40Z"
+        },
+        "DOIs": [
+            "10.5067/UO3Q64CTTS1U"
+        ],
+        "Type": "journal-article"
+    },
+    {
+        "result_id": [
+            "2T9uw9bLvFYJ"
+        ],
+        "URL": [
+            "https://www.nature.com/articles/s41598-021-99304-x"
+        ],
+        "pub_doi": "10.1038/S41598-021-99304-X",
+        "author": "FH Wagner",
+        "year": "2021",
+        "title": "The flowering of Atlantic Forest Pleroma trees",
+        "zotero": {
+            "key": "YXBF8RPJ",
+            "version": 0,
+            "itemType": "journalArticle",
+            "creators": [
+                {
+                    "firstName": "Fabien H.",
+                    "lastName": "Wagner",
+                    "creatorType": "author"
+                }
+            ],
+            "tags": [
+                {
+                    "tag": "Biogeography",
+                    "type": 1
+                },
+                {
+                    "tag": "Computational science",
+                    "type": 1
+                },
+                {
+                    "tag": "Flowering",
+                    "type": 1
+                },
+                {
+                    "tag": "Forest ecology",
+                    "type": 1
+                },
+                {
+                    "tag": "Image processing",
+                    "type": 1
+                },
+                {
+                    "tag": "Macroecology",
+                    "type": 1
+                },
+                {
+                    "tag": "Tropical ecology",
+                    "type": 1
+                }
+            ],
+            "title": "The flowering of Atlantic Forest Pleroma trees",
+            "publicationTitle": "Scientific Reports",
+            "rights": "2021 The Author(s)",
+            "volume": "11",
+            "issue": "1",
+            "pages": "20437",
+            "date": "2021-10-14",
+            "DOI": "10.1038/s41598-021-99304-x",
+            "ISSN": "2045-2322",
+            "url": "https://www.nature.com/articles/s41598-021-99304-x",
+            "abstractNote": "Mapping the spatial distribution of a plant is a current challenge in ecology. Here, a convolutional neural network (CNN) and 33,798 Sentinel-2 satellite images were used to detect and map forest stands dominated by trees of the genus Pleroma by their magenta-to-deep-purple blossoms in the entire Brazilian Atlantic Forest domain, from June 2016 to July 2020. The Pleroma genus, known for its pioneer behaviour, was detected in an area representing 10.8% of the Atlantic Forest, associated negatively with temperature and positively with elevation, slope, tree cover and precipitation. The detection of another genus by the model, 18% of all the detections contained only pink blooming Handroanthus trees, highlighted that botanical identification from space must be taken with caution, particularly outside the known distribution range of the species. The Pleroma blossom seasonality occurred over a period of ~5\u20136 months centered on the March equinox and populations with distinct blossom timings were found. Our results indicate that in the Atlantic Forest, the remaining natural forest is less diverse than expected but is at least recovering from degradation. Our study suggests a method to produce ecological-domain scale maps of tree genera and species based on their blossoms that could be used for tree studies and biodiversity assessments.",
+            "language": "en",
+            "journalAbbreviation": "Sci Rep",
+            "libraryCatalog": "www.nature.com",
+            "accessDate": "2023-05-24T18:49:46Z"
+        },
+        "DOIs": [
+            "10.5067/UO3Q64CTTS1U"
+        ],
+        "Type": "journal-article"
+    },
+    {
+        "result_id": [
+            "rG9pDCfdqCYJ"
+        ],
+        "URL": [
+            "https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022JD037271"
+        ],
+        "pub_doi": "10.1029/2022JD037271",
+        "author": "B Jiang",
+        "year": "2023",
+        "title": "Importance of Atmospheric Transport on Methanesulfonic Acid (MSA) Concentrations in the Arctic Ocean during Summer under Global Warming",
+        "zotero": {
+            "key": "9EDHQDUQ",
+            "version": 0,
+            "itemType": "journalArticle",
+            "creators": [
+                {
+                    "firstName": "Bei",
+                    "lastName": "Jiang",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Zhouqing",
+                    "lastName": "Xie",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Afeng",
+                    "lastName": "Chen",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Fange",
+                    "lastName": "Yue",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Xiawei",
+                    "lastName": "Yu",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Longquan",
+                    "lastName": "Wang",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Weihua",
+                    "lastName": "Gu",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Xudong",
+                    "lastName": "Wu",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Zhangyan",
+                    "lastName": "Chai",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Ruilin",
+                    "lastName": "Jin",
+                    "creatorType": "author"
+                }
+            ],
+            "tags": [],
+            "publicationTitle": "Journal of Geophysical Research: Atmospheres",
+            "journalAbbreviation": "JGR Atmospheres",
+            "volume": "128",
+            "issue": "2",
+            "language": "en",
+            "ISSN": "2169-897X, 2169-8996",
+            "date": "2023-01-27",
+            "pages": "e2022JD037271",
+            "DOI": "10.1029/2022JD037271",
+            "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JD037271",
+            "title": "Importance of Atmospheric Transport on Methanesulfonic Acid (MSA) Concentrations in the Arctic Ocean During Summer Under Global Warming",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "accessDate": "2023-05-24T18:49:44Z"
+        },
+        "DOIs": [
+            "10.5067/UO3Q64CTTS1U"
+        ],
+        "Type": "journal-article"
+    },
+    {
+        "result_id": [
+            "TwBVw83GvJMJ"
+        ],
+        "URL": [
+            "https://www.nature.com/articles/s41597-023-01987-6"
+        ],
+        "pub_doi": "10.1038/S41597-023-01987-6",
+        "author": "S Horvath",
+        "year": "2023",
+        "title": "Database of daily Lagrangian Arctic sea ice parcel drift tracks with coincident ice and atmospheric conditions",
+        "zotero": {
+            "key": "XR8QS7UD",
+            "version": 0,
+            "itemType": "journalArticle",
+            "creators": [
+                {
+                    "firstName": "Sean",
+                    "lastName": "Horvath",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Linette",
+                    "lastName": "Boisvert",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Chelsea",
+                    "lastName": "Parker",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Melinda",
+                    "lastName": "Webster",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Patrick",
+                    "lastName": "Taylor",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Robyn",
+                    "lastName": "Boeke",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "Steven",
+                    "lastName": "Fons",
+                    "creatorType": "author"
+                },
+                {
+                    "firstName": "J. Scott",
+                    "lastName": "Stewart",
+                    "creatorType": "author"
+                }
+            ],
+            "tags": [
+                {
+                    "tag": "Cryospheric science",
+                    "type": 1
+                },
+                {
+                    "tag": "Physics",
+                    "type": 1
+                }
+            ],
+            "title": "Database of daily Lagrangian Arctic sea ice parcel drift tracks with coincident ice and atmospheric conditions",
+            "publicationTitle": "Scientific Data",
+            "rights": "2023 This is a U.S. Government work and not under copyright protection in the US; foreign copyright protection may apply",
+            "volume": "10",
+            "issue": "1",
+            "pages": "73",
+            "date": "2023-02-04",
+            "DOI": "10.1038/s41597-023-01987-6",
+            "ISSN": "2052-4463",
+            "url": "https://www.nature.com/articles/s41597-023-01987-6",
+            "abstractNote": "Since the early 2000s, sea ice has experienced an increased rate of decline in thickness, extent and age. This new regime, coined the \u2018New Arctic\u2019, is accompanied by a reshuffling of energy flows at the surface. Understanding of the magnitude and nature of this reshuffling and the feedbacks therein remains limited. A novel database is presented that combines satellite observations, model output, and reanalysis data with sea ice parcel drift tracks in a Lagrangian framework. This dataset consists of daily time series of sea ice parcel locations, sea ice and snow conditions, and atmospheric states, including remotely sensed surface energy budget terms. Additionally, flags indicate when sea ice parcels travel within cyclones, recording cyclone intensity and distance from the cyclone center. The quality of the ice parcel database was evaluated by comparison with sea ice mass balance buoys and correlations are high, which highlights the reliability of this database in capturing the seasonal changes and evolution of sea ice. This database has multiple applications for the scientific community; it can be used to study the processes that influence individual sea ice parcel time series, or to explore generalized summary statistics and trends across the Arctic.",
+            "language": "en",
+            "journalAbbreviation": "Sci Data",
+            "libraryCatalog": "www.nature.com",
+            "accessDate": "2023-05-24T18:49:39Z"
+        },
+        "DOIs": [
+            "10.5067/UO3Q64CTTS1U"
+        ],
+        "Type": "journal-article"
+    }
+]

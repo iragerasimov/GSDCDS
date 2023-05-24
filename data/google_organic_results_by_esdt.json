@@ -1,0 +1,2787 @@
+[
+    {
+        "position": 0,
+        "title": "Statistical framework for the evaluation of earthquake forecasting: A case study based on satellite surface temperature anomalies",
+        "result_id": "WB5M2f_5q58J",
+        "type": "Html",
+        "link": "https://www.sciencedirect.com/science/article/pii/S1367912021000481",
+        "snippet": "\u2026 -orbiting Aqua satellite. The AIRS/Aqua L3 daily standard physical retrieval (AIRS3STD) V006 \u2026 Nighttime ST in AIRS3STD data were used for anomaly analysis as it is a comprehensive \u2026",
+        "publication_info": {
+            "summary": "ZH Jiao, X Shan - Journal of Asian Earth Sciences, 2021 - Elsevier"
+        },
+        "resources": [
+            {
+                "title": "sciencedirect.com",
+                "file_format": "HTML",
+                "link": "https://www.sciencedirect.com/science/article/pii/S1367912021000481"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=WB5M2f_5q58J",
+            "html_version": "https://www.sciencedirect.com/science/article/pii/S1367912021000481",
+            "cited_by": {
+                "total": 10,
+                "link": "https://scholar.google.com/scholar?cites=11505564550305685080&as_sdt=5,48&sciodt=0,48&hl=en",
+                "cites_id": "11505564550305685080",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=11505564550305685080&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:WB5M2f_5q58J:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3AWB5M2f_5q58J%3Ascholar.google.com%2F",
+            "versions": {
+                "total": 2,
+                "link": "https://scholar.google.com/scholar?cluster=11505564550305685080&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "11505564550305685080",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=11505564550305685080&engine=google_scholar&hl=en&lr=lang_en"
+            }
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 1,
+        "title": "West Africa's moist convective environment as observed by the Atmospheric InfraRed Sounder (AIRS)",
+        "result_id": "Y_p3g9kylKUJ",
+        "link": "https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/joc.7983",
+        "snippet": "\u2026 has been operational since September 2002 aboard the NASA Aqua polar-orbiting satellite. \u2026 - 2018 mean AIRS Retrieval Algorithm-generated bias estimates for AIRS3STD TqJoint \u2026",
+        "publication_info": {
+            "summary": "MA Osei, CR Ferguson, E Quansah\u2026 - International Journal \u2026, 2023 - Wiley Online Library",
+            "authors": [
+                {
+                    "name": "MA Osei",
+                    "link": "https://scholar.google.com/citations?user=JcL4udMAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=JcL4udMAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "JcL4udMAAAAJ"
+                },
+                {
+                    "name": "CR Ferguson",
+                    "link": "https://scholar.google.com/citations?user=2O0m39QAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=2O0m39QAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "2O0m39QAAAAJ"
+                },
+                {
+                    "name": "E Quansah",
+                    "link": "https://scholar.google.com/citations?user=dkcDtfsAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=dkcDtfsAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "dkcDtfsAAAAJ"
+                }
+            ]
+        },
+        "resources": [
+            {
+                "title": "researchgate.net",
+                "file_format": "PDF",
+                "link": "https://www.researchgate.net/profile/Emmanuel-Quansah-4/publication/366716416_West_Africa's_Moist_Convective_Environment_as_Observed_by_the_Atmospheric_InfraRed_Sounder_AIRS/links/63c67e2de922c50e99a1af24/West-Africas-Moist-Convective-Environment-as-Observed-by-the-Atmospheric-InfraRed-Sounder-AIRS.pdf"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=Y_p3g9kylKUJ",
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:Y_p3g9kylKUJ:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3AY_p3g9kylKUJ%3Ascholar.google.com%2F"
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 2,
+        "title": "AIRS version 7 level 3 product user guide",
+        "result_id": "eOxByB6_8kkJ",
+        "type": "Pdf",
+        "link": "https://docserver.gesdisc.eosdis.nasa.gov/public/project/AIRS/V7_L3_Product_User_Guide.pdf",
+        "snippet": "\u2026 the data from AIRS, AMSU-A and HSB (a variant of AMSU-B) instruments. The AIRS+AMSU+\u2026 present in the other processing combination variants (AIRS-Only and AIRS+AMSU) but it is \u2026",
+        "publication_info": {
+            "summary": "B Tian, E Manning, J Roman\u2026 - \u2026 //airs. jpl. nasa \u2026, 2020 - docserver.gesdisc.eosdis.nasa.gov",
+            "authors": [
+                {
+                    "name": "B Tian",
+                    "link": "https://scholar.google.com/citations?user=5ZNULg0AAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=5ZNULg0AAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "5ZNULg0AAAAJ"
+                }
+            ]
+        },
+        "resources": [
+            {
+                "title": "nasa.gov",
+                "file_format": "PDF",
+                "link": "https://docserver.gesdisc.eosdis.nasa.gov/public/project/AIRS/V7_L3_Product_User_Guide.pdf"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=eOxByB6_8kkJ",
+            "cited_by": {
+                "total": 13,
+                "link": "https://scholar.google.com/scholar?cites=5328531448062405752&as_sdt=5,48&sciodt=0,48&hl=en",
+                "cites_id": "5328531448062405752",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=5328531448062405752&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:eOxByB6_8kkJ:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3AeOxByB6_8kkJ%3Ascholar.google.com%2F",
+            "versions": {
+                "total": 2,
+                "link": "https://scholar.google.com/scholar?cluster=5328531448062405752&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "5328531448062405752",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=5328531448062405752&engine=google_scholar&hl=en&lr=lang_en"
+            },
+            "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:eOxByB6_8kkJ:scholar.google.com/+%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1"
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 3,
+        "title": "AIRS/AMSU/HSB version 6 level 3 product user guide",
+        "result_id": "GvBDPXdrKaoJ",
+        "type": "Pdf",
+        "link": "https://docserver.gesdisc.eosdis.nasa.gov/repository/Mission/AIRS/3.3_ScienceDataProductDocumentation/3.3.4_ProductGenerationAlgorithms/V6_L3_User_Guide.pdf",
+        "snippet": "\u2026 users of AIRS Version 6 (V6) Level 3 (L3) products a brief guide how to use the AIRS V6 L3 \u2026 The temporal resolution of these AIRS L3 products is daily, 8-day (half of the 16 day Aqua \u2026",
+        "publication_info": {
+            "summary": "B Tian, E Manning, E Fetzer\u2026 - \u2026 CA), Tech Rep, 2013 - docserver.gesdisc.eosdis.nasa.gov",
+            "authors": [
+                {
+                    "name": "B Tian",
+                    "link": "https://scholar.google.com/citations?user=5ZNULg0AAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=5ZNULg0AAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "5ZNULg0AAAAJ"
+                }
+            ]
+        },
+        "resources": [
+            {
+                "title": "nasa.gov",
+                "file_format": "PDF",
+                "link": "https://docserver.gesdisc.eosdis.nasa.gov/repository/Mission/AIRS/3.3_ScienceDataProductDocumentation/3.3.4_ProductGenerationAlgorithms/V6_L3_User_Guide.pdf"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=GvBDPXdrKaoJ",
+            "cited_by": {
+                "total": 49,
+                "link": "https://scholar.google.com/scholar?cites=12261449620366028826&as_sdt=5,48&sciodt=0,48&hl=en",
+                "cites_id": "12261449620366028826",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=12261449620366028826&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:GvBDPXdrKaoJ:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3AGvBDPXdrKaoJ%3Ascholar.google.com%2F",
+            "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:GvBDPXdrKaoJ:scholar.google.com/+%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1"
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 4,
+        "title": "Overview of the AIRS Mission: Instruments, Processing Algorithms, Products, and Documentation",
+        "result_id": "K0HEqPGeH5sJ",
+        "type": "Pdf",
+        "link": "https://docserver.gesdisc.eosdis.nasa.gov/public/project/AIRS/Overview_of_the_AIRS_Mission.pdf",
+        "snippet": "\u2026 The Atmospheric Infrared Sounder (AIRS) instrument is a hyperspectral infrared spectrometer orbiting on the NASA Aqua spacecraft since May 2002. The primary goal of the AIRS \u2026",
+        "publication_info": {
+            "summary": "HT Thrastarson, EF Fetzer\u2026 - \u2026 /project/AIRS \u2026, 2021 - docserver.gesdisc.eosdis.nasa.gov"
+        },
+        "resources": [
+            {
+                "title": "nasa.gov",
+                "file_format": "PDF",
+                "link": "https://docserver.gesdisc.eosdis.nasa.gov/public/project/AIRS/Overview_of_the_AIRS_Mission.pdf"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=K0HEqPGeH5sJ",
+            "cited_by": {
+                "total": 3,
+                "link": "https://scholar.google.com/scholar?cites=11177827560912601387&as_sdt=5,48&sciodt=0,48&hl=en",
+                "cites_id": "11177827560912601387",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=11177827560912601387&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:K0HEqPGeH5sJ:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3AK0HEqPGeH5sJ%3Ascholar.google.com%2F",
+            "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:K0HEqPGeH5sJ:scholar.google.com/+%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1"
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 5,
+        "title": "Atmospheric Methane Condition over the South Sumatera Peatland during the COVID-19 Pandemic",
+        "result_id": "OqWYfRa2bGoJ",
+        "type": "Html",
+        "link": "https://aaqr.org/articles/aaqr-21-03-oa-0072",
+        "snippet": "\u2026 Infrared Sounder (AIRS) aboard NASA\u2019s Aqua satellite at 1 \u00d7 1 resolution. In this study, we used the AIRS/Aqua daily data product (AIRS3STD V006). The AIRS used 3D analysis of the \u2026",
+        "publication_info": {
+            "summary": "M Rendana, WMR Idris, SA Rahim - Aerosol and Air Quality Research, 2021 - aaqr.org",
+            "authors": [
+                {
+                    "name": "M Rendana",
+                    "link": "https://scholar.google.com/citations?user=3DoDSR0AAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=3DoDSR0AAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "3DoDSR0AAAAJ"
+                },
+                {
+                    "name": "SA Rahim",
+                    "link": "https://scholar.google.com/citations?user=IV21wF9u8YMC&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=IV21wF9u8YMC&engine=google_scholar_author&hl=en",
+                    "author_id": "IV21wF9u8YMC"
+                }
+            ]
+        },
+        "resources": [
+            {
+                "title": "aaqr.org",
+                "file_format": "HTML",
+                "link": "https://aaqr.org/articles/aaqr-21-03-oa-0072"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=OqWYfRa2bGoJ",
+            "html_version": "https://aaqr.org/articles/aaqr-21-03-oa-0072",
+            "cited_by": {
+                "total": 2,
+                "link": "https://scholar.google.com/scholar?cites=7668704473217803578&as_sdt=5,48&sciodt=0,48&hl=en",
+                "cites_id": "7668704473217803578",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=7668704473217803578&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:OqWYfRa2bGoJ:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3AOqWYfRa2bGoJ%3Ascholar.google.com%2F",
+            "versions": {
+                "total": 7,
+                "link": "https://scholar.google.com/scholar?cluster=7668704473217803578&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "7668704473217803578",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=7668704473217803578&engine=google_scholar&hl=en&lr=lang_en"
+            },
+            "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:OqWYfRa2bGoJ:scholar.google.com/+%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1"
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 6,
+        "title": "AIRS satellite CO data confirm the increase in wildfires in the Northern Hemisphere over the past two decades",
+        "result_id": "cYajPVCwYq0J",
+        "link": "https://www.preprints.org/manuscript/202206.0070",
+        "snippet": "\u2026 .gsfc.nasa.gov/datasets/, AIRS3STM 7.0 (monthly) and AIRS3STD 7.0. (daily). A reduced sensitivity of AIRS \u2026 The AIRS L3 daily means for the grid cells coinciding with nine locations of \u2026",
+        "publication_info": {
+            "summary": "L Yurganov - 2022 - preprints.org"
+        },
+        "resources": [
+            {
+                "title": "preprints.org",
+                "file_format": "PDF",
+                "link": "https://www.preprints.org/manuscript/202206.0070/download/final_file"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=cYajPVCwYq0J",
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:cYajPVCwYq0J:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3AcYajPVCwYq0J%3Ascholar.google.com%2F",
+            "versions": {
+                "total": 4,
+                "link": "https://scholar.google.com/scholar?cluster=12493742174957176433&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "12493742174957176433",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=12493742174957176433&engine=google_scholar&hl=en&lr=lang_en"
+            },
+            "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:cYajPVCwYq0J:scholar.google.com/+%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1"
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 7,
+        "title": "Exploring the Impact of Winter Storm Uri on Power Outage, Air Quality, and Water Systems in Texas, USA",
+        "result_id": "IYhnqYqPiisJ",
+        "link": "https://www.mdpi.com/2071-1050/15/5/4173",
+        "snippet": "\u2026 NASA Earth Data (https://giovanni.gsfc.nasa.gov/ (accessed on 16 June 2021)). AIRS (Atmospheric Infrared Sounder) on NASA\u2019s Aqua \u2026 hPa (AIRSonly-AIRS AIRS3STD v006) from the \u2026",
+        "publication_info": {
+            "summary": "ND Melaku, A Fares, R Awal - Sustainability, 2023 - mdpi.com",
+            "authors": [
+                {
+                    "name": "A Fares",
+                    "link": "https://scholar.google.com/citations?user=ijd5x4QAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ijd5x4QAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "ijd5x4QAAAAJ"
+                },
+                {
+                    "name": "R Awal",
+                    "link": "https://scholar.google.com/citations?user=GO2GpEwAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=GO2GpEwAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "GO2GpEwAAAAJ"
+                }
+            ]
+        },
+        "resources": [
+            {
+                "title": "mdpi.com",
+                "file_format": "PDF",
+                "link": "https://www.mdpi.com/2071-1050/15/5/4173/pdf"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=IYhnqYqPiisJ",
+            "cited_by": {
+                "total": 1,
+                "link": "https://scholar.google.com/scholar?cites=3137477916127365153&as_sdt=5,48&sciodt=0,48&hl=en",
+                "cites_id": "3137477916127365153",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=3137477916127365153&engine=google_scholar&hl=en"
+            },
+            "versions": {
+                "total": 5,
+                "link": "https://scholar.google.com/scholar?cluster=3137477916127365153&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "3137477916127365153",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=3137477916127365153&engine=google_scholar&hl=en&lr=lang_en"
+            },
+            "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:IYhnqYqPiisJ:scholar.google.com/+%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1"
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 8,
+        "title": "Crop residue burning in northern India: Increasing threat to Greater India",
+        "result_id": "o3CB8fvrGj0J",
+        "link": "https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018JD028428",
+        "snippet": "\u2026 (AIRS) on board the EOS Aqua platform. We have used the AIRS daily L3 product, AIRS3STD\u2026 to MODIS, AIRS science team for providing satellite data, and to NASA AERONET team for \u2026",
+        "publication_info": {
+            "summary": "S Sarkar, RP Singh, A Chauhan - Journal of Geophysical \u2026, 2018 - Wiley Online Library",
+            "authors": [
+                {
+                    "name": "S Sarkar",
+                    "link": "https://scholar.google.com/citations?user=G8Qrhf8AAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=G8Qrhf8AAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "G8Qrhf8AAAAJ"
+                },
+                {
+                    "name": "RP Singh",
+                    "link": "https://scholar.google.com/citations?user=NDTOAKMAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=NDTOAKMAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "NDTOAKMAAAAJ"
+                },
+                {
+                    "name": "A Chauhan",
+                    "link": "https://scholar.google.com/citations?user=XJaAkJEAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=XJaAkJEAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "XJaAkJEAAAAJ"
+                }
+            ]
+        },
+        "resources": [
+            {
+                "title": "wiley.com",
+                "file_format": "PDF",
+                "link": "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2018JD028428"
+            },
+            {
+                "title": "Full View",
+                "link": "https://scholar.google.com/scholar?output=instlink&q=info:o3CB8fvrGj0J:scholar.google.com/&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1&scillfp=3706486266380116051&oi=lle"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=o3CB8fvrGj0J",
+            "cited_by": {
+                "total": 108,
+                "link": "https://scholar.google.com/scholar?cites=4403091053029191843&as_sdt=5,48&sciodt=0,48&hl=en",
+                "cites_id": "4403091053029191843",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=4403091053029191843&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:o3CB8fvrGj0J:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3Ao3CB8fvrGj0J%3Ascholar.google.com%2F",
+            "versions": {
+                "total": 8,
+                "link": "https://scholar.google.com/scholar?cluster=4403091053029191843&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "4403091053029191843",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=4403091053029191843&engine=google_scholar&hl=en&lr=lang_en"
+            }
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 9,
+        "title": "Global land surface emissivity estimation from AMSR2 observations",
+        "result_id": "GVO-x0cPmYgJ",
+        "link": "https://ieeexplore.ieee.org/abstract/document/7506020/",
+        "snippet": "\u2026 -E and AMSR instruments onboard NASA\u2019s Aqua and ADEOS-II satellites, \u2026 AIRS)/Aqua version 6 daily L3 gridded standard retrieval swath product using AIRS infraredonly (AIRS3STD\u2026",
+        "publication_info": {
+            "summary": "S Prakash, H Norouzi, M Azarderakhsh\u2026 - \u2026 and Remote Sensing \u2026, 2016 - ieeexplore.ieee.org",
+            "authors": [
+                {
+                    "name": "S Prakash",
+                    "link": "https://scholar.google.com/citations?user=j42_4lUAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=j42_4lUAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "j42_4lUAAAAJ"
+                },
+                {
+                    "name": "H Norouzi",
+                    "link": "https://scholar.google.com/citations?user=tIwUWCQAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=tIwUWCQAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "tIwUWCQAAAAJ"
+                },
+                {
+                    "name": "M Azarderakhsh",
+                    "link": "https://scholar.google.com/citations?user=36JW_9Td2NgC&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=36JW_9Td2NgC&engine=google_scholar_author&hl=en",
+                    "author_id": "36JW_9Td2NgC"
+                }
+            ]
+        },
+        "resources": [
+            {
+                "title": "ieee.org",
+                "file_format": "PDF",
+                "link": "https://ieeexplore.ieee.org/ielaam/8859/7534955/7506020-aam.pdf"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=GVO-x0cPmYgJ",
+            "cited_by": {
+                "total": 29,
+                "link": "https://scholar.google.com/scholar?cites=9842915261563163417&as_sdt=5,48&sciodt=0,48&hl=en",
+                "cites_id": "9842915261563163417",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=9842915261563163417&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:GVO-x0cPmYgJ:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3AGVO-x0cPmYgJ%3Ascholar.google.com%2F",
+            "versions": {
+                "total": 6,
+                "link": "https://scholar.google.com/scholar?cluster=9842915261563163417&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "9842915261563163417",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=9842915261563163417&engine=google_scholar&hl=en&lr=lang_en"
+            }
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 0,
+        "title": "Earth as an Exoplanet. II. Earth's Time-variable Thermal Emission and Its Atmospheric Seasonality of Bioindicators",
+        "result_id": "x0R1bcRrJPwJ",
+        "link": "https://iopscience.iop.org/article/10.3847/1538-4357/acbe3c/meta",
+        "snippet": "\u2026 mean, we analyzed 2000 randomly selected AIRS observation frames from which up to \u2026 AIRS3STD) and was disk averaged for the four viewing geometries for dayside only. AIRS3STD \u2026",
+        "publication_info": {
+            "summary": "JN Mettler, SP Quanz, R Helled, SL Olson\u2026 - The Astrophysical \u2026, 2023 - iopscience.iop.org",
+            "authors": [
+                {
+                    "name": "SP Quanz",
+                    "link": "https://scholar.google.com/citations?user=lXUQvDkAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=lXUQvDkAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "lXUQvDkAAAAJ"
+                },
+                {
+                    "name": "R Helled",
+                    "link": "https://scholar.google.com/citations?user=LEGArd4AAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=LEGArd4AAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "LEGArd4AAAAJ"
+                },
+                {
+                    "name": "SL Olson",
+                    "link": "https://scholar.google.com/citations?user=MwHr3e8AAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=MwHr3e8AAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "MwHr3e8AAAAJ"
+                }
+            ]
+        },
+        "resources": [
+            {
+                "title": "iop.org",
+                "file_format": "PDF",
+                "link": "https://iopscience.iop.org/article/10.3847/1538-4357/acbe3c/pdf"
+            },
+            {
+                "title": "Full View",
+                "link": "https://scholar.google.com/scholar?output=instlink&q=info:x0R1bcRrJPwJ:scholar.google.com/&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1&scillfp=18232671533461225290&oi=lle"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=x0R1bcRrJPwJ",
+            "cited_by": {
+                "total": 1,
+                "link": "https://scholar.google.com/scholar?cites=18168765288113587399&as_sdt=5,48&sciodt=0,48&hl=en",
+                "cites_id": "18168765288113587399",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=18168765288113587399&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:x0R1bcRrJPwJ:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3Ax0R1bcRrJPwJ%3Ascholar.google.com%2F&start=10",
+            "versions": {
+                "total": 2,
+                "link": "https://scholar.google.com/scholar?cluster=18168765288113587399&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "18168765288113587399",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=18168765288113587399&engine=google_scholar&hl=en&lr=lang_en"
+            }
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 1,
+        "title": "Using NASA satellite data sources and geometric deep learning to uncover hidden patterns in COVID-19 clinical severity",
+        "result_id": "xSL4nuNuPOUJ",
+        "link": "https://arxiv.org/abs/2110.10849",
+        "snippet": "\u2026 Sounder (AIRS; [11]) aboard NASA\u2019s Aqua satellite also \u2026 spatial coverage of AIRS, these observations from AIRS have \u2026 this paper we illustrate how the new NASA dataset can be used to \u2026",
+        "publication_info": {
+            "summary": "I Segovia-Dominguez, H Lee, Z Zhen, Y Chen\u2026 - arXiv preprint arXiv \u2026, 2021 - arxiv.org",
+            "authors": [
+                {
+                    "name": "I Segovia-Dominguez",
+                    "link": "https://scholar.google.com/citations?user=w8oDyT4AAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=w8oDyT4AAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "w8oDyT4AAAAJ"
+                },
+                {
+                    "name": "H Lee",
+                    "link": "https://scholar.google.com/citations?user=7Rm-vHUAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=7Rm-vHUAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "7Rm-vHUAAAAJ"
+                },
+                {
+                    "name": "Z Zhen",
+                    "link": "https://scholar.google.com/citations?user=dwwk0CsAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=dwwk0CsAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "dwwk0CsAAAAJ"
+                },
+                {
+                    "name": "Y Chen",
+                    "link": "https://scholar.google.com/citations?user=4HVVIr0AAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4HVVIr0AAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "4HVVIr0AAAAJ"
+                }
+            ]
+        },
+        "resources": [
+            {
+                "title": "arxiv.org",
+                "file_format": "PDF",
+                "link": "https://arxiv.org/pdf/2110.10849"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=xSL4nuNuPOUJ",
+            "cited_by": {
+                "total": 1,
+                "link": "https://scholar.google.com/scholar?cites=16518199457191830213&as_sdt=5,48&sciodt=0,48&hl=en",
+                "cites_id": "16518199457191830213",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=16518199457191830213&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:xSL4nuNuPOUJ:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3AxSL4nuNuPOUJ%3Ascholar.google.com%2F&start=10",
+            "versions": {
+                "total": 4,
+                "link": "https://scholar.google.com/scholar?cluster=16518199457191830213&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "16518199457191830213",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=16518199457191830213&engine=google_scholar&hl=en&lr=lang_en"
+            },
+            "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:xSL4nuNuPOUJ:scholar.google.com/+%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1"
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 2,
+        "title": "Comparison of INSAT-3D retrieved total column ozone with ground-based and AIRS observations over India",
+        "result_id": "2Ys0kcKcpYUJ",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0048969721035907",
+        "snippet": "\u2026 to compare the INSAT-3D TCO with two independent ground-based Dobson spectrophotometer observations and Atmospheric Infrared Sounder (AIRS) aboard NASA's Aqua satellite. \u2026",
+        "publication_info": {
+            "summary": "RR Kumar, KR Vankayalapati, VK Soni\u2026 - Science of The Total \u2026, 2021 - Elsevier",
+            "authors": [
+                {
+                    "name": "RR Kumar",
+                    "link": "https://scholar.google.com/citations?user=FrfWUSUAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=FrfWUSUAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "FrfWUSUAAAAJ"
+                },
+                {
+                    "name": "KR Vankayalapati",
+                    "link": "https://scholar.google.com/citations?user=PFe0n9cAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=PFe0n9cAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "PFe0n9cAAAAJ"
+                }
+            ]
+        },
+        "resources": [
+            {
+                "title": "sciencedirect.com",
+                "file_format": "PDF",
+                "link": "https://www.sciencedirect.com/science/article/am/pii/S0048969721035907"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=2Ys0kcKcpYUJ",
+            "cited_by": {
+                "total": 3,
+                "link": "https://scholar.google.com/scholar?cites=9630275737675402201&as_sdt=5,48&sciodt=0,48&hl=en",
+                "cites_id": "9630275737675402201",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=9630275737675402201&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:2Ys0kcKcpYUJ:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3A2Ys0kcKcpYUJ%3Ascholar.google.com%2F&start=10",
+            "versions": {
+                "total": 6,
+                "link": "https://scholar.google.com/scholar?cluster=9630275737675402201&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "9630275737675402201",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=9630275737675402201&engine=google_scholar&hl=en&lr=lang_en"
+            }
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 3,
+        "title": "Inter-comparison of AIRS temperature and relative humidity profiles with AMMA and DACCIWA radiosonde observations over West Africa",
+        "result_id": "Lk92M6-v1JMJ",
+        "link": "https://www.mdpi.com/798156",
+        "snippet": "\u2026 The AIRS sensor has been operational aboard the AQUA satellite \u2026 The AIRS IR-Only level 3 standard retrieval (AIRS3STD) \u2026 AIRS3STD is derived from Level-2 data products in which \u2026",
+        "publication_info": {
+            "summary": "MA Osei, LK Amekudzi, CR Ferguson, SK Danuor - Remote Sensing, 2020 - mdpi.com",
+            "authors": [
+                {
+                    "name": "MA Osei",
+                    "link": "https://scholar.google.com/citations?user=JcL4udMAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=JcL4udMAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "JcL4udMAAAAJ"
+                },
+                {
+                    "name": "LK Amekudzi",
+                    "link": "https://scholar.google.com/citations?user=UDJtmeUAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=UDJtmeUAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "UDJtmeUAAAAJ"
+                },
+                {
+                    "name": "CR Ferguson",
+                    "link": "https://scholar.google.com/citations?user=2O0m39QAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=2O0m39QAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "2O0m39QAAAAJ"
+                },
+                {
+                    "name": "SK Danuor",
+                    "link": "https://scholar.google.com/citations?user=0hUwOooAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=0hUwOooAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "0hUwOooAAAAJ"
+                }
+            ]
+        },
+        "resources": [
+            {
+                "title": "mdpi.com",
+                "file_format": "PDF",
+                "link": "https://www.mdpi.com/2072-4292/12/16/2631/pdf"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=Lk92M6-v1JMJ",
+            "cited_by": {
+                "total": 5,
+                "link": "https://scholar.google.com/scholar?cites=10652332185655594798&as_sdt=5,48&sciodt=0,48&hl=en",
+                "cites_id": "10652332185655594798",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=10652332185655594798&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:Lk92M6-v1JMJ:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3ALk92M6-v1JMJ%3Ascholar.google.com%2F&start=10",
+            "versions": {
+                "total": 13,
+                "link": "https://scholar.google.com/scholar?cluster=10652332185655594798&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "10652332185655594798",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=10652332185655594798&engine=google_scholar&hl=en&lr=lang_en"
+            },
+            "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:Lk92M6-v1JMJ:scholar.google.com/+%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1"
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 4,
+        "title": "Global evaluation of terrestrial near-surface air temperature and specific humidity retrievals from the Atmospheric Infrared Sounder (AIRS)",
+        "result_id": "rSX56cue4Q4J",
+        "type": "Html",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0034425720305198",
+        "snippet": "\u2026 , such as those from NASA's Atmospheric Infrared Sounder (AIRS) mission, show \u2026 AIRS near-surface atmospheric state retrievals. In this study, we use triple collocation to validate AIRS \u2026",
+        "publication_info": {
+            "summary": "J Sun, KA McColl, Y Wang, AJ Rigden, H Lu\u2026 - Remote Sensing of \u2026, 2021 - Elsevier",
+            "authors": [
+                {
+                    "name": "J Sun",
+                    "link": "https://scholar.google.com/citations?user=Uf5_GWAAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Uf5_GWAAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "Uf5_GWAAAAAJ"
+                },
+                {
+                    "name": "KA McColl",
+                    "link": "https://scholar.google.com/citations?user=wFyikJgAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=wFyikJgAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "wFyikJgAAAAJ"
+                },
+                {
+                    "name": "Y Wang",
+                    "link": "https://scholar.google.com/citations?user=K7clQrcAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=K7clQrcAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "K7clQrcAAAAJ"
+                },
+                {
+                    "name": "AJ Rigden",
+                    "link": "https://scholar.google.com/citations?user=785q-dEAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=785q-dEAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "785q-dEAAAAJ"
+                },
+                {
+                    "name": "H Lu",
+                    "link": "https://scholar.google.com/citations?user=ObQy8ssAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ObQy8ssAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "ObQy8ssAAAAJ"
+                }
+            ]
+        },
+        "resources": [
+            {
+                "title": "sciencedirect.com",
+                "file_format": "HTML",
+                "link": "https://www.sciencedirect.com/science/article/pii/S0034425720305198"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=rSX56cue4Q4J",
+            "html_version": "https://www.sciencedirect.com/science/article/pii/S0034425720305198",
+            "cited_by": {
+                "total": 12,
+                "link": "https://scholar.google.com/scholar?cites=1072312784931857837&as_sdt=5,48&sciodt=0,48&hl=en",
+                "cites_id": "1072312784931857837",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=1072312784931857837&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:rSX56cue4Q4J:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3ArSX56cue4Q4J%3Ascholar.google.com%2F&start=10",
+            "versions": {
+                "total": 6,
+                "link": "https://scholar.google.com/scholar?cluster=1072312784931857837&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "1072312784931857837",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=1072312784931857837&engine=google_scholar&hl=en&lr=lang_en"
+            }
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 5,
+        "title": "Variations in water vapor from AIRS and MODIS in response to Arctic sea ice change in December 2002\u2013November 2016",
+        "result_id": "MUGEVr8OIfkJ",
+        "link": "https://ieeexplore.ieee.org/abstract/document/8714041/",
+        "snippet": "\u2026 AIRS3STD and the MYD08_D3 products provide daily water vapor retrievals at a 1 \u00d7 1 resolution. The AIRS3STD \u2026 (GES DISC; https://disc.gsfc.nasa.gov/), and the MYD08_D3 data were \u2026",
+        "publication_info": {
+            "summary": "L Chang, G Gao, Y Li, Y Zhang, C Zhang\u2026 - \u2026 on Geoscience and \u2026, 2019 - ieeexplore.ieee.org"
+        },
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=MUGEVr8OIfkJ",
+            "cited_by": {
+                "total": 11,
+                "link": "https://scholar.google.com/scholar?cites=17951645804628558129&as_sdt=5,48&sciodt=0,48&hl=en",
+                "cites_id": "17951645804628558129",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=17951645804628558129&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:MUGEVr8OIfkJ:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3AMUGEVr8OIfkJ%3Ascholar.google.com%2F&start=10",
+            "versions": {
+                "total": 4,
+                "link": "https://scholar.google.com/scholar?cluster=17951645804628558129&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "17951645804628558129",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=17951645804628558129&engine=google_scholar&hl=en&lr=lang_en"
+            }
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 6,
+        "title": "Decadal Seasonal Shifts of Precipitation and Temperature in TRMM and AIRS Data",
+        "result_id": "I7Dmem1PBg8J",
+        "link": "https://ntrs.nasa.gov/citations/20180000524",
+        "snippet": "We present results from an analysis of seasonal phase shifts in the global precipitation and surface temperatures. We use data from the TRMM (Tropical Rainfall Measuring Mission) \u2026",
+        "publication_info": {
+            "summary": "A Savtchenko, G Huffman, D Meyer, B Vollmer - AMS Annual Meeting, 2018 - ntrs.nasa.gov"
+        },
+        "resources": [
+            {
+                "title": "nasa.gov",
+                "file_format": "PDF",
+                "link": "https://ntrs.nasa.gov/api/citations/20180000524/downloads/20180000524.pdf"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=I7Dmem1PBg8J",
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:I7Dmem1PBg8J:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3AI7Dmem1PBg8J%3Ascholar.google.com%2F&start=10",
+            "versions": {
+                "total": 3,
+                "link": "https://scholar.google.com/scholar?cluster=1082640092061151267&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "1082640092061151267",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=1082640092061151267&engine=google_scholar&hl=en&lr=lang_en"
+            },
+            "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:I7Dmem1PBg8J:scholar.google.com/+%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1"
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 7,
+        "title": "Inter-Comparison of AIRS Temperature and Relative Humidity Profiles with AMMA and DACCIWA Radiosonde Observations over West Africa",
+        "result_id": "WyxZdwwlz_gJ",
+        "link": "http://dspace.knust.edu.gh/handle/123456789/15607",
+        "snippet": "\u2026 The AIRS sensor has been operational aboard the AQUA satellite \u2026 The AIRS IR-Only level 3 standard retrieval (AIRS3STD) \u2026 AIRS3STD is derived from Level-2 data products in which \u2026",
+        "publication_info": {
+            "summary": "LK Amekudzi, MA Osei, CR Ferguson, SK Danuor - 2020 - dspace.knust.edu.gh",
+            "authors": [
+                {
+                    "name": "LK Amekudzi",
+                    "link": "https://scholar.google.com/citations?user=UDJtmeUAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=UDJtmeUAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "UDJtmeUAAAAJ"
+                },
+                {
+                    "name": "MA Osei",
+                    "link": "https://scholar.google.com/citations?user=JcL4udMAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=JcL4udMAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "JcL4udMAAAAJ"
+                },
+                {
+                    "name": "CR Ferguson",
+                    "link": "https://scholar.google.com/citations?user=2O0m39QAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=2O0m39QAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "2O0m39QAAAAJ"
+                },
+                {
+                    "name": "SK Danuor",
+                    "link": "https://scholar.google.com/citations?user=0hUwOooAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=0hUwOooAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "0hUwOooAAAAJ"
+                }
+            ]
+        },
+        "resources": [
+            {
+                "title": "knust.edu.gh",
+                "file_format": "PDF",
+                "link": "http://dspace.knust.edu.gh/bitstream/123456789/15607/1/remotesensing-12-02631.pdf"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=WyxZdwwlz_gJ",
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:WyxZdwwlz_gJ:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3AWyxZdwwlz_gJ%3Ascholar.google.com%2F&start=10",
+            "versions": {
+                "total": 2,
+                "link": "https://scholar.google.com/scholar?cluster=17928589377057401947&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "17928589377057401947",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=17928589377057401947&engine=google_scholar&hl=en&lr=lang_en"
+            },
+            "cached_page_link": "http://scholar.googleusercontent.com/scholar?q=cache:WyxZdwwlz_gJ:scholar.google.com/+%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1"
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 8,
+        "title": "Consecutive statistical evaluation framework for earthquake forecasting: Evaluating satellite surface temperature anomaly detection methods",
+        "result_id": "fWJCAyZFnp0J",
+        "type": "Html",
+        "link": "https://www.sciencedirect.com/science/article/pii/S2590056022000172",
+        "snippet": "\u2026 NASA's Aqua polar-orbiting satellite was launched on 4 May 2002. Earthquakes from 2006 were selected, and AIRS ST \u2026 the AIRS/Aqua L3 daily standard physical retrieval (AIRS3STD) \u2026",
+        "publication_info": {
+            "summary": "ZH Jiao, X Shan - Journal of Asian Earth Sciences: X, 2022 - Elsevier"
+        },
+        "resources": [
+            {
+                "title": "sciencedirect.com",
+                "file_format": "HTML",
+                "link": "https://www.sciencedirect.com/science/article/pii/S2590056022000172"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=fWJCAyZFnp0J",
+            "html_version": "https://www.sciencedirect.com/science/article/pii/S2590056022000172",
+            "cited_by": {
+                "total": 3,
+                "link": "https://scholar.google.com/scholar?cites=11357591339840725629&as_sdt=5,48&sciodt=0,48&hl=en",
+                "cites_id": "11357591339840725629",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=11357591339840725629&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:fWJCAyZFnp0J:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3AfWJCAyZFnp0J%3Ascholar.google.com%2F&start=10"
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 9,
+        "title": "A satellite-based investigation into the algae bloom variability in large water supply urban reservoirs during COVID-19 lockdown",
+        "result_id": "4Uf8WSfR_bEJ",
+        "link": "https://www.sciencedirect.com/science/article/pii/S2352938521000914",
+        "snippet": "\u2026 is onboard the polar-orbiting Aqua satellite. The AIRS3STD v006 product contains the standard \u2026 MERRA is a NASA atmospheric reanalysis for the satellite era using the Goddard Earth \u2026",
+        "publication_info": {
+            "summary": "E Alcantara, K Coimbra, I Ogashawara\u2026 - Remote Sensing \u2026, 2021 - Elsevier",
+            "authors": [
+                {
+                    "name": "E Alcantara",
+                    "link": "https://scholar.google.com/citations?user=PzwzeeMAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=PzwzeeMAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "PzwzeeMAAAAJ"
+                },
+                {
+                    "name": "K Coimbra",
+                    "link": "https://scholar.google.com/citations?user=y7_kglYAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=y7_kglYAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "y7_kglYAAAAJ"
+                },
+                {
+                    "name": "I Ogashawara",
+                    "link": "https://scholar.google.com/citations?user=QSPEEdYAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=QSPEEdYAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "QSPEEdYAAAAJ"
+                }
+            ]
+        },
+        "resources": [
+            {
+                "title": "researchsquare.com",
+                "file_format": "PDF",
+                "link": "https://www.researchsquare.com/article/rs-211130/latest.pdf"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=4Uf8WSfR_bEJ",
+            "cited_by": {
+                "total": 12,
+                "link": "https://scholar.google.com/scholar?cites=12825637280764676065&as_sdt=5,48&sciodt=0,48&hl=en",
+                "cites_id": "12825637280764676065",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=12825637280764676065&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:4Uf8WSfR_bEJ:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3A4Uf8WSfR_bEJ%3Ascholar.google.com%2F&start=10",
+            "versions": {
+                "total": 11,
+                "link": "https://scholar.google.com/scholar?cluster=12825637280764676065&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "12825637280764676065",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=12825637280764676065&engine=google_scholar&hl=en&lr=lang_en"
+            }
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 0,
+        "title": "Heat wave and bushfire meteorology in New South Wales, Australia: air quality and health impacts",
+        "result_id": "qEzLImCrH2IJ",
+        "link": "https://www.mdpi.com/1660-4601/19/16/10388",
+        "snippet": "\u2026 Goddard Space Flight center is one of the leading space research lab of NASA. The space \u2026 map is also captured through the satellite sensor AIRS AIRS3STD v7.0. Figure 3e, f show the \u2026",
+        "publication_info": {
+            "summary": "MS Islam, T Fang, C Oldfield, P Larpruenrudee\u2026 - International journal of \u2026, 2022 - mdpi.com",
+            "authors": [
+                {
+                    "name": "MS Islam",
+                    "link": "https://scholar.google.com/citations?user=E6U8nEAAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=E6U8nEAAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "E6U8nEAAAAAJ"
+                },
+                {
+                    "name": "P Larpruenrudee",
+                    "link": "https://scholar.google.com/citations?user=BfjGtkQAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=BfjGtkQAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "BfjGtkQAAAAJ"
+                }
+            ]
+        },
+        "resources": [
+            {
+                "title": "mdpi.com",
+                "file_format": "PDF",
+                "link": "https://www.mdpi.com/1660-4601/19/16/10388/pdf"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=qEzLImCrH2IJ",
+            "cited_by": {
+                "total": 2,
+                "link": "https://scholar.google.com/scholar?cites=7070558369383926952&as_sdt=5,48&sciodt=0,48&hl=en",
+                "cites_id": "7070558369383926952",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=7070558369383926952&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:qEzLImCrH2IJ:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3AqEzLImCrH2IJ%3Ascholar.google.com%2F&start=20",
+            "versions": {
+                "total": 12,
+                "link": "https://scholar.google.com/scholar?cluster=7070558369383926952&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "7070558369383926952",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=7070558369383926952&engine=google_scholar&hl=en&lr=lang_en"
+            },
+            "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:qEzLImCrH2IJ:scholar.google.com/+%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1"
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 1,
+        "title": "Satellite monitoring of the environment in the area of the Iskitim coal mines in 2013-2020",
+        "result_id": "RPkoYDA-DtoJ",
+        "link": "http://cplire.ru:8080/id/eprint/8174",
+        "snippet": "\u2026 For the analysis of atmospheric pollution, we used the NASA Goddard \u2026 the AIRS (Atmospheric Infrared Sounder) infrared spectrometer installed on the EOS AQUA satellite, AIRS3STD v.\u2026",
+        "publication_info": {
+            "summary": "NV Rodionova - CEUR Workshop Proceedings, 2021 - cplire.ru"
+        },
+        "resources": [
+            {
+                "title": "cplire.ru",
+                "file_format": "PDF",
+                "link": "http://cplire.ru:8080/8174/1/41_regular_paper.pdf"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=RPkoYDA-DtoJ",
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:RPkoYDA-DtoJ:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3ARPkoYDA-DtoJ%3Ascholar.google.com%2F&start=20",
+            "versions": {
+                "total": 5,
+                "link": "https://scholar.google.com/scholar?cluster=15712564527434889540&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "15712564527434889540",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=15712564527434889540&engine=google_scholar&hl=en&lr=lang_en"
+            },
+            "cached_page_link": "http://scholar.googleusercontent.com/scholar?q=cache:RPkoYDA-DtoJ:scholar.google.com/+%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1"
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 2,
+        "title": "Error Analysis of Three Types of Satellite-observed Surface Skin Temperatures in the Sea Ice Region of the Northern Hemisphere",
+        "result_id": "jR7mhC0euLYJ",
+        "type": "Html",
+        "link": "http://jkess.org/journal/article.php?code=25385",
+        "snippet": "\u2026 AIRS/AMSU. The \u2018AIRS only\u2019 algorithm has been developed from NASA\u2019s Goddard Space Flight Center (NASA/GSFC) to prepare for the degradation of AMSU-A by revising part of the \u2026",
+        "publication_info": {
+            "summary": "HJ Kang, JM Yoo - Journal of the Korean earth science society, 2015 - jkess.org"
+        },
+        "resources": [
+            {
+                "title": "jkess.org",
+                "file_format": "HTML",
+                "link": "http://jkess.org/journal/article.php?code=25385"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=jR7mhC0euLYJ",
+            "html_version": "http://jkess.org/journal/article.php?code=25385",
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:jR7mhC0euLYJ:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3AjR7mhC0euLYJ%3Ascholar.google.com%2F&start=20",
+            "cached_page_link": "http://scholar.googleusercontent.com/scholar?q=cache:jR7mhC0euLYJ:scholar.google.com/+%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1"
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 3,
+        "title": "Pre-Seismic Temporal Integrated Anomalies from Multiparametric Remote Sensing Data",
+        "result_id": "MV0Gv3LCDm8J",
+        "link": "https://www.mdpi.com/1628542",
+        "snippet": "\u2026 AIRS AIRS3STD data are available from the GES DISC at https://disc.gsfc.nasa.gov/datasets/AIRS3STD_7.0/summary (accessed on 10 April 2022). Earthquake catalog data are \u2026",
+        "publication_info": {
+            "summary": "Z Jiao, X Shan - Remote Sensing, 2022 - mdpi.com"
+        },
+        "resources": [
+            {
+                "title": "mdpi.com",
+                "file_format": "PDF",
+                "link": "https://www.mdpi.com/2072-4292/14/10/2343/pdf"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=MV0Gv3LCDm8J",
+            "cited_by": {
+                "total": 4,
+                "link": "https://scholar.google.com/scholar?cites=8002547385970875697&as_sdt=5,48&sciodt=0,48&hl=en",
+                "cites_id": "8002547385970875697",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=8002547385970875697&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:MV0Gv3LCDm8J:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3AMV0Gv3LCDm8J%3Ascholar.google.com%2F&start=20",
+            "versions": {
+                "total": 5,
+                "link": "https://scholar.google.com/scholar?cluster=8002547385970875697&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "8002547385970875697",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=8002547385970875697&engine=google_scholar&hl=en&lr=lang_en"
+            },
+            "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:MV0Gv3LCDm8J:scholar.google.com/+%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1"
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 4,
+        "title": "Effects of Water Vapor and Cloud Fraction in AIRS Retrievals on Arctic Sea Ice Variability",
+        "result_id": "RNLE8Y9PIooJ",
+        "link": "https://ieeexplore.ieee.org/abstract/document/9804768/",
+        "snippet": "\u2026 the latest AIRS-only Level-3 Version 7 daily standard physical retrieval (AIRS3STD) product [\u2026 The AIRS3STD product provides PWV and CF retrievals at a 1 \u00d7 1 resolution. Considering \u2026",
+        "publication_info": {
+            "summary": "L Chang, F Chen, G Gao\u2026 - IEEE Transactions on \u2026, 2022 - ieeexplore.ieee.org"
+        },
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=RNLE8Y9PIooJ",
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:RNLE8Y9PIooJ:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3ARNLE8Y9PIooJ%3Ascholar.google.com%2F&start=20",
+            "versions": {
+                "total": 2,
+                "link": "https://scholar.google.com/scholar?cluster=9953605606097343044&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "9953605606097343044",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=9953605606097343044&engine=google_scholar&hl=en&lr=lang_en"
+            }
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 5,
+        "title": "How does access to this work benefit you? Let us know!",
+        "result_id": "2P9RIcBvpJoJ",
+        "type": "Pdf",
+        "link": "https://www.academia.edu/download/79289327/viewcontent.pdf",
+        "snippet": "\u2026 -E and AMSR instruments onboard NASA\u2019s Aqua and ADEOS-II satellites, \u2026 (AIRS)/Aqua version 6 daily L3 gridded standard retrieval swath product using AIRS infrared-only (AIRS3STD) \u2026",
+        "publication_info": {
+            "summary": "S Prakash, H Norouzi, M Azarderakhsh, R Blake\u2026 - academia.edu",
+            "authors": [
+                {
+                    "name": "S Prakash",
+                    "link": "https://scholar.google.com/citations?user=WQbAL7AAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=WQbAL7AAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "WQbAL7AAAAAJ"
+                },
+                {
+                    "name": "H Norouzi",
+                    "link": "https://scholar.google.com/citations?user=tIwUWCQAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=tIwUWCQAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "tIwUWCQAAAAJ"
+                }
+            ]
+        },
+        "resources": [
+            {
+                "title": "academia.edu",
+                "file_format": "PDF",
+                "link": "https://www.academia.edu/download/79289327/viewcontent.pdf"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=2P9RIcBvpJoJ",
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:2P9RIcBvpJoJ:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3A2P9RIcBvpJoJ%3Ascholar.google.com%2F&start=20",
+            "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:2P9RIcBvpJoJ:scholar.google.com/+%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1"
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 6,
+        "title": "Task 28: Web Accessible APIs in the Cloud Trade Study",
+        "result_id": "E1bBGI66_1UJ",
+        "link": "https://ntrs.nasa.gov/citations/20170009584",
+        "snippet": "\u2026 To answer our question, the following is an example with the AIRS product (NASA, 2017) used in this study. This AIRS \u2026 Our test data included 365 granules of the AIRS3STD.006 (\u2026",
+        "publication_info": {
+            "summary": "J Gallagher, T Habermann, A Jelenak, J Lee, N Potter\u2026 - 2017 - ntrs.nasa.gov",
+            "authors": [
+                {
+                    "name": "J Gallagher",
+                    "link": "https://scholar.google.com/citations?user=nrqWKoAAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nrqWKoAAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "nrqWKoAAAAAJ"
+                },
+                {
+                    "name": "T Habermann",
+                    "link": "https://scholar.google.com/citations?user=81hnbOoAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=81hnbOoAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "81hnbOoAAAAJ"
+                }
+            ]
+        },
+        "resources": [
+            {
+                "title": "nasa.gov",
+                "file_format": "PDF",
+                "link": "https://ntrs.nasa.gov/api/citations/20170009584/downloads/20170009584.pdf"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=E1bBGI66_1UJ",
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:E1bBGI66_1UJ:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3AE1bBGI66_1UJ%3Ascholar.google.com%2F&start=20",
+            "versions": {
+                "total": 3,
+                "link": "https://scholar.google.com/scholar?cluster=6196876731748537875&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "6196876731748537875",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=6196876731748537875&engine=google_scholar&hl=en&lr=lang_en"
+            },
+            "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:E1bBGI66_1UJ:scholar.google.com/+%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1"
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 7,
+        "title": "Intense Wildfires in Russia over a 22-Year Period According to Satellite Data",
+        "result_id": "nyivoQIuJGUJ",
+        "link": "https://www.mdpi.com/2571-6255/6/3/99",
+        "snippet": "\u2026 obtained by the MODIS instrument (Terra and Aqua satellites), based on the classification of \u2026 of the 3rd-level AIRS3STD thematic product from AIRS data with a spatial resolution of 1 \u00d7 1 \u2026",
+        "publication_info": {
+            "summary": "VG Bondur, KA Gordo, OS Voronova, AL Zima\u2026 - Fire, 2023 - mdpi.com"
+        },
+        "resources": [
+            {
+                "title": "mdpi.com",
+                "file_format": "PDF",
+                "link": "https://www.mdpi.com/2571-6255/6/3/99/pdf"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=nyivoQIuJGUJ",
+            "versions": {
+                "total": 3,
+                "link": "https://scholar.google.com/scholar?cluster=7288000685829728415&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "7288000685829728415",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=7288000685829728415&engine=google_scholar&hl=en&lr=lang_en"
+            },
+            "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:nyivoQIuJGUJ:scholar.google.com/+%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1"
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 8,
+        "title": "Satellite Observed Multi-Parameter Variations Associated with the 2020 Yutian Earthquake, China",
+        "result_id": "xgsJnP373PwJ",
+        "link": "https://ieeexplore.ieee.org/abstract/document/9554237/",
+        "snippet": "\u2026 AIRS daily L3 product AIRS3STD with the global coverage at a spatial resolution of 1.0\u00d71.0 has been used in the present study. AIRS retrieved vertical parameters - Ozone volume \u2026",
+        "publication_info": {
+            "summary": "F Jing, RP Singh - 2021 IEEE International Geoscience and \u2026, 2021 - ieeexplore.ieee.org",
+            "authors": [
+                {
+                    "name": "F Jing",
+                    "link": "https://scholar.google.com/citations?user=BPhC3TQAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=BPhC3TQAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "BPhC3TQAAAAJ"
+                },
+                {
+                    "name": "RP Singh",
+                    "link": "https://scholar.google.com/citations?user=NDTOAKMAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=NDTOAKMAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "NDTOAKMAAAAJ"
+                }
+            ]
+        },
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=xgsJnP373PwJ",
+            "cited_by": {
+                "total": 2,
+                "link": "https://scholar.google.com/scholar?cites=18220715259097320390&as_sdt=5,48&sciodt=0,48&hl=en",
+                "cites_id": "18220715259097320390",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=18220715259097320390&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:xgsJnP373PwJ:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3AxgsJnP373PwJ%3Ascholar.google.com%2F&start=20"
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 9,
+        "title": "Uncertainties of satellite-derived surface skin temperatures in the polar oceans: MODIS, AIRS/AMSU, and AIRS only",
+        "result_id": "TzYGJDM0BMMJ",
+        "link": "https://amt.copernicus.org/articles/8/4025/2015/",
+        "snippet": "\u2026 3, we compared the MODIS and AIRS only data with the AIRS/AMSU values. We also analyzed \u2026 The two L3 products of the AIRS/AMSU and AIRS only data sets used in this study have \u2026",
+        "publication_info": {
+            "summary": "HJ Kang, JM Yoo, MJ Jeong\u2026 - Atmospheric Measurement \u2026, 2015 - amt.copernicus.org",
+            "authors": [
+                {
+                    "name": "HJ Kang",
+                    "link": "https://scholar.google.com/citations?user=rbiKH5QAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=rbiKH5QAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "rbiKH5QAAAAJ"
+                }
+            ]
+        },
+        "resources": [
+            {
+                "title": "copernicus.org",
+                "file_format": "PDF",
+                "link": "https://amt.copernicus.org/articles/8/4025/2015/amt-8-4025-2015.pdf"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=TzYGJDM0BMMJ",
+            "cited_by": {
+                "total": 7,
+                "link": "https://scholar.google.com/scholar?cites=14052414131555153487&as_sdt=5,48&sciodt=0,48&hl=en",
+                "cites_id": "14052414131555153487",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=14052414131555153487&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:TzYGJDM0BMMJ:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3ATzYGJDM0BMMJ%3Ascholar.google.com%2F&start=20",
+            "versions": {
+                "total": 15,
+                "link": "https://scholar.google.com/scholar?cluster=14052414131555153487&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "14052414131555153487",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=14052414131555153487&engine=google_scholar&hl=en&lr=lang_en"
+            },
+            "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:TzYGJDM0BMMJ:scholar.google.com/+%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1"
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 0,
+        "title": "Correlation of Ground-Based and Satellite Measurements of Methane Concentration in the Surface Layer of the Atmosphere in the Tiksi Region",
+        "result_id": "qHxUrCaEjvUJ",
+        "link": "https://link.springer.com/article/10.1134/s0001433822120209",
+        "snippet": "\u2026 AIRS (AIRS3STD v7.0 product), at the level of 1000 hPa, and with a spatial resolution of 1 in latitude and longitude. The correlation is determined by the freely available Attestat software \u2026",
+        "publication_info": {
+            "summary": "NV Rodionova - Izvestiya, Atmospheric and Oceanic Physics, 2022 - Springer"
+        },
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=qHxUrCaEjvUJ",
+            "versions": {
+                "total": 2,
+                "link": "https://scholar.google.com/scholar?cluster=17694225287620099240&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "17694225287620099240",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=17694225287620099240&engine=google_scholar&hl=en&lr=lang_en"
+            }
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 1,
+        "title": "Dynamics of Amphan Cyclone and associated changes in ocean, land meteorological and atmospheric parameters",
+        "result_id": "DHTbnS6QL3MJ",
+        "link": "https://repository.library.noaa.gov/view/noaa/41830",
+        "snippet": "\u2026 AIRS satellite observed the vertical profile of various meteorological \u2026 to NASA Giovanni and NOAA/NCDC teams for providing satellite and model data. Special thanks to the NASA \u2026",
+        "publication_info": {
+            "summary": "A Chauhan, R Kumar, P Dash, RP Singh - 2021 - repository.library.noaa.gov",
+            "authors": [
+                {
+                    "name": "A Chauhan",
+                    "link": "https://scholar.google.com/citations?user=XJaAkJEAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=XJaAkJEAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "XJaAkJEAAAAJ"
+                },
+                {
+                    "name": "R Kumar",
+                    "link": "https://scholar.google.com/citations?user=8ltBuA8AAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=8ltBuA8AAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "8ltBuA8AAAAJ"
+                },
+                {
+                    "name": "P Dash",
+                    "link": "https://scholar.google.com/citations?user=JC1dYgoAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=JC1dYgoAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "JC1dYgoAAAAJ"
+                },
+                {
+                    "name": "RP Singh",
+                    "link": "https://scholar.google.com/citations?user=NDTOAKMAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=NDTOAKMAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "NDTOAKMAAAAJ"
+                }
+            ]
+        },
+        "resources": [
+            {
+                "title": "noaa.gov",
+                "file_format": "PDF",
+                "link": "https://repository.library.noaa.gov/view/noaa/41830/noaa_41830_DS1.pdf"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=DHTbnS6QL3MJ",
+            "cited_by": {
+                "total": 5,
+                "link": "https://scholar.google.com/scholar?cites=8300011168158413836&as_sdt=5,48&sciodt=0,48&hl=en",
+                "cites_id": "8300011168158413836",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=8300011168158413836&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:DHTbnS6QL3MJ:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3ADHTbnS6QL3MJ%3Ascholar.google.com%2F&start=30",
+            "versions": {
+                "total": 9,
+                "link": "https://scholar.google.com/scholar?cluster=8300011168158413836&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "8300011168158413836",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=8300011168158413836&engine=google_scholar&hl=en&lr=lang_en"
+            },
+            "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:DHTbnS6QL3MJ:scholar.google.com/+%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1"
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 2,
+        "title": "Changes in satellite retrievals of atmospheric composition over eastern China during the 2020 COVID-19 lockdowns",
+        "result_id": "lPyIuTBqQFsJ",
+        "type": "Html",
+        "link": "https://acp.copernicus.org/articles/21/18333/2021/",
+        "snippet": "\u2026 different NASA Earth Observing System satellites. The Atmospheric Infrared Sounder (AIRS) instrument aboard NASA's Aqua \u2026 We used the daily version 6 (AIRS3STD.006) product. \u2026",
+        "publication_info": {
+            "summary": "RD Field, JE Hickman, IV Geogdzhayev\u2026 - Atmospheric \u2026, 2021 - acp.copernicus.org",
+            "authors": [
+                {
+                    "name": "JE Hickman",
+                    "link": "https://scholar.google.com/citations?user=_Tq2Z70AAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=_Tq2Z70AAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "_Tq2Z70AAAAJ"
+                }
+            ]
+        },
+        "resources": [
+            {
+                "title": "copernicus.org",
+                "file_format": "HTML",
+                "link": "https://acp.copernicus.org/articles/21/18333/2021/"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=lPyIuTBqQFsJ",
+            "html_version": "https://acp.copernicus.org/articles/21/18333/2021/",
+            "cited_by": {
+                "total": 6,
+                "link": "https://scholar.google.com/scholar?cites=6575372213464661140&as_sdt=5,48&sciodt=0,48&hl=en",
+                "cites_id": "6575372213464661140",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=6575372213464661140&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:lPyIuTBqQFsJ:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3AlPyIuTBqQFsJ%3Ascholar.google.com%2F&start=30",
+            "versions": {
+                "total": 12,
+                "link": "https://scholar.google.com/scholar?cluster=6575372213464661140&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "6575372213464661140",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=6575372213464661140&engine=google_scholar&hl=en&lr=lang_en"
+            },
+            "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:lPyIuTBqQFsJ:scholar.google.com/+%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1"
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 3,
+        "title": "AIRS/AMSU/HSB version 5 data disclaimer",
+        "result_id": "cXYWxCJ_ITcJ",
+        "type": "Pdf",
+        "link": "https://docserver.gesdisc.eosdis.nasa.gov/repository/Mission/AIRS/3.7_ScienceDataProductValidation/V6_Data_Disclaimer.pdf",
+        "snippet": "\u2026 The peak sensitivity of the AIRS retrieval to carbon monoxide occurs at 500 hPa and the peak sensitivity of the AIRS retrieval to methane occurs at 300 hPa. The AIRS retrieval is not \u2026",
+        "publication_info": {
+            "summary": "ET Olsen, D Elliott, E Fetzer\u2026 - \u2026 Center, NASA \u2026, 2007 - docserver.gesdisc.eosdis.nasa.gov"
+        },
+        "resources": [
+            {
+                "title": "nasa.gov",
+                "file_format": "PDF",
+                "link": "https://docserver.gesdisc.eosdis.nasa.gov/repository/Mission/AIRS/3.7_ScienceDataProductValidation/V6_Data_Disclaimer.pdf"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=cXYWxCJ_ITcJ",
+            "cited_by": {
+                "total": 4,
+                "link": "https://scholar.google.com/scholar?cites=3972596133612910193&as_sdt=5,48&sciodt=0,48&hl=en",
+                "cites_id": "3972596133612910193",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=3972596133612910193&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:cXYWxCJ_ITcJ:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3AcXYWxCJ_ITcJ%3Ascholar.google.com%2F&start=30",
+            "versions": {
+                "total": 6,
+                "link": "https://scholar.google.com/scholar?cluster=3972596133612910193&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "3972596133612910193",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=3972596133612910193&engine=google_scholar&hl=en&lr=lang_en"
+            },
+            "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:cXYWxCJ_ITcJ:scholar.google.com/+%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1"
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 4,
+        "title": "The flowering of Atlantic Forest Pleroma trees",
+        "result_id": "2T9uw9bLvFYJ",
+        "type": "Html",
+        "link": "https://www.nature.com/articles/s41598-021-99304-x",
+        "snippet": "\u2026 the Aqua/AIRS L3 Daily Standard Physical Retrieval (AIRS-only) at 1 of spatial resolution V7.\u2026 (AIRS3STD). AIRS, the Atmospheric Infrared Sounder on NASA\u2019s Aqua satellite, gathers \u2026",
+        "publication_info": {
+            "summary": "FH Wagner - Scientific reports, 2021 - nature.com",
+            "authors": [
+                {
+                    "name": "FH Wagner",
+                    "link": "https://scholar.google.com/citations?user=2VM_OJIAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=2VM_OJIAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "2VM_OJIAAAAJ"
+                }
+            ]
+        },
+        "resources": [
+            {
+                "title": "nature.com",
+                "file_format": "HTML",
+                "link": "https://www.nature.com/articles/s41598-021-99304-x"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=2T9uw9bLvFYJ",
+            "html_version": "https://www.nature.com/articles/s41598-021-99304-x",
+            "cited_by": {
+                "total": 4,
+                "link": "https://scholar.google.com/scholar?cites=6250094506145628121&as_sdt=5,48&sciodt=0,48&hl=en",
+                "cites_id": "6250094506145628121",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=6250094506145628121&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:2T9uw9bLvFYJ:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3A2T9uw9bLvFYJ%3Ascholar.google.com%2F&start=30",
+            "versions": {
+                "total": 8,
+                "link": "https://scholar.google.com/scholar?cluster=6250094506145628121&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "6250094506145628121",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=6250094506145628121&engine=google_scholar&hl=en&lr=lang_en"
+            }
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 5,
+        "title": "Learning on Health Fairness and Environmental Justice via Interactive Visualization",
+        "result_id": "8HOakQDlQnkJ",
+        "link": "https://ieeexplore.ieee.org/abstract/document/10020453/",
+        "snippet": "\u2026 Additionally, we make use of unique NASA satellite-based observations which are not broadly used in the context of climate justice applications. Our current interactive interface focus \u2026",
+        "publication_info": {
+            "summary": "I Segovia-Dominguez, H Lee, D Han\u2026 - \u2026 Conference on Big \u2026, 2022 - ieeexplore.ieee.org",
+            "authors": [
+                {
+                    "name": "I Segovia-Dominguez",
+                    "link": "https://scholar.google.com/citations?user=w8oDyT4AAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=w8oDyT4AAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "w8oDyT4AAAAJ"
+                },
+                {
+                    "name": "H Lee",
+                    "link": "https://scholar.google.com/citations?user=7Rm-vHUAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=7Rm-vHUAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "7Rm-vHUAAAAJ"
+                },
+                {
+                    "name": "D Han",
+                    "link": "https://scholar.google.com/citations?user=9uUGn4wAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=9uUGn4wAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "9uUGn4wAAAAJ"
+                }
+            ]
+        },
+        "resources": [
+            {
+                "title": "arxiv.org",
+                "file_format": "PDF",
+                "link": "https://arxiv.org/pdf/2211.09967"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=8HOakQDlQnkJ",
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:8HOakQDlQnkJ:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3A8HOakQDlQnkJ%3Ascholar.google.com%2F&start=30",
+            "versions": {
+                "total": 3,
+                "link": "https://scholar.google.com/scholar?cluster=8737798017657762800&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "8737798017657762800",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=8737798017657762800&engine=google_scholar&hl=en&lr=lang_en"
+            }
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 6,
+        "title": "Retrieval and analysis of precipitable water vapour based on GNSS, AIRS, and reanalysis models over Nigeria",
+        "result_id": "H34jXmvxCmYJ",
+        "link": "https://www.tandfonline.com/doi/abs/10.1080/01431161.2017.1346401",
+        "snippet": "\u2026 the Aqua AIRS (AIRS-only) level-3 daily standard physical retrieval product (AIRS3STD \u2026 Centre (http://acdisc.gesdisc.eosdis.nasa.gov/opendap/Aqua_AIRS_Level3/AIRX3STD.006/). \u2026",
+        "publication_info": {
+            "summary": "OA Isioye, L Combrinck, JO Botai - International Journal of Remote \u2026, 2017 - Taylor & Francis",
+            "authors": [
+                {
+                    "name": "OA Isioye",
+                    "link": "https://scholar.google.com/citations?user=HSPITHIAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=HSPITHIAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "HSPITHIAAAAJ"
+                },
+                {
+                    "name": "L Combrinck",
+                    "link": "https://scholar.google.com/citations?user=xmcZse4AAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=xmcZse4AAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "xmcZse4AAAAJ"
+                }
+            ]
+        },
+        "resources": [
+            {
+                "title": "tandfonline.com",
+                "file_format": "PDF",
+                "link": "https://www.tandfonline.com/doi/pdf/10.1080/01431161.2017.1346401"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=H34jXmvxCmYJ",
+            "cited_by": {
+                "total": 15,
+                "link": "https://scholar.google.com/scholar?cites=7352954785078935071&as_sdt=5,48&sciodt=0,48&hl=en",
+                "cites_id": "7352954785078935071",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=7352954785078935071&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:H34jXmvxCmYJ:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3AH34jXmvxCmYJ%3Ascholar.google.com%2F&start=30",
+            "versions": {
+                "total": 5,
+                "link": "https://scholar.google.com/scholar?cluster=7352954785078935071&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "7352954785078935071",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=7352954785078935071&engine=google_scholar&hl=en&lr=lang_en"
+            }
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 7,
+        "title": "Estimation of consistent global microwave land surface emissivity from AMSR-E and AMSR2 observations",
+        "result_id": "DyLM5aC6UGgJ",
+        "type": "Html",
+        "link": "https://journals.ametsoc.org/view/journals/apme/57/4/jamc-d-17-0213.1.xml?tab_body=fulltext-display",
+        "snippet": "Accurate estimation of passive microwave land surface emissivity (LSE) is crucial for numerical weather prediction model data assimilation, for microwave retrievals of land precipitation \u2026",
+        "publication_info": {
+            "summary": "S Prakash, H Norouzi, M Azarderakhsh\u2026 - Journal of Applied \u2026, 2018 - journals.ametsoc.org",
+            "authors": [
+                {
+                    "name": "S Prakash",
+                    "link": "https://scholar.google.com/citations?user=j42_4lUAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=j42_4lUAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "j42_4lUAAAAJ"
+                },
+                {
+                    "name": "H Norouzi",
+                    "link": "https://scholar.google.com/citations?user=tIwUWCQAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=tIwUWCQAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "tIwUWCQAAAAJ"
+                },
+                {
+                    "name": "M Azarderakhsh",
+                    "link": "https://scholar.google.com/citations?user=36JW_9Td2NgC&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=36JW_9Td2NgC&engine=google_scholar_author&hl=en",
+                    "author_id": "36JW_9Td2NgC"
+                }
+            ]
+        },
+        "resources": [
+            {
+                "title": "ametsoc.org",
+                "file_format": "HTML",
+                "link": "https://journals.ametsoc.org/view/journals/apme/57/4/jamc-d-17-0213.1.xml?tab_body=fulltext-display"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=DyLM5aC6UGgJ",
+            "html_version": "https://journals.ametsoc.org/view/journals/apme/57/4/jamc-d-17-0213.1.xml?tab_body=fulltext-display",
+            "cited_by": {
+                "total": 19,
+                "link": "https://scholar.google.com/scholar?cites=7516712978294252047&as_sdt=5,48&sciodt=0,48&hl=en",
+                "cites_id": "7516712978294252047",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=7516712978294252047&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:DyLM5aC6UGgJ:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3ADyLM5aC6UGgJ%3Ascholar.google.com%2F&start=30",
+            "versions": {
+                "total": 10,
+                "link": "https://scholar.google.com/scholar?cluster=7516712978294252047&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "7516712978294252047",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=7516712978294252047&engine=google_scholar&hl=en&lr=lang_en"
+            }
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 8,
+        "title": "Remote Sensing Applications: Society and Environment",
+        "result_id": "8q9xfnCOLOcJ",
+        "type": "Pdf",
+        "link": "https://www.researchgate.net/profile/Enner-Alcantara/publication/352139526_A_satellite-based_investigation_into_the_algae_bloom_variability_in_large_water_supply_urban_reservoirs_during_COVID-19_lockdown/links/60bd6057299bf10dffa13d75/A-satellite-based-investigation-into-the-algae-bloom-variability-in-large-water-supply-urban-reservoirs-during-COVID-19-lockdown.pdf",
+        "snippet": "\u2026 is onboard the polar-orbiting Aqua satellite. The AIRS3STD v006 product contains the standard \u2026 MERRA is a NASA atmospheric reanalysis for the satellite era using the Goddard Earth \u2026",
+        "publication_info": {
+            "summary": "E Alcantara, K Coimbra, I Ogashawara, T Rodrigues\u2026 - researchgate.net",
+            "authors": [
+                {
+                    "name": "E Alcantara",
+                    "link": "https://scholar.google.com/citations?user=PzwzeeMAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=PzwzeeMAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "PzwzeeMAAAAJ"
+                },
+                {
+                    "name": "K Coimbra",
+                    "link": "https://scholar.google.com/citations?user=y7_kglYAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=y7_kglYAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "y7_kglYAAAAJ"
+                },
+                {
+                    "name": "I Ogashawara",
+                    "link": "https://scholar.google.com/citations?user=QSPEEdYAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=QSPEEdYAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "QSPEEdYAAAAJ"
+                },
+                {
+                    "name": "T Rodrigues",
+                    "link": "https://scholar.google.com/citations?user=uncYOMYAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=uncYOMYAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "uncYOMYAAAAJ"
+                }
+            ]
+        },
+        "resources": [
+            {
+                "title": "researchgate.net",
+                "file_format": "PDF",
+                "link": "https://www.researchgate.net/profile/Enner-Alcantara/publication/352139526_A_satellite-based_investigation_into_the_algae_bloom_variability_in_large_water_supply_urban_reservoirs_during_COVID-19_lockdown/links/60bd6057299bf10dffa13d75/A-satellite-based-investigation-into-the-algae-bloom-variability-in-large-water-supply-urban-reservoirs-during-COVID-19-lockdown.pdf"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=8q9xfnCOLOcJ",
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:8q9xfnCOLOcJ:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3A8q9xfnCOLOcJ%3Ascholar.google.com%2F&start=30",
+            "versions": {
+                "total": 2,
+                "link": "https://scholar.google.com/scholar?cluster=16657845735545483250&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "16657845735545483250",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=16657845735545483250&engine=google_scholar&hl=en&lr=lang_en"
+            },
+            "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:8q9xfnCOLOcJ:scholar.google.com/+%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1"
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 9,
+        "title": "Features of the Extreme Fire Season of 2021 in Yakutia (Eastern Siberia) and Heavy Air Pollution Caused by Biomass Burning",
+        "result_id": "tYO9GN0y9KYJ",
+        "link": "https://www.mdpi.com/1870890",
+        "snippet": "\u2026 AIRS is a thermal hyperspectral sensor with more than 2000 channels installed aboard NASA\u2019s Aqua satellite with low, sun-synchronous orbit. The AIRS Level 3 product (AIRS3STD C6\u2026",
+        "publication_info": {
+            "summary": "O Tomshin, V Solovyev - Remote Sensing, 2022 - mdpi.com",
+            "authors": [
+                {
+                    "name": "O Tomshin",
+                    "link": "https://scholar.google.com/citations?user=3VQ8PYQAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=3VQ8PYQAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "3VQ8PYQAAAAJ"
+                }
+            ]
+        },
+        "resources": [
+            {
+                "title": "mdpi.com",
+                "file_format": "PDF",
+                "link": "https://www.mdpi.com/2072-4292/14/19/4980/pdf"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=tYO9GN0y9KYJ",
+            "cited_by": {
+                "total": 1,
+                "link": "https://scholar.google.com/scholar?cites=12030296429797671861&as_sdt=5,48&sciodt=0,48&hl=en",
+                "cites_id": "12030296429797671861",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=12030296429797671861&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:tYO9GN0y9KYJ:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3AtYO9GN0y9KYJ%3Ascholar.google.com%2F&start=30",
+            "versions": {
+                "total": 4,
+                "link": "https://scholar.google.com/scholar?cluster=12030296429797671861&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "12030296429797671861",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=12030296429797671861&engine=google_scholar&hl=en&lr=lang_en"
+            },
+            "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:tYO9GN0y9KYJ:scholar.google.com/+%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1"
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 0,
+        "title": "Using NASA earth observing satellites with the airpact air quality forecast system",
+        "result_id": "f2BskMrvg2AJ",
+        "type": "Book",
+        "link": "https://search.proquest.com/openview/d3accaf31876df4d1d5cea83a09cc97d/1?pq-origsite=gscholar&cbl=18750",
+        "snippet": "\u2026 pollutants made by select instruments flying in NASA\u2019s Earth Observing System. Products \u2026 AIRS was built by BAE Systems for NASA and flown on the Aqua satellite, launched in May \u2026",
+        "publication_info": {
+            "summary": "FL Herron-Thorpe - 2011 - search.proquest.com"
+        },
+        "resources": [
+            {
+                "title": "proquest.com",
+                "file_format": "HTML",
+                "link": "https://search.proquest.com/openview/d3accaf31876df4d1d5cea83a09cc97d/1?pq-origsite=gscholar&cbl=18750"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=f2BskMrvg2AJ",
+            "html_version": "https://search.proquest.com/openview/d3accaf31876df4d1d5cea83a09cc97d/1?pq-origsite=gscholar&cbl=18750",
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:f2BskMrvg2AJ:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3Af2BskMrvg2AJ%3Ascholar.google.com%2F&start=40",
+            "versions": {
+                "total": 6,
+                "link": "https://scholar.google.com/scholar?cluster=6954665902875631743&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "6954665902875631743",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=6954665902875631743&engine=google_scholar&hl=en&lr=lang_en"
+            }
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 1,
+        "title": "Open Access Satellite Data for Global Greenhouse Gas Monitoring",
+        "result_id": "6QFApmy-17oJ",
+        "link": "http://eadnurt.diit.edu.ua/handle/123456789/15371",
+        "snippet": "\u2026 Atmospheric Infrared Sounder (AIRS) on Aqua satellite currently measures methane concentrations in the middle and upper troposphere, at altitudes of 5\u201315 km (measurement of \u2026",
+        "publication_info": {
+            "summary": "OO Kavats, DA Khramov, KL Sergieieva, VV Vasyliev - 2022 - eadnurt.diit.edu.ua",
+            "authors": [
+                {
+                    "name": "OO Kavats",
+                    "link": "https://scholar.google.com/citations?user=XWqj2fgAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=XWqj2fgAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "XWqj2fgAAAAJ"
+                },
+                {
+                    "name": "DA Khramov",
+                    "link": "https://scholar.google.com/citations?user=X3YKOdAAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=X3YKOdAAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "X3YKOdAAAAAJ"
+                },
+                {
+                    "name": "KL Sergieieva",
+                    "link": "https://scholar.google.com/citations?user=pG2lhJEAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=pG2lhJEAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "pG2lhJEAAAAJ"
+                },
+                {
+                    "name": "VV Vasyliev",
+                    "link": "https://scholar.google.com/citations?user=Ap7Vny0AAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Ap7Vny0AAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "Ap7Vny0AAAAJ"
+                }
+            ]
+        },
+        "resources": [
+            {
+                "title": "diit.edu.ua",
+                "file_format": "PDF",
+                "link": "http://eadnurt.diit.edu.ua/bitstream/123456789/15371/1/Kavats.pdf"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=6QFApmy-17oJ",
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:6QFApmy-17oJ:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3A6QFApmy-17oJ%3Ascholar.google.com%2F&start=40",
+            "versions": {
+                "total": 2,
+                "link": "https://scholar.google.com/scholar?cluster=13463438984902345193&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "13463438984902345193",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=13463438984902345193&engine=google_scholar&hl=en&lr=lang_en"
+            },
+            "cached_page_link": "http://scholar.googleusercontent.com/scholar?q=cache:6QFApmy-17oJ:scholar.google.com/+%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1"
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 2,
+        "title": "A-train satellite observations of very little cloud invigoration by aerosols",
+        "result_id": "FcP1BJhD4HMJ",
+        "type": "Pdf",
+        "link": "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=08d57cd8b9673a0634fcb57e91932ea76dc96e2c",
+        "snippet": "\u2026 Aqua AODs, (available at 181 http://ladsweb.nascom.nasa.gov/data/) are analyzed in this paper since the Aqua satellite \u2026 The 198 AIRS level 3 (AIRS3STD) data is available at the NASA \u2026",
+        "publication_info": {
+            "summary": "ST Massie, L Munchak, JH Jiang, H Sui - J. Geophys. Res, 2011 - Citeseer"
+        },
+        "resources": [
+            {
+                "title": "psu.edu",
+                "file_format": "PDF",
+                "link": "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=08d57cd8b9673a0634fcb57e91932ea76dc96e2c"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=FcP1BJhD4HMJ",
+            "cited_by": {
+                "total": 1,
+                "link": "https://scholar.google.com/scholar?cites=8349748029342204693&as_sdt=5,48&sciodt=0,48&hl=en",
+                "cites_id": "8349748029342204693",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=8349748029342204693&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:FcP1BJhD4HMJ:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3AFcP1BJhD4HMJ%3Ascholar.google.com%2F&start=40",
+            "versions": {
+                "total": 3,
+                "link": "https://scholar.google.com/scholar?cluster=8349748029342204693&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "8349748029342204693",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=8349748029342204693&engine=google_scholar&hl=en&lr=lang_en"
+            },
+            "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:FcP1BJhD4HMJ:scholar.google.com/+%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1"
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 3,
+        "title": "Local and synoptic meteorological influences on daily variability in summertime surface ozone in eastern China",
+        "result_id": "wp_xQVaJYb4J",
+        "type": "Html",
+        "link": "https://acp.copernicus.org/articles/20/203/2020/",
+        "snippet": "Ozone pollution in China is influenced by meteorological processes on multiple scales. Using regression analysis and weather classification, we statistically assess the impacts of local \u2026",
+        "publication_info": {
+            "summary": "H Han, J Liu, L Shu, T Wang\u2026 - \u2026 Chemistry and Physics, 2020 - acp.copernicus.org",
+            "authors": [
+                {
+                    "name": "H Han",
+                    "link": "https://scholar.google.com/citations?user=v8rskw8AAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=v8rskw8AAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "v8rskw8AAAAJ"
+                },
+                {
+                    "name": "J Liu",
+                    "link": "https://scholar.google.com/citations?user=Nglq21UAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Nglq21UAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "Nglq21UAAAAJ"
+                },
+                {
+                    "name": "L Shu",
+                    "link": "https://scholar.google.com/citations?user=TzvnDpUAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=TzvnDpUAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "TzvnDpUAAAAJ"
+                }
+            ]
+        },
+        "resources": [
+            {
+                "title": "copernicus.org",
+                "file_format": "HTML",
+                "link": "https://acp.copernicus.org/articles/20/203/2020/"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=wp_xQVaJYb4J",
+            "html_version": "https://acp.copernicus.org/articles/20/203/2020/",
+            "cited_by": {
+                "total": 107,
+                "link": "https://scholar.google.com/scholar?cites=13718396943513788354&as_sdt=5,48&sciodt=0,48&hl=en",
+                "cites_id": "13718396943513788354",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=13718396943513788354&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:wp_xQVaJYb4J:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3Awp_xQVaJYb4J%3Ascholar.google.com%2F&start=40",
+            "versions": {
+                "total": 10,
+                "link": "https://scholar.google.com/scholar?cluster=13718396943513788354&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "13718396943513788354",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=13718396943513788354&engine=google_scholar&hl=en&lr=lang_en"
+            },
+            "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:wp_xQVaJYb4J:scholar.google.com/+%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1"
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 4,
+        "title": "Mapping emission of carbon-bearing gases from the satellite hyperspectral data in western Sichuan before and after the 2008 Wenchuan MS8.0 earthquake",
+        "result_id": "MikBPeREBy0J",
+        "link": "https://www.dzxb.org/en/article/doi/10.11939/jass.2016.03.012",
+        "snippet": "Carbon-bearing gases underground strongly emitted before and after the MS 8.0 Wenchuan earthquake in 2008. This paper obtained the temporal and spatial distribution \u2026",
+        "publication_info": {
+            "summary": "C Yueju, D Jianguo, J Feng, L Xinyan - \u5730\u9707\u5b66\u62a5, 2016 - dzxb.org"
+        },
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=MikBPeREBy0J",
+            "cited_by": {
+                "total": 6,
+                "link": "https://scholar.google.com/scholar?cites=3244637803610450226&as_sdt=5,48&sciodt=0,48&hl=en",
+                "cites_id": "3244637803610450226",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=3244637803610450226&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:MikBPeREBy0J:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3AMikBPeREBy0J%3Ascholar.google.com%2F&start=40",
+            "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:MikBPeREBy0J:scholar.google.com/+%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1"
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 5,
+        "title": "Water, Energy, and Carbon with Artificial Neural Networks (WECANN): a statistically based estimate of global surface turbulent fluxes and gross primary productivity \u2026",
+        "result_id": "cZFQHse-QW0J",
+        "link": "https://bg.copernicus.org/articles/14/4101/2017/",
+        "snippet": "\u2026 Sounder (AIRS) is a highspectral-resolution spectrometer onboard the NASA Aqua satellite \u2026 The AIRS instrument was designed to obtain atmospheric temperature and humidity profiles \u2026",
+        "publication_info": {
+            "summary": "SH Alemohammad, B Fang, AG Konings, F Aires\u2026 - \u2026, 2017 - bg.copernicus.org",
+            "authors": [
+                {
+                    "name": "SH Alemohammad",
+                    "link": "https://scholar.google.com/citations?user=ysq7m-YAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ysq7m-YAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "ysq7m-YAAAAJ"
+                },
+                {
+                    "name": "B Fang",
+                    "link": "https://scholar.google.com/citations?user=JFs6dTQAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=JFs6dTQAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "JFs6dTQAAAAJ"
+                },
+                {
+                    "name": "AG Konings",
+                    "link": "https://scholar.google.com/citations?user=cda_kO0AAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=cda_kO0AAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "cda_kO0AAAAJ"
+                }
+            ]
+        },
+        "resources": [
+            {
+                "title": "copernicus.org",
+                "file_format": "PDF",
+                "link": "https://bg.copernicus.org/articles/14/4101/2017/bg-14-4101-2017.pdf"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=cZFQHse-QW0J",
+            "cited_by": {
+                "total": 103,
+                "link": "https://scholar.google.com/scholar?cites=7872783386036703601&as_sdt=5,48&sciodt=0,48&hl=en",
+                "cites_id": "7872783386036703601",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=7872783386036703601&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:cZFQHse-QW0J:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3AcZFQHse-QW0J%3Ascholar.google.com%2F&start=40",
+            "versions": {
+                "total": 29,
+                "link": "https://scholar.google.com/scholar?cluster=7872783386036703601&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "7872783386036703601",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=7872783386036703601&engine=google_scholar&hl=en&lr=lang_en"
+            },
+            "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:cZFQHse-QW0J:scholar.google.com/+%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1"
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 6,
+        "title": "Variability in sea ice melt onset in the Arctic Northeast Passage: Seesaw of the Laptev Sea and the East Siberian Sea",
+        "result_id": "KbYcFPgnvXQJ",
+        "link": "https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020JC016985",
+        "snippet": "\u2026 AIRS product has provided reliable hyperspectral infrared radiance spectra measurements from the Aqua \u2026 SIC is retrieved by the revised NASA Team algorithm on grids of 25 km. We \u2026",
+        "publication_info": {
+            "summary": "H Liang, J Su - Journal of Geophysical Research: Oceans, 2021 - Wiley Online Library"
+        },
+        "resources": [
+            {
+                "title": "researchgate.net",
+                "file_format": "PDF",
+                "link": "https://www.researchgate.net/profile/Jie-Su-4/publication/353227122_Variability_in_Sea_Ice_Melt_Onset_in_the_Arctic_Northeast_Passage_Seesaw_of_the_Laptev_Sea_and_the_East_Siberian_Sea/links/62943c13c660ab61f8510a1d/Variability-in-Sea-Ice-Melt-Onset-in-the-Arctic-Northeast-Passage-Seesaw-of-the-Laptev-Sea-and-the-East-Siberian-Sea.pdf"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=KbYcFPgnvXQJ",
+            "cited_by": {
+                "total": 1,
+                "link": "https://scholar.google.com/scholar?cites=8411923625440753193&as_sdt=5,48&sciodt=0,48&hl=en",
+                "cites_id": "8411923625440753193",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=8411923625440753193&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:KbYcFPgnvXQJ:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3AKbYcFPgnvXQJ%3Ascholar.google.com%2F&start=40",
+            "versions": {
+                "total": 7,
+                "link": "https://scholar.google.com/scholar?cluster=8411923625440753193&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "8411923625440753193",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=8411923625440753193&engine=google_scholar&hl=en&lr=lang_en"
+            }
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 7,
+        "title": "Evaluation of MODIS combined DT and DB AOD retrievals and their association with meteorological variables over Qena, Egypt",
+        "result_id": "zyFyRjAkUNIJ",
+        "type": "Html",
+        "link": "https://link.springer.com/article/10.1007/s10661-023-11118-8",
+        "snippet": "\u2026 from the Atmospheric Infrared Sounder (AIRS) level 3 daily gridded product (AIRS3STD V7.0). AIRS is a grating spectrometer on the Aqua satellite that collects infrared radiation from \u2026",
+        "publication_info": {
+            "summary": "M Elshora - Environmental Monitoring and Assessment, 2023 - Springer",
+            "authors": [
+                {
+                    "name": "M Elshora",
+                    "link": "https://scholar.google.com/citations?user=L5WccqUAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=L5WccqUAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "L5WccqUAAAAJ"
+                }
+            ]
+        },
+        "resources": [
+            {
+                "title": "springer.com",
+                "file_format": "HTML",
+                "link": "https://link.springer.com/article/10.1007/s10661-023-11118-8"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=zyFyRjAkUNIJ",
+            "html_version": "https://link.springer.com/article/10.1007/s10661-023-11118-8",
+            "versions": {
+                "total": 5,
+                "link": "https://scholar.google.com/scholar?cluster=15154652535860634063&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "15154652535860634063",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=15154652535860634063&engine=google_scholar&hl=en&lr=lang_en"
+            }
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 8,
+        "title": "Anomalies of total column CO and O3 associated with great earthquakes in recent years",
+        "result_id": "-KRn9SNmQPcJ",
+        "link": "https://nhess.copernicus.org/articles/13/2513/2013/",
+        "snippet": "\u2026 The authors would like to thank AA Tronin, RP Singh and another anonymous reviewer for their helpful comments, and to acknowledge NASA for making AIRS data available to the user \u2026",
+        "publication_info": {
+            "summary": "Y Cui, J Du, D Zhang, Y Sun - Natural Hazards and Earth \u2026, 2013 - nhess.copernicus.org"
+        },
+        "resources": [
+            {
+                "title": "copernicus.org",
+                "file_format": "PDF",
+                "link": "https://nhess.copernicus.org/articles/13/2513/2013/nhess-13-2513-2013.pdf"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=-KRn9SNmQPcJ",
+            "cited_by": {
+                "total": 24,
+                "link": "https://scholar.google.com/scholar?cites=17816352430504781048&as_sdt=5,48&sciodt=0,48&hl=en",
+                "cites_id": "17816352430504781048",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=17816352430504781048&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:-KRn9SNmQPcJ:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3A-KRn9SNmQPcJ%3Ascholar.google.com%2F&start=40",
+            "versions": {
+                "total": 10,
+                "link": "https://scholar.google.com/scholar?cluster=17816352430504781048&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "17816352430504781048",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=17816352430504781048&engine=google_scholar&hl=en&lr=lang_en"
+            },
+            "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:-KRn9SNmQPcJ:scholar.google.com/+%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1"
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 9,
+        "title": "Towards advancing the earthquake forecasting by machine learning of satellite data",
+        "result_id": "BGXpnQDGnPkJ",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0048969721003223",
+        "snippet": "\u2026 from the Atmospheric Infrared Sounder (AIRS) on NASA's spacecraft Aqua and the engaged \u2026 the AIRS3STD v6 product (L3 Standard Daily Product processed using only AIRS radiances \u2026",
+        "publication_info": {
+            "summary": "P Xiong, L Tong, K Zhang, X Shen, R Battiston\u2026 - Science of The Total \u2026, 2021 - Elsevier",
+            "authors": [
+                {
+                    "name": "P Xiong",
+                    "link": "https://scholar.google.com/citations?user=ldTh7SsAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ldTh7SsAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "ldTh7SsAAAAJ"
+                },
+                {
+                    "name": "L Tong",
+                    "link": "https://scholar.google.com/citations?user=Fr0l4i4AAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Fr0l4i4AAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "Fr0l4i4AAAAJ"
+                },
+                {
+                    "name": "K Zhang",
+                    "link": "https://scholar.google.com/citations?user=GHXpp1kAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=GHXpp1kAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "GHXpp1kAAAAJ"
+                },
+                {
+                    "name": "R Battiston",
+                    "link": "https://scholar.google.com/citations?user=KCOzcmMAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=KCOzcmMAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "KCOzcmMAAAAJ"
+                }
+            ]
+        },
+        "resources": [
+            {
+                "title": "arxiv.org",
+                "file_format": "PDF",
+                "link": "https://arxiv.org/pdf/2102.04334"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=BGXpnQDGnPkJ",
+            "cited_by": {
+                "total": 29,
+                "link": "https://scholar.google.com/scholar?cites=17986468717762536708&as_sdt=5,48&sciodt=0,48&hl=en",
+                "cites_id": "17986468717762536708",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=17986468717762536708&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:BGXpnQDGnPkJ:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3ABGXpnQDGnPkJ%3Ascholar.google.com%2F&start=40",
+            "versions": {
+                "total": 10,
+                "link": "https://scholar.google.com/scholar?cluster=17986468717762536708&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "17986468717762536708",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=17986468717762536708&engine=google_scholar&hl=en&lr=lang_en"
+            }
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 0,
+        "title": "Satellite observations of smoke\u2013cloud\u2013radiation interactions over the Amazon rainforest",
+        "result_id": "LJLkaNQHAaQJ",
+        "type": "Html",
+        "link": "https://acp.copernicus.org/articles/23/4595/2023/",
+        "snippet": "\u2026 The AIRS daily level 3 product, AIRS3STD, is used to \u2026 AIRS data are available via NASA's Earth Science Data Systems (ESDS) programme at https://www.earthdata.nasa.gov/ (NASA \u2026",
+        "publication_info": {
+            "summary": "R Herbert, P Stier - Atmospheric Chemistry and Physics, 2023 - acp.copernicus.org",
+            "authors": [
+                {
+                    "name": "P Stier",
+                    "link": "https://scholar.google.com/citations?user=bOxQGusAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=bOxQGusAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "bOxQGusAAAAJ"
+                }
+            ]
+        },
+        "resources": [
+            {
+                "title": "copernicus.org",
+                "file_format": "HTML",
+                "link": "https://acp.copernicus.org/articles/23/4595/2023/"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=LJLkaNQHAaQJ",
+            "html_version": "https://acp.copernicus.org/articles/23/4595/2023/",
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:LJLkaNQHAaQJ:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3ALJLkaNQHAaQJ%3Ascholar.google.com%2F&start=50",
+            "versions": {
+                "total": 2,
+                "link": "https://scholar.google.com/scholar?cluster=11817735506071163436&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "11817735506071163436",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=11817735506071163436&engine=google_scholar&hl=en&lr=lang_en"
+            },
+            "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:LJLkaNQHAaQJ:scholar.google.com/+%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1"
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 1,
+        "title": "The Potential of Using Microwave Emission in Detecting Freeze and Thaw States",
+        "result_id": "h3pSZe3IJjoJ",
+        "link": "https://apps.dtic.mil/sti/citations/AD1071042",
+        "snippet": "\u2026 Sounder (AIRS) onboard the Aqua satellite. As brightness temperatures are affected by the atmospheric water vapor and aerosols, we used data from MODIS and AIRS instruments as \u2026",
+        "publication_info": {
+            "summary": "H Norouzi - 2018 - apps.dtic.mil",
+            "authors": [
+                {
+                    "name": "H Norouzi",
+                    "link": "https://scholar.google.com/citations?user=tIwUWCQAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=tIwUWCQAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "tIwUWCQAAAAJ"
+                }
+            ]
+        },
+        "resources": [
+            {
+                "title": "dtic.mil",
+                "file_format": "PDF",
+                "link": "https://apps.dtic.mil/sti/pdfs/AD1071042.pdf"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=h3pSZe3IJjoJ",
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:h3pSZe3IJjoJ:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3Ah3pSZe3IJjoJ%3Ascholar.google.com%2F&start=50",
+            "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:h3pSZe3IJjoJ:scholar.google.com/+%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1"
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 2,
+        "title": "Aerosol Variability at Coastal Bhola Island (Bangladesh), an IGP Outflow Region",
+        "result_id": "9v7zz-mJTS4J",
+        "link": "https://link.springer.com/article/10.1007/s12524-023-01681-5",
+        "snippet": "\u2026 In the present study, data extraction was carried out from two prominent sites of NASA: (i) \u2026 The current study uses the AIRS IR-Only level 3 standard retrieval (AIRS3STD) temperature \u2026",
+        "publication_info": {
+            "summary": "AS Nair, K Soni, P Singh, K Meena\u2026 - Journal of the Indian \u2026, 2023 - Springer",
+            "authors": [
+                {
+                    "name": "AS Nair",
+                    "link": "https://scholar.google.com/citations?user=TJmerSAAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=TJmerSAAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "TJmerSAAAAAJ"
+                },
+                {
+                    "name": "K Soni",
+                    "link": "https://scholar.google.com/citations?user=7uyfIHsAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=7uyfIHsAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "7uyfIHsAAAAJ"
+                },
+                {
+                    "name": "K Meena",
+                    "link": "https://scholar.google.com/citations?user=Pyt6rOYAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Pyt6rOYAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "Pyt6rOYAAAAJ"
+                }
+            ]
+        },
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=9v7zz-mJTS4J"
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 3,
+        "title": "Satellite observations of smoke\u2013cloud\u2013radiation interactions over the Amazon rainforest",
+        "result_id": "Ppo1YI0Er1AJ",
+        "link": "https://ora.ox.ac.uk/objects/uuid:34283b6e-0168-4965-84f1-9b14f0a4d5b1",
+        "snippet": "\u2026 The AIRS daily level 3 product, AIRS3STD, is used to provide daily mean values of total column water vapour (QVcolumn), surface-level specific humidity (QVsurface), and surface-level \u2026",
+        "publication_info": {
+            "summary": "R Herbert, P Stier - Atmospheric Chemistry and Physics, 2023 - ora.ox.ac.uk",
+            "authors": [
+                {
+                    "name": "P Stier",
+                    "link": "https://scholar.google.com/citations?user=bOxQGusAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=bOxQGusAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "bOxQGusAAAAJ"
+                }
+            ]
+        },
+        "resources": [
+            {
+                "title": "ox.ac.uk",
+                "file_format": "PDF",
+                "link": "https://ora.ox.ac.uk/objects/uuid:34283b6e-0168-4965-84f1-9b14f0a4d5b1/files/rgb19f671t"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=Ppo1YI0Er1AJ",
+            "versions": {
+                "total": 5,
+                "link": "https://scholar.google.com/scholar?cluster=5813870649209625150&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "5813870649209625150",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=5813870649209625150&engine=google_scholar&hl=en&lr=lang_en"
+            },
+            "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:Ppo1YI0Er1AJ:scholar.google.com/+%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1"
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 4,
+        "title": "Long-Term Tendencies of Carbon Monoxide in the Atmosphere of the Moscow Megapolis",
+        "result_id": "EYdHuYRzhn4J",
+        "link": "https://link.springer.com/article/10.1134/S0001433821010102",
+        "snippet": "\u2026 The AIRS (Atmospheric InfraRed Sounder) spectrometer was activated on board the Aqua \u2026 each 1 \u00d7 1 cell is about 300\u2013320 for the AIRS for the middle latitudes of Eurasia. L3 CO TC \u2026",
+        "publication_info": {
+            "summary": "VS Rakitin, NF Elansky, AI Skorokhod\u2026 - \u2026 and Oceanic Physics, 2021 - Springer"
+        },
+        "resources": [
+            {
+                "title": "researchgate.net",
+                "file_format": "PDF",
+                "link": "https://www.researchgate.net/profile/V-Rakitin/publication/350017010_Russian_Text_C_The_Authors_2021_published_in_Izvestiya_Rossiiskoi_Akademii_Nauk/links/604b6905299bf13c4ffd3449/Russian-Text-C-The-Authors-2021-published-in-Izvestiya-Rossiiskoi-Akademii-Nauk.pdf"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=EYdHuYRzhn4J",
+            "cited_by": {
+                "total": 6,
+                "link": "https://scholar.google.com/scholar?cites=9117101509539497745&as_sdt=5,48&sciodt=0,48&hl=en",
+                "cites_id": "9117101509539497745",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=9117101509539497745&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:EYdHuYRzhn4J:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3AEYdHuYRzhn4J%3Ascholar.google.com%2F&start=50",
+            "versions": {
+                "total": 6,
+                "link": "https://scholar.google.com/scholar?cluster=9117101509539497745&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "9117101509539497745",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=9117101509539497745&engine=google_scholar&hl=en&lr=lang_en"
+            }
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 5,
+        "title": "Observation of Seasonal Variations of the Flux of High-Energy Atmospheric Neutrinos with IceCube",
+        "result_id": "14czS5321DEJ",
+        "link": "https://arxiv.org/abs/2303.04682",
+        "snippet": "\u2026 AIRS) instrument aboard NASA\u2019s AQUA satellite. For the observed 10% seasonal change of effective atmospheric temperature we measure a 3.5(3)% change in the muon neutrino flux. \u2026",
+        "publication_info": {
+            "summary": "R Abbasi, M Ackermann, J Adams\u2026 - arXiv preprint arXiv \u2026, 2023 - arxiv.org",
+            "authors": [
+                {
+                    "name": "R Abbasi",
+                    "link": "https://scholar.google.com/citations?user=GPpoqiYAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=GPpoqiYAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "GPpoqiYAAAAJ"
+                }
+            ]
+        },
+        "resources": [
+            {
+                "title": "arxiv.org",
+                "file_format": "PDF",
+                "link": "https://arxiv.org/pdf/2303.04682"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=14czS5321DEJ",
+            "versions": {
+                "total": 2,
+                "link": "https://scholar.google.com/scholar?cluster=3590765958353094615&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "3590765958353094615",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=3590765958353094615&engine=google_scholar&hl=en&lr=lang_en"
+            },
+            "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:14czS5321DEJ:scholar.google.com/+%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1"
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 6,
+        "title": "A Study from Space of Anomalous Variations of Various Geophysical Fields during the Preparation of a Series of Strong Earthquakes in Italy in 2016\u20132017",
+        "result_id": "5VtOT2qSQqgJ",
+        "link": "https://link.springer.com/article/10.1134/S0001433821120057",
+        "snippet": "\u2026 by the AIRS instrument (Aqua satellite) are used to analyze thermal fields. Changes in the aerosol optical-depth values are investigated using the MCD19A2 product (Terra and Aqua \u2026",
+        "publication_info": {
+            "summary": "VG Bondur, MN Tsidilina, OS Voronova\u2026 - \u2026 and Oceanic Physics, 2021 - Springer"
+        },
+        "resources": [
+            {
+                "title": "researchgate.net",
+                "file_format": "PDF",
+                "link": "https://www.researchgate.net/profile/Olga-Voronova-4/publication/359599113_A_Study_from_Space_of_Anomalous_Variations_of_Various_Geophysical_Fields_during_the_Preparation_of_a_Series_of_Strong_Earthquakes_in_Italy_in_2016-2017/links/63ca3ffcd9fb5967c2ed09a2/A-Study-from-Space-of-Anomalous-Variations-of-Various-Geophysical-Fields-during-the-Preparation-of-a-Series-of-Strong-Earthquakes-in-Italy-in-2016-2017.pdf"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=5VtOT2qSQqgJ",
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:5VtOT2qSQqgJ:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3A5VtOT2qSQqgJ%3Ascholar.google.com%2F&start=50",
+            "versions": {
+                "total": 3,
+                "link": "https://scholar.google.com/scholar?cluster=12124414132129520613&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "12124414132129520613",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=12124414132129520613&engine=google_scholar&hl=en&lr=lang_en"
+            }
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 7,
+        "title": "Subseasonal characteristics and meteorological causes of surface O3 in different East Asian summer monsoon periods over the North China Plain during 2014\u20132019",
+        "result_id": "NQwawoG7e_QJ",
+        "link": "https://www.sciencedirect.com/science/article/pii/S1352231021005264",
+        "snippet": "\u2026 Cloud fraction (CLDF) retrievals on 1 \u00d7 1 grids are from the space-borne atmospheric infrared sounder (AIRS) instrument (AIRS3STD daily product). The surface incoming shortwave \u2026",
+        "publication_info": {
+            "summary": "L Gao, T Wang, X Ren, D Ma, B Zhuang, S Li\u2026 - Atmospheric \u2026, 2021 - Elsevier"
+        },
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=NQwawoG7e_QJ",
+            "cited_by": {
+                "total": 6,
+                "link": "https://scholar.google.com/scholar?cites=17616880533371489333&as_sdt=5,48&sciodt=0,48&hl=en",
+                "cites_id": "17616880533371489333",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=17616880533371489333&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:NQwawoG7e_QJ:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3ANQwawoG7e_QJ%3Ascholar.google.com%2F&start=50",
+            "versions": {
+                "total": 3,
+                "link": "https://scholar.google.com/scholar?cluster=17616880533371489333&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "17616880533371489333",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=17616880533371489333&engine=google_scholar&hl=en&lr=lang_en"
+            }
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 8,
+        "title": "Fire prediction with logistic regression on territory of Bosnia and Herzegovina",
+        "result_id": "XBZ1ld3ZjrcJ",
+        "link": "https://iopscience.iop.org/article/10.1088/1757-899X/1208/1/012033/meta",
+        "snippet": "\u2026 model consists of three datasets acquired through NASA GESDISC Giovanni web application. Air temperature (C) and relative humidity (%) are collected from AIRS3STD dataset [6]. \u2026",
+        "publication_info": {
+            "summary": "M Musaba\u0161i\u0107, D Mu\u0161i\u0107, E Babovi\u0107 - IOP Conference Series \u2026, 2021 - iopscience.iop.org",
+            "authors": [
+                {
+                    "name": "E Babovi\u0107",
+                    "link": "https://scholar.google.com/citations?user=oEz-kSIAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=oEz-kSIAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "oEz-kSIAAAAJ"
+                }
+            ]
+        },
+        "resources": [
+            {
+                "title": "iop.org",
+                "file_format": "PDF",
+                "link": "https://iopscience.iop.org/article/10.1088/1757-899X/1208/1/012033/pdf"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=XBZ1ld3ZjrcJ",
+            "cited_by": {
+                "total": 1,
+                "link": "https://scholar.google.com/scholar?cites=13226748701352203868&as_sdt=5,48&sciodt=0,48&hl=en",
+                "cites_id": "13226748701352203868",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=13226748701352203868&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:XBZ1ld3ZjrcJ:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3AXBZ1ld3ZjrcJ%3Ascholar.google.com%2F&start=50",
+            "versions": {
+                "total": 3,
+                "link": "https://scholar.google.com/scholar?cluster=13226748701352203868&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "13226748701352203868",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=13226748701352203868&engine=google_scholar&hl=en&lr=lang_en"
+            }
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 9,
+        "title": "Assessment of gridded datasets of various near surface temperature variables over Heihe River Basin: Uncertainties, spatial heterogeneity and clear-sky bias",
+        "result_id": "bXQ0LN90JPIJ",
+        "type": "Html",
+        "link": "https://www.sciencedirect.com/science/article/pii/S1569843223001693",
+        "snippet": "\u2026 The Atmospheric Infrared Sounder (AIRS) is a grating spectrometer (R = 1200) onboard Aqua that consists of 2378 infrared channels and four visible/near-infrared channels. The AIRS \u2026",
+        "publication_info": {
+            "summary": "S Xu, D Wang, S Liang, Y Liu, A Jia - International Journal of Applied Earth \u2026, 2023 - Elsevier",
+            "authors": [
+                {
+                    "name": "D Wang",
+                    "link": "https://scholar.google.com/citations?user=eF1cEzkAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=eF1cEzkAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "eF1cEzkAAAAJ"
+                },
+                {
+                    "name": "S Liang",
+                    "link": "https://scholar.google.com/citations?user=q9X8uQ4AAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=q9X8uQ4AAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "q9X8uQ4AAAAJ"
+                },
+                {
+                    "name": "A Jia",
+                    "link": "https://scholar.google.com/citations?user=wo6b6-gAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=wo6b6-gAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "wo6b6-gAAAAJ"
+                }
+            ]
+        },
+        "resources": [
+            {
+                "title": "sciencedirect.com",
+                "file_format": "HTML",
+                "link": "https://www.sciencedirect.com/science/article/pii/S1569843223001693"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=bXQ0LN90JPIJ",
+            "html_version": "https://www.sciencedirect.com/science/article/pii/S1569843223001693"
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 0,
+        "title": "Photovoltaic energy yield predictions using satellite data",
+        "result_id": "2Y31sDXFMQ8J",
+        "link": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11366/1136609/Photovoltaic-energy-yield-predictions-using-satellite-data/10.1117/12.2557375.short",
+        "snippet": "\u2026 Insolation data used in this study is available via NASA\u2019s Clouds and the Earth\u2019s \u2026 : AIRS/Aqua L3 Daily Standard Physical Retrieval (AIRS-only) 1 degree x 1 degree V006 (AIRS3STD) \u2026",
+        "publication_info": {
+            "summary": "IM Peters, H Liu, T Buonassisi - Photonics for Solar Energy \u2026, 2020 - spiedigitallibrary.org",
+            "authors": [
+                {
+                    "name": "IM Peters",
+                    "link": "https://scholar.google.com/citations?user=KtzYIf8AAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=KtzYIf8AAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "KtzYIf8AAAAJ"
+                },
+                {
+                    "name": "H Liu",
+                    "link": "https://scholar.google.com/citations?user=ip6yKIMAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ip6yKIMAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "ip6yKIMAAAAJ"
+                },
+                {
+                    "name": "T Buonassisi",
+                    "link": "https://scholar.google.com/citations?user=JlrEuLkAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=JlrEuLkAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "JlrEuLkAAAAJ"
+                }
+            ]
+        },
+        "resources": [
+            {
+                "title": "mit.edu",
+                "file_format": "PDF",
+                "link": "https://dspace.mit.edu/bitstream/handle/1721.1/138477/1136609.pdf?sequence=2&isAllowed=y"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=2Y31sDXFMQ8J",
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:2Y31sDXFMQ8J:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3A2Y31sDXFMQ8J%3Ascholar.google.com%2F&start=60",
+            "versions": {
+                "total": 5,
+                "link": "https://scholar.google.com/scholar?cluster=1094873018820562393&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "1094873018820562393",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=1094873018820562393&engine=google_scholar&hl=en&lr=lang_en"
+            }
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 1,
+        "title": "Remote Sensing Signals of Atmospheric Physics and Chemistry Related to 2010 Yushu Ms 7.1 Earthquake\ue003\ue003",
+        "result_id": "22ehC5-0_ZwJ",
+        "link": "http://www.adearth.ac.cn/EN/Y2011/V26/I7/787",
+        "snippet": "\u2026 \u672c\u6587\u7684\u76ee\u7684\u662f\u5229\u7528 mODIs\u548c AIRs\u6570\u636e\u63d0\u53d6 2010\u5e74\u7389\u6811\u5730\u9707\u2026 AIRs\u7ed3 \u5408\u5148\u8fdb\u7684\u5fae\u6ce2\u63a2\u6d4b\u4eea(AmsU)\u53ef\u4ee5 \u63a2\u6d4b\u5927\u6c14\u4e2d\u7684\u6e29 \u5ea6\u2014\u2026 \u6570\u636e\u53ef\u5728 NAsA\u6208\u8fbe\u5fb7\u5730\u7403\u79d1\u5b66 (GEs)\u6570\u636e\u548c\u4fe1\u606f\u670d\u52a1\u4e2d\u5fc3(DIsc)\u2026",
+        "publication_info": {
+            "summary": "Y Cui, CZ Du Jianguo, J Li, C Xie, X Zhou\u2026 - Advances in Earth \u2026, 2011 - adearth.ac.cn"
+        },
+        "resources": [
+            {
+                "title": "adearth.ac.cn",
+                "file_format": "PDF",
+                "link": "http://www.adearth.ac.cn/EN/article/downloadArticleFile.do?attachType=PDF&id=1718"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=22ehC5-0_ZwJ",
+            "cited_by": {
+                "total": 10,
+                "link": "https://scholar.google.com/scholar?cites=11312396434212480987&as_sdt=5,48&sciodt=0,48&hl=en",
+                "cites_id": "11312396434212480987",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=11312396434212480987&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:22ehC5-0_ZwJ:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3A22ehC5-0_ZwJ%3Ascholar.google.com%2F&start=60",
+            "versions": {
+                "total": 2,
+                "link": "https://scholar.google.com/scholar?cluster=11312396434212480987&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "11312396434212480987",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=11312396434212480987&engine=google_scholar&hl=en&lr=lang_en"
+            },
+            "cached_page_link": "http://scholar.googleusercontent.com/scholar?q=cache:22ehC5-0_ZwJ:scholar.google.com/+%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1"
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 2,
+        "title": "Studying the Dynamics of Wildfires in Russia in 2001\u20132020 Taking into Account Climatic Factors",
+        "result_id": "pR1AhJ7G_6EJ",
+        "link": "https://link.springer.com/article/10.1134/S0001433821120239",
+        "snippet": "\u2026 This study based on space data obtained from the Terra and Aqua satellites (with a MODIS instrument) estimated the areas covered by fire, as well as the volumes of emissions of \u2026",
+        "publication_info": {
+            "summary": "OS Voronova, KA Gordo, AL Zima - Izvestiya, Atmospheric and Oceanic \u2026, 2021 - Springer"
+        },
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=pR1AhJ7G_6EJ",
+            "cited_by": {
+                "total": 1,
+                "link": "https://scholar.google.com/scholar?cites=11673267143293541797&as_sdt=5,48&sciodt=0,48&hl=en",
+                "cites_id": "11673267143293541797",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=11673267143293541797&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:pR1AhJ7G_6EJ:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3ApR1AhJ7G_6EJ%3Ascholar.google.com%2F&start=60",
+            "versions": {
+                "total": 3,
+                "link": "https://scholar.google.com/scholar?cluster=11673267143293541797&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "11673267143293541797",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=11673267143293541797&engine=google_scholar&hl=en&lr=lang_en"
+            }
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 3,
+        "title": "A full physics algorithm to retrieve nighttime sea surface temperature with IASI: Toward an independent homogeneous long time-series for climate studies",
+        "result_id": "D0en4ug0C0sJ",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0034425721005587",
+        "snippet": "\u2026 Comparisons with CrIS ans AIRS lead to stable absolute biases lower than 0.15 K. When compared to SEVIRI in the framework of the Global Space-based Inter-Calibration System (\u2026",
+        "publication_info": {
+            "summary": "V Capelle, JM Hartmann, C Crevoisier - Remote Sensing of Environment, 2022 - Elsevier",
+            "authors": [
+                {
+                    "name": "V Capelle",
+                    "link": "https://scholar.google.com/citations?user=rXI72n4AAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=rXI72n4AAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "rXI72n4AAAAJ"
+                },
+                {
+                    "name": "JM Hartmann",
+                    "link": "https://scholar.google.com/citations?user=kVkoUZQAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=kVkoUZQAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "kVkoUZQAAAAJ"
+                }
+            ]
+        },
+        "resources": [
+            {
+                "title": "sciencedirect.com",
+                "file_format": "PDF",
+                "link": "https://www.sciencedirect.com/science/article/am/pii/S0034425721005587"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=D0en4ug0C0sJ",
+            "cited_by": {
+                "total": 2,
+                "link": "https://scholar.google.com/scholar?cites=5407473952428082959&as_sdt=5,48&sciodt=0,48&hl=en",
+                "cites_id": "5407473952428082959",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=5407473952428082959&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:D0en4ug0C0sJ:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3AD0en4ug0C0sJ%3Ascholar.google.com%2F&start=60",
+            "versions": {
+                "total": 3,
+                "link": "https://scholar.google.com/scholar?cluster=5407473952428082959&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "5407473952428082959",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=5407473952428082959&engine=google_scholar&hl=en&lr=lang_en"
+            }
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 4,
+        "title": "Impacts of COVID-19 on air quality in India",
+        "result_id": "DwSpeD9a6G4J",
+        "type": "Pdf",
+        "link": "https://aaqr.org/articles/aaqr-20-07-covid-0482.pdf",
+        "snippet": "\u2026 We would like to thank NASA\u2019s GIOVANNI for allowing us to plot visual maps of AOD, NO2, CO, and SO2, and the CPCB for making available air quality data online. We are thankful to \u2026",
+        "publication_info": {
+            "summary": "RL Verma, JS Kamyotra - Aerosol and Air Quality Research, 2021 - aaqr.org",
+            "authors": [
+                {
+                    "name": "RL Verma",
+                    "link": "https://scholar.google.com/citations?user=uBwF7eYAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=uBwF7eYAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "uBwF7eYAAAAJ"
+                }
+            ]
+        },
+        "resources": [
+            {
+                "title": "aaqr.org",
+                "file_format": "PDF",
+                "link": "https://aaqr.org/articles/aaqr-20-07-covid-0482.pdf"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=DwSpeD9a6G4J",
+            "cited_by": {
+                "total": 14,
+                "link": "https://scholar.google.com/scholar?cites=7991736767422727183&as_sdt=5,48&sciodt=0,48&hl=en",
+                "cites_id": "7991736767422727183",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=7991736767422727183&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:DwSpeD9a6G4J:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3ADwSpeD9a6G4J%3Ascholar.google.com%2F&start=60",
+            "versions": {
+                "total": 10,
+                "link": "https://scholar.google.com/scholar?cluster=7991736767422727183&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "7991736767422727183",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=7991736767422727183&engine=google_scholar&hl=en&lr=lang_en"
+            },
+            "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:DwSpeD9a6G4J:scholar.google.com/+%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1"
+        },
+        "ESDT": "AIRS3STD"
+    },
+    {
+        "position": 5,
+        "title": "Radiometric calibration of a non-imaging airborne spectrometer to measure the Greenland Ice Sheet surface",
+        "result_id": "A6O2v6kb80EJ",
+        "type": "Pdf",
+        "link": "https://pdfs.semanticscholar.org/833d/309e7b37abb87c1200dab2a244d3708a7ae4.pdf",
+        "snippet": "\u2026 experiment on the roof of Building 33 at NASA GSFC. The exact roof location was adjacent \u2026 We were able to identify that the MODIS Aqua Low Mean atmospheric water vapor product is \u2026",
+        "publication_info": {
+            "summary": "TM Cleckner10 - pdfs.semanticscholar.org"
+        },
+        "resources": [
+            {
+                "title": "semanticscholar.org",
+                "file_format": "PDF",
+                "link": "https://pdfs.semanticscholar.org/833d/309e7b37abb87c1200dab2a244d3708a7ae4.pdf"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=A6O2v6kb80EJ",
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:A6O2v6kb80EJ:scholar.google.com/&scioq=%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&engine=google_scholar&hl=en&lr=lang_en&q=related%3AA6O2v6kb80EJ%3Ascholar.google.com%2F&start=60",
+            "versions": {
+                "total": 2,
+                "link": "https://scholar.google.com/scholar?cluster=4752172447685845763&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1",
+                "cluster_id": "4752172447685845763",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&as_vis=1&cluster=4752172447685845763&engine=google_scholar&hl=en&lr=lang_en"
+            },
+            "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:A6O2v6kb80EJ:scholar.google.com/+%22AIRS3STD%22+(+%22Aqua%22+%7C+%22AIRS%22+%7C+%22Aqua%22+)+%22NASA%22&hl=en&lr=lang_en&as_sdt=0,48&as_vis=1"
+        },
+        "ESDT": "AIRS3STD"
+    }
+]
