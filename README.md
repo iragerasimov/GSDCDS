@@ -52,7 +52,7 @@ Takes as input data/google_organic_results_by_doi.json or data/google_organic_re
 python gscholar_citations.py
 ```
 ### Process Google Scholar URLs using Zotero Translation server to map Google Scholar URLs to citations
-Takes as input either data/google_citations_by_doi.json or data/google_citations_by_esdt.json and outputs data/zotero_citations_by_doi.json or data/zotero_citations_by_esdt.json. The script obtains Zotero content for each URL and extracts document DOI from it. Then it removes citations for which DOIs cannot be found and combines duplicate entries that have the same document DOI. For each citation Crossref is queried to obtain document type and then removes the citations with undesired document types (specified in the script). Finally, fo the citations that miss the publication year, the year is obtained by Crossref query.
+Takes as input either data/google_citations_by_doi.json or data/google_citations_by_esdt.json and outputs data/zotero_citations_by_doi.json or data/zotero_citations_by_esdt.json. The script obtains Zotero content for each URL and extracts document DOI from it. Then it removes citations for which DOIs cannot be found and combines duplicate entries that have the same document DOI. For each citation Crossref is queried to obtain document type and then removes the citations with undesired document types (specified in the script). Finally, for the citations that miss the publication year, the year is obtained by Crossref query.
 ```
 python zotero_citations.py
 ```
