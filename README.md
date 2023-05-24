@@ -32,7 +32,7 @@ Once document citation is obtained, its DOI is used as a unique key for the docu
 
 ## Tool execution sequence:
 
-### Create search terms for GScholar search by ESDT and metadata keywords
+### Create search terms for Google Scholar search by dataset ESDT and metadata keywords
 
 Expects collection metadata in CMR/ directory pulled from [CMR API](https://cmr.earthdata.nasa.gov/search/site/docs/search/api.html). Creates data/gscholar_search_terms.json which is further used by GScholar search by keywords.
 ```
