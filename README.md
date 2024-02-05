@@ -7,7 +7,6 @@ This tool is used to obtain citations of published documents (journal and procee
 The following paper contains details on how this tool is used at NASA GES DISC to collect publications linked to GES DISC datasets:
 Gerasimov, I., Savtchenko, A., Alfred, J., Acker, J., Wei, J., & Binita, K. C. (2024). Bridging the Gap: Enhancing Prominence and Provenance of NASA Datasets in Research Publications. Data Science Journal, 23(1). https://doi.org/10.5334/dsj-2024-001
 
-
 Dataset metadata keywords always contain dataset unique name, called Earth Science Data Type (ESDT), see [EOSDIS Glossary](https://www.earthdata.nasa.gov/learn/glossary). ESDT and dataset Version identify unique dataset collection, which is assigned a DOI. When GScholar is searched by ESDT, the document citation is linked to that ESDT, which in turn can be linked to any combination of ESDT and Version (unless the document is examined to determine exact dataset version used in it).
 
 GScholar is searched by the means of [SerpAPI](https://serpapi.com/). To use SerpAPI one would need a subscription that in turn provides key for API access.
